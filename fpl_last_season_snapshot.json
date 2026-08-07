@@ -1,0 +1,3422 @@
+{
+  "1": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 37,
+    "recoveries": 304,
+    "starts": 37
+  },
+  "2": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 3,
+    "recoveries": 8,
+    "starts": 1
+  },
+  "3": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "4": {
+    "tackles": 38,
+    "clearances_blocks_interceptions": 239,
+    "recoveries": 64,
+    "starts": 30
+  },
+  "5": {
+    "tackles": 66,
+    "clearances_blocks_interceptions": 82,
+    "recoveries": 97,
+    "starts": 28
+  },
+  "6": {
+    "tackles": 35,
+    "clearances_blocks_interceptions": 158,
+    "recoveries": 113,
+    "starts": 30
+  },
+  "7": {
+    "tackles": 8,
+    "clearances_blocks_interceptions": 17,
+    "recoveries": 30,
+    "starts": 5
+  },
+  "8": {
+    "tackles": 32,
+    "clearances_blocks_interceptions": 70,
+    "recoveries": 74,
+    "starts": 22
+  },
+  "9": {
+    "tackles": 48,
+    "clearances_blocks_interceptions": 123,
+    "recoveries": 63,
+    "starts": 20
+  },
+  "10": {
+    "tackles": 15,
+    "clearances_blocks_interceptions": 38,
+    "recoveries": 28,
+    "starts": 9
+  },
+  "11": {
+    "tackles": 32,
+    "clearances_blocks_interceptions": 63,
+    "recoveries": 35,
+    "starts": 9
+  },
+  "12": {
+    "tackles": 40,
+    "clearances_blocks_interceptions": 28,
+    "recoveries": 116,
+    "starts": 25
+  },
+  "13": {
+    "tackles": 69,
+    "clearances_blocks_interceptions": 127,
+    "recoveries": 180,
+    "starts": 35
+  },
+  "14": {
+    "tackles": 19,
+    "clearances_blocks_interceptions": 22,
+    "recoveries": 79,
+    "starts": 22
+  },
+  "15": {
+    "tackles": 19,
+    "clearances_blocks_interceptions": 13,
+    "recoveries": 70,
+    "starts": 16
+  },
+  "16": {
+    "tackles": 21,
+    "clearances_blocks_interceptions": 14,
+    "recoveries": 35,
+    "starts": 16
+  },
+  "17": {
+    "tackles": 26,
+    "clearances_blocks_interceptions": 30,
+    "recoveries": 57,
+    "starts": 10
+  },
+  "18": {
+    "tackles": 12,
+    "clearances_blocks_interceptions": 13,
+    "recoveries": 52,
+    "starts": 11
+  },
+  "19": {
+    "tackles": 68,
+    "clearances_blocks_interceptions": 123,
+    "recoveries": 116,
+    "starts": 34
+  },
+  "20": {
+    "tackles": 2,
+    "clearances_blocks_interceptions": 1,
+    "recoveries": 13,
+    "starts": 1
+  },
+  "21": {
+    "tackles": 3,
+    "clearances_blocks_interceptions": 9,
+    "recoveries": 4,
+    "starts": 1
+  },
+  "22": {
+    "tackles": 2,
+    "clearances_blocks_interceptions": 1,
+    "recoveries": 10,
+    "starts": 0
+  },
+  "23": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "24": {
+    "tackles": 4,
+    "clearances_blocks_interceptions": 3,
+    "recoveries": 16,
+    "starts": 0
+  },
+  "25": {
+    "tackles": 7,
+    "clearances_blocks_interceptions": 23,
+    "recoveries": 55,
+    "starts": 26
+  },
+  "26": {
+    "tackles": 8,
+    "clearances_blocks_interceptions": 10,
+    "recoveries": 14,
+    "starts": 7
+  },
+  "27": {
+    "tackles": 4,
+    "clearances_blocks_interceptions": 7,
+    "recoveries": 19,
+    "starts": 3
+  },
+  "557": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "28": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 27,
+    "recoveries": 272,
+    "starts": 32
+  },
+  "29": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 10,
+    "recoveries": 53,
+    "starts": 6
+  },
+  "30": {
+    "tackles": 36,
+    "clearances_blocks_interceptions": 77,
+    "recoveries": 63,
+    "starts": 21
+  },
+  "31": {
+    "tackles": 22,
+    "clearances_blocks_interceptions": 174,
+    "recoveries": 108,
+    "starts": 34
+  },
+  "32": {
+    "tackles": 66,
+    "clearances_blocks_interceptions": 120,
+    "recoveries": 88,
+    "starts": 34
+  },
+  "33": {
+    "tackles": 5,
+    "clearances_blocks_interceptions": 102,
+    "recoveries": 47,
+    "starts": 15
+  },
+  "34": {
+    "tackles": 22,
+    "clearances_blocks_interceptions": 90,
+    "recoveries": 79,
+    "starts": 18
+  },
+  "35": {
+    "tackles": 26,
+    "clearances_blocks_interceptions": 34,
+    "recoveries": 43,
+    "starts": 11
+  },
+  "36": {
+    "tackles": 43,
+    "clearances_blocks_interceptions": 85,
+    "recoveries": 82,
+    "starts": 17
+  },
+  "37": {
+    "tackles": 7,
+    "clearances_blocks_interceptions": 47,
+    "recoveries": 19,
+    "starts": 11
+  },
+  "38": {
+    "tackles": 5,
+    "clearances_blocks_interceptions": 5,
+    "recoveries": 4,
+    "starts": 1
+  },
+  "39": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "41": {
+    "tackles": 49,
+    "clearances_blocks_interceptions": 39,
+    "recoveries": 109,
+    "starts": 21
+  },
+  "42": {
+    "tackles": 24,
+    "clearances_blocks_interceptions": 16,
+    "recoveries": 43,
+    "starts": 9
+  },
+  "44": {
+    "tackles": 10,
+    "clearances_blocks_interceptions": 7,
+    "recoveries": 31,
+    "starts": 3
+  },
+  "45": {
+    "tackles": 29,
+    "clearances_blocks_interceptions": 32,
+    "recoveries": 89,
+    "starts": 28
+  },
+  "46": {
+    "tackles": 14,
+    "clearances_blocks_interceptions": 15,
+    "recoveries": 45,
+    "starts": 7
+  },
+  "47": {
+    "tackles": 38,
+    "clearances_blocks_interceptions": 46,
+    "recoveries": 65,
+    "starts": 17
+  },
+  "48": {
+    "tackles": 48,
+    "clearances_blocks_interceptions": 99,
+    "recoveries": 72,
+    "starts": 21
+  },
+  "49": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "50": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 1,
+    "starts": 0
+  },
+  "51": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 1,
+    "starts": 0
+  },
+  "52": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 1,
+    "recoveries": 3,
+    "starts": 0
+  },
+  "53": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "54": {
+    "tackles": 107,
+    "clearances_blocks_interceptions": 87,
+    "recoveries": 193,
+    "starts": 25
+  },
+  "55": {
+    "tackles": 22,
+    "clearances_blocks_interceptions": 23,
+    "recoveries": 49,
+    "starts": 33
+  },
+  "56": {
+    "tackles": 4,
+    "clearances_blocks_interceptions": 3,
+    "recoveries": 6,
+    "starts": 2
+  },
+  "160": {
+    "tackles": 16,
+    "clearances_blocks_interceptions": 10,
+    "recoveries": 45,
+    "starts": 14
+  },
+  "57": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 62,
+    "recoveries": 285,
+    "starts": 38
+  },
+  "58": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "59": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "60": {
+    "tackles": 39,
+    "clearances_blocks_interceptions": 221,
+    "recoveries": 74,
+    "starts": 22
+  },
+  "61": {
+    "tackles": 102,
+    "clearances_blocks_interceptions": 199,
+    "recoveries": 188,
+    "starts": 38
+  },
+  "62": {
+    "tackles": 20,
+    "clearances_blocks_interceptions": 97,
+    "recoveries": 48,
+    "starts": 15
+  },
+  "63": {
+    "tackles": 5,
+    "clearances_blocks_interceptions": 34,
+    "recoveries": 13,
+    "starts": 4
+  },
+  "64": {
+    "tackles": 15,
+    "clearances_blocks_interceptions": 55,
+    "recoveries": 29,
+    "starts": 14
+  },
+  "65": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "66": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 4,
+    "starts": 0
+  },
+  "67": {
+    "tackles": 11,
+    "clearances_blocks_interceptions": 28,
+    "recoveries": 43,
+    "starts": 13
+  },
+  "68": {
+    "tackles": 39,
+    "clearances_blocks_interceptions": 62,
+    "recoveries": 150,
+    "starts": 31
+  },
+  "69": {
+    "tackles": 60,
+    "clearances_blocks_interceptions": 133,
+    "recoveries": 193,
+    "starts": 34
+  },
+  "70": {
+    "tackles": 10,
+    "clearances_blocks_interceptions": 9,
+    "recoveries": 46,
+    "starts": 10
+  },
+  "71": {
+    "tackles": 25,
+    "clearances_blocks_interceptions": 56,
+    "recoveries": 62,
+    "starts": 8
+  },
+  "72": {
+    "tackles": 6,
+    "clearances_blocks_interceptions": 1,
+    "recoveries": 6,
+    "starts": 0
+  },
+  "73": {
+    "tackles": 53,
+    "clearances_blocks_interceptions": 83,
+    "recoveries": 96,
+    "starts": 21
+  },
+  "74": {
+    "tackles": 19,
+    "clearances_blocks_interceptions": 19,
+    "recoveries": 56,
+    "starts": 13
+  },
+  "75": {
+    "tackles": 27,
+    "clearances_blocks_interceptions": 34,
+    "recoveries": 62,
+    "starts": 9
+  },
+  "76": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 8,
+    "recoveries": 8,
+    "starts": 2
+  },
+  "77": {
+    "tackles": 36,
+    "clearances_blocks_interceptions": 26,
+    "recoveries": 61,
+    "starts": 10
+  },
+  "78": {
+    "tackles": 9,
+    "clearances_blocks_interceptions": 42,
+    "recoveries": 61,
+    "starts": 21
+  },
+  "79": {
+    "tackles": 13,
+    "clearances_blocks_interceptions": 42,
+    "recoveries": 80,
+    "starts": 32
+  },
+  "80": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 15,
+    "recoveries": 7,
+    "starts": 0
+  },
+  "81": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "566": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "82": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 48,
+    "recoveries": 301,
+    "starts": 37
+  },
+  "83": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 7,
+    "starts": 1
+  },
+  "84": {
+    "tackles": 32,
+    "clearances_blocks_interceptions": 287,
+    "recoveries": 139,
+    "starts": 32
+  },
+  "85": {
+    "tackles": 23,
+    "clearances_blocks_interceptions": 249,
+    "recoveries": 109,
+    "starts": 30
+  },
+  "86": {
+    "tackles": 23,
+    "clearances_blocks_interceptions": 51,
+    "recoveries": 96,
+    "starts": 22
+  },
+  "87": {
+    "tackles": 37,
+    "clearances_blocks_interceptions": 155,
+    "recoveries": 59,
+    "starts": 20
+  },
+  "88": {
+    "tackles": 68,
+    "clearances_blocks_interceptions": 151,
+    "recoveries": 163,
+    "starts": 37
+  },
+  "89": {
+    "tackles": 15,
+    "clearances_blocks_interceptions": 53,
+    "recoveries": 72,
+    "starts": 14
+  },
+  "90": {
+    "tackles": 15,
+    "clearances_blocks_interceptions": 36,
+    "recoveries": 35,
+    "starts": 8
+  },
+  "91": {
+    "tackles": 5,
+    "clearances_blocks_interceptions": 37,
+    "recoveries": 11,
+    "starts": 4
+  },
+  "92": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "93": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "94": {
+    "tackles": 42,
+    "clearances_blocks_interceptions": 54,
+    "recoveries": 94,
+    "starts": 32
+  },
+  "95": {
+    "tackles": 24,
+    "clearances_blocks_interceptions": 76,
+    "recoveries": 85,
+    "starts": 25
+  },
+  "96": {
+    "tackles": 57,
+    "clearances_blocks_interceptions": 45,
+    "recoveries": 139,
+    "starts": 24
+  },
+  "97": {
+    "tackles": 40,
+    "clearances_blocks_interceptions": 62,
+    "recoveries": 118,
+    "starts": 26
+  },
+  "98": {
+    "tackles": 27,
+    "clearances_blocks_interceptions": 71,
+    "recoveries": 85,
+    "starts": 15
+  },
+  "99": {
+    "tackles": 2,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 2,
+    "starts": 1
+  },
+  "100": {
+    "tackles": 3,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 5,
+    "starts": 1
+  },
+  "102": {
+    "tackles": 69,
+    "clearances_blocks_interceptions": 83,
+    "recoveries": 186,
+    "starts": 30
+  },
+  "103": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 1,
+    "starts": 0
+  },
+  "105": {
+    "tackles": 42,
+    "clearances_blocks_interceptions": 49,
+    "recoveries": 141,
+    "starts": 0
+  },
+  "106": {
+    "tackles": 37,
+    "clearances_blocks_interceptions": 84,
+    "recoveries": 93,
+    "starts": 37
+  },
+  "107": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "108": {
+    "tackles": 4,
+    "clearances_blocks_interceptions": 10,
+    "recoveries": 27,
+    "starts": 0
+  },
+  "565": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "109": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 32,
+    "recoveries": 332,
+    "starts": 38
+  },
+  "111": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "113": {
+    "tackles": 57,
+    "clearances_blocks_interceptions": 113,
+    "recoveries": 130,
+    "starts": 34
+  },
+  "114": {
+    "tackles": 16,
+    "clearances_blocks_interceptions": 62,
+    "recoveries": 54,
+    "starts": 9
+  },
+  "115": {
+    "tackles": 22,
+    "clearances_blocks_interceptions": 42,
+    "recoveries": 68,
+    "starts": 17
+  },
+  "116": {
+    "tackles": 35,
+    "clearances_blocks_interceptions": 196,
+    "recoveries": 135,
+    "starts": 31
+  },
+  "117": {
+    "tackles": 2,
+    "clearances_blocks_interceptions": 16,
+    "recoveries": 6,
+    "starts": 2
+  },
+  "118": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 13,
+    "recoveries": 3,
+    "starts": 1
+  },
+  "119": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "120": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "121": {
+    "tackles": 18,
+    "clearances_blocks_interceptions": 27,
+    "recoveries": 62,
+    "starts": 19
+  },
+  "122": {
+    "tackles": 56,
+    "clearances_blocks_interceptions": 33,
+    "recoveries": 96,
+    "starts": 26
+  },
+  "123": {
+    "tackles": 18,
+    "clearances_blocks_interceptions": 35,
+    "recoveries": 61,
+    "starts": 20
+  },
+  "124": {
+    "tackles": 29,
+    "clearances_blocks_interceptions": 40,
+    "recoveries": 76,
+    "starts": 18
+  },
+  "125": {
+    "tackles": 32,
+    "clearances_blocks_interceptions": 38,
+    "recoveries": 61,
+    "starts": 20
+  },
+  "126": {
+    "tackles": 5,
+    "clearances_blocks_interceptions": 3,
+    "recoveries": 2,
+    "starts": 2
+  },
+  "127": {
+    "tackles": 77,
+    "clearances_blocks_interceptions": 49,
+    "recoveries": 112,
+    "starts": 26
+  },
+  "128": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 2,
+    "recoveries": 3,
+    "starts": 1
+  },
+  "129": {
+    "tackles": 47,
+    "clearances_blocks_interceptions": 54,
+    "recoveries": 124,
+    "starts": 20
+  },
+  "130": {
+    "tackles": 66,
+    "clearances_blocks_interceptions": 101,
+    "recoveries": 102,
+    "starts": 23
+  },
+  "131": {
+    "tackles": 37,
+    "clearances_blocks_interceptions": 67,
+    "recoveries": 105,
+    "starts": 23
+  },
+  "132": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 3,
+    "recoveries": 3,
+    "starts": 1
+  },
+  "133": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 4,
+    "starts": 0
+  },
+  "134": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "135": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "137": {
+    "tackles": 3,
+    "clearances_blocks_interceptions": 2,
+    "recoveries": 10,
+    "starts": 1
+  },
+  "138": {
+    "tackles": 11,
+    "clearances_blocks_interceptions": 5,
+    "recoveries": 25,
+    "starts": 2
+  },
+  "139": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "328": {
+    "tackles": 39,
+    "clearances_blocks_interceptions": 258,
+    "recoveries": 117,
+    "starts": 33
+  },
+  "504": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "40": {
+    "tackles": 42,
+    "clearances_blocks_interceptions": 49,
+    "recoveries": 139,
+    "starts": 37
+  },
+  "101": {
+    "tackles": 27,
+    "clearances_blocks_interceptions": 58,
+    "recoveries": 98,
+    "starts": 22
+  },
+  "136": {
+    "tackles": 24,
+    "clearances_blocks_interceptions": 39,
+    "recoveries": 49,
+    "starts": 26
+  },
+  "140": {
+    "tackles": 2,
+    "clearances_blocks_interceptions": 27,
+    "recoveries": 302,
+    "starts": 35
+  },
+  "141": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 3,
+    "recoveries": 34,
+    "starts": 3
+  },
+  "142": {
+    "tackles": 48,
+    "clearances_blocks_interceptions": 80,
+    "recoveries": 101,
+    "starts": 20
+  },
+  "143": {
+    "tackles": 35,
+    "clearances_blocks_interceptions": 230,
+    "recoveries": 119,
+    "starts": 31
+  },
+  "144": {
+    "tackles": 52,
+    "clearances_blocks_interceptions": 74,
+    "recoveries": 123,
+    "starts": 26
+  },
+  "145": {
+    "tackles": 19,
+    "clearances_blocks_interceptions": 187,
+    "recoveries": 81,
+    "starts": 20
+  },
+  "146": {
+    "tackles": 7,
+    "clearances_blocks_interceptions": 41,
+    "recoveries": 16,
+    "starts": 6
+  },
+  "147": {
+    "tackles": 17,
+    "clearances_blocks_interceptions": 80,
+    "recoveries": 22,
+    "starts": 8
+  },
+  "148": {
+    "tackles": 36,
+    "clearances_blocks_interceptions": 63,
+    "recoveries": 50,
+    "starts": 12
+  },
+  "149": {
+    "tackles": 3,
+    "clearances_blocks_interceptions": 22,
+    "recoveries": 9,
+    "starts": 2
+  },
+  "150": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 7,
+    "recoveries": 2,
+    "starts": 1
+  },
+  "151": {
+    "tackles": 11,
+    "clearances_blocks_interceptions": 33,
+    "recoveries": 26,
+    "starts": 8
+  },
+  "152": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "153": {
+    "tackles": 14,
+    "clearances_blocks_interceptions": 74,
+    "recoveries": 32,
+    "starts": 0
+  },
+  "154": {
+    "tackles": 25,
+    "clearances_blocks_interceptions": 27,
+    "recoveries": 83,
+    "starts": 24
+  },
+  "155": {
+    "tackles": 53,
+    "clearances_blocks_interceptions": 51,
+    "recoveries": 140,
+    "starts": 35
+  },
+  "156": {
+    "tackles": 19,
+    "clearances_blocks_interceptions": 19,
+    "recoveries": 84,
+    "starts": 30
+  },
+  "157": {
+    "tackles": 11,
+    "clearances_blocks_interceptions": 9,
+    "recoveries": 36,
+    "starts": 12
+  },
+  "158": {
+    "tackles": 8,
+    "clearances_blocks_interceptions": 6,
+    "recoveries": 15,
+    "starts": 5
+  },
+  "159": {
+    "tackles": 87,
+    "clearances_blocks_interceptions": 102,
+    "recoveries": 177,
+    "starts": 32
+  },
+  "161": {
+    "tackles": 8,
+    "clearances_blocks_interceptions": 9,
+    "recoveries": 20,
+    "starts": 4
+  },
+  "163": {
+    "tackles": 6,
+    "clearances_blocks_interceptions": 1,
+    "recoveries": 1,
+    "starts": 0
+  },
+  "164": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "165": {
+    "tackles": 27,
+    "clearances_blocks_interceptions": 39,
+    "recoveries": 72,
+    "starts": 31
+  },
+  "166": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "167": {
+    "tackles": 5,
+    "clearances_blocks_interceptions": 12,
+    "recoveries": 25,
+    "starts": 12
+  },
+  "168": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 4,
+    "recoveries": 4,
+    "starts": 1
+  },
+  "169": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 1,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "170": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "200": {
+    "tackles": 60,
+    "clearances_blocks_interceptions": 310,
+    "recoveries": 96,
+    "starts": 35
+  },
+  "560": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "561": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "568": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "104": {
+    "tackles": 2,
+    "clearances_blocks_interceptions": 3,
+    "recoveries": 5,
+    "starts": 0
+  },
+  "110": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "171": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "172": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "173": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "174": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "175": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "176": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "177": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "178": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "179": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "180": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "181": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "182": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "183": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "184": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "185": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "186": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "187": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "188": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "189": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "190": {
+    "tackles": 18,
+    "clearances_blocks_interceptions": 13,
+    "recoveries": 38,
+    "starts": 0
+  },
+  "191": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "192": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "193": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "194": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "195": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "196": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "197": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "198": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 55,
+    "recoveries": 298,
+    "starts": 37
+  },
+  "199": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 1,
+    "recoveries": 9,
+    "starts": 1
+  },
+  "201": {
+    "tackles": 72,
+    "clearances_blocks_interceptions": 124,
+    "recoveries": 97,
+    "starts": 29
+  },
+  "202": {
+    "tackles": 54,
+    "clearances_blocks_interceptions": 257,
+    "recoveries": 65,
+    "starts": 31
+  },
+  "203": {
+    "tackles": 40,
+    "clearances_blocks_interceptions": 129,
+    "recoveries": 54,
+    "starts": 14
+  },
+  "204": {
+    "tackles": 100,
+    "clearances_blocks_interceptions": 145,
+    "recoveries": 187,
+    "starts": 36
+  },
+  "205": {
+    "tackles": 3,
+    "clearances_blocks_interceptions": 6,
+    "recoveries": 3,
+    "starts": 0
+  },
+  "206": {
+    "tackles": 8,
+    "clearances_blocks_interceptions": 37,
+    "recoveries": 32,
+    "starts": 6
+  },
+  "207": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "208": {
+    "tackles": 18,
+    "clearances_blocks_interceptions": 40,
+    "recoveries": 79,
+    "starts": 24
+  },
+  "209": {
+    "tackles": 29,
+    "clearances_blocks_interceptions": 37,
+    "recoveries": 55,
+    "starts": 19
+  },
+  "210": {
+    "tackles": 70,
+    "clearances_blocks_interceptions": 70,
+    "recoveries": 163,
+    "starts": 29
+  },
+  "211": {
+    "tackles": 36,
+    "clearances_blocks_interceptions": 30,
+    "recoveries": 101,
+    "starts": 26
+  },
+  "212": {
+    "tackles": 28,
+    "clearances_blocks_interceptions": 54,
+    "recoveries": 66,
+    "starts": 19
+  },
+  "213": {
+    "tackles": 28,
+    "clearances_blocks_interceptions": 90,
+    "recoveries": 102,
+    "starts": 18
+  },
+  "214": {
+    "tackles": 62,
+    "clearances_blocks_interceptions": 38,
+    "recoveries": 108,
+    "starts": 22
+  },
+  "215": {
+    "tackles": 25,
+    "clearances_blocks_interceptions": 13,
+    "recoveries": 34,
+    "starts": 7
+  },
+  "216": {
+    "tackles": 3,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 2,
+    "starts": 0
+  },
+  "217": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "218": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "219": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "220": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 2,
+    "recoveries": 4,
+    "starts": 1
+  },
+  "221": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 2,
+    "starts": 0
+  },
+  "222": {
+    "tackles": 9,
+    "clearances_blocks_interceptions": 49,
+    "recoveries": 37,
+    "starts": 26
+  },
+  "223": {
+    "tackles": 10,
+    "clearances_blocks_interceptions": 58,
+    "recoveries": 57,
+    "starts": 25
+  },
+  "224": {
+    "tackles": 8,
+    "clearances_blocks_interceptions": 13,
+    "recoveries": 17,
+    "starts": 2
+  },
+  "225": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 3,
+    "recoveries": 9,
+    "starts": 0
+  },
+  "555": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "226": {
+    "tackles": 2,
+    "clearances_blocks_interceptions": 52,
+    "recoveries": 313,
+    "starts": 38
+  },
+  "227": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "228": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "229": {
+    "tackles": 51,
+    "clearances_blocks_interceptions": 325,
+    "recoveries": 90,
+    "starts": 37
+  },
+  "230": {
+    "tackles": 14,
+    "clearances_blocks_interceptions": 53,
+    "recoveries": 30,
+    "starts": 7
+  },
+  "231": {
+    "tackles": 37,
+    "clearances_blocks_interceptions": 265,
+    "recoveries": 87,
+    "starts": 29
+  },
+  "232": {
+    "tackles": 57,
+    "clearances_blocks_interceptions": 174,
+    "recoveries": 114,
+    "starts": 35
+  },
+  "233": {
+    "tackles": 48,
+    "clearances_blocks_interceptions": 183,
+    "recoveries": 107,
+    "starts": 33
+  },
+  "234": {
+    "tackles": 10,
+    "clearances_blocks_interceptions": 21,
+    "recoveries": 14,
+    "starts": 3
+  },
+  "235": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "236": {
+    "tackles": 52,
+    "clearances_blocks_interceptions": 44,
+    "recoveries": 134,
+    "starts": 30
+  },
+  "237": {
+    "tackles": 67,
+    "clearances_blocks_interceptions": 38,
+    "recoveries": 178,
+    "starts": 32
+  },
+  "239": {
+    "tackles": 119,
+    "clearances_blocks_interceptions": 154,
+    "recoveries": 185,
+    "starts": 38
+  },
+  "240": {
+    "tackles": 68,
+    "clearances_blocks_interceptions": 43,
+    "recoveries": 78,
+    "starts": 17
+  },
+  "241": {
+    "tackles": 23,
+    "clearances_blocks_interceptions": 26,
+    "recoveries": 62,
+    "starts": 14
+  },
+  "242": {
+    "tackles": 7,
+    "clearances_blocks_interceptions": 2,
+    "recoveries": 14,
+    "starts": 1
+  },
+  "243": {
+    "tackles": 14,
+    "clearances_blocks_interceptions": 13,
+    "recoveries": 43,
+    "starts": 6
+  },
+  "244": {
+    "tackles": 13,
+    "clearances_blocks_interceptions": 13,
+    "recoveries": 24,
+    "starts": 6
+  },
+  "245": {
+    "tackles": 7,
+    "clearances_blocks_interceptions": 11,
+    "recoveries": 22,
+    "starts": 4
+  },
+  "246": {
+    "tackles": 25,
+    "clearances_blocks_interceptions": 15,
+    "recoveries": 28,
+    "starts": 6
+  },
+  "247": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "248": {
+    "tackles": 14,
+    "clearances_blocks_interceptions": 49,
+    "recoveries": 26,
+    "starts": 17
+  },
+  "249": {
+    "tackles": 6,
+    "clearances_blocks_interceptions": 34,
+    "recoveries": 34,
+    "starts": 21
+  },
+  "250": {
+    "tackles": 4,
+    "clearances_blocks_interceptions": 46,
+    "recoveries": 318,
+    "starts": 38
+  },
+  "251": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "252": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "253": {
+    "tackles": 45,
+    "clearances_blocks_interceptions": 284,
+    "recoveries": 114,
+    "starts": 33
+  },
+  "254": {
+    "tackles": 48,
+    "clearances_blocks_interceptions": 88,
+    "recoveries": 98,
+    "starts": 17
+  },
+  "255": {
+    "tackles": 16,
+    "clearances_blocks_interceptions": 101,
+    "recoveries": 40,
+    "starts": 11
+  },
+  "256": {
+    "tackles": 65,
+    "clearances_blocks_interceptions": 100,
+    "recoveries": 82,
+    "starts": 21
+  },
+  "257": {
+    "tackles": 62,
+    "clearances_blocks_interceptions": 143,
+    "recoveries": 119,
+    "starts": 28
+  },
+  "258": {
+    "tackles": 40,
+    "clearances_blocks_interceptions": 106,
+    "recoveries": 56,
+    "starts": 20
+  },
+  "261": {
+    "tackles": 27,
+    "clearances_blocks_interceptions": 35,
+    "recoveries": 126,
+    "starts": 29
+  },
+  "262": {
+    "tackles": 35,
+    "clearances_blocks_interceptions": 42,
+    "recoveries": 71,
+    "starts": 22
+  },
+  "263": {
+    "tackles": 21,
+    "clearances_blocks_interceptions": 17,
+    "recoveries": 48,
+    "starts": 9
+  },
+  "264": {
+    "tackles": 21,
+    "clearances_blocks_interceptions": 12,
+    "recoveries": 43,
+    "starts": 11
+  },
+  "265": {
+    "tackles": 57,
+    "clearances_blocks_interceptions": 91,
+    "recoveries": 132,
+    "starts": 34
+  },
+  "266": {
+    "tackles": 7,
+    "clearances_blocks_interceptions": 12,
+    "recoveries": 42,
+    "starts": 6
+  },
+  "267": {
+    "tackles": 49,
+    "clearances_blocks_interceptions": 63,
+    "recoveries": 71,
+    "starts": 20
+  },
+  "268": {
+    "tackles": 26,
+    "clearances_blocks_interceptions": 22,
+    "recoveries": 59,
+    "starts": 15
+  },
+  "269": {
+    "tackles": 48,
+    "clearances_blocks_interceptions": 96,
+    "recoveries": 74,
+    "starts": 20
+  },
+  "270": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 1,
+    "recoveries": 5,
+    "starts": 1
+  },
+  "271": {
+    "tackles": 8,
+    "clearances_blocks_interceptions": 29,
+    "recoveries": 15,
+    "starts": 10
+  },
+  "272": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 4,
+    "starts": 0
+  },
+  "569": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "570": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "273": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "274": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "275": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "276": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "277": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "278": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "279": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "280": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "281": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "282": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "283": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "284": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "285": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "286": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "287": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "288": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "289": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "290": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "291": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "292": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "293": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "294": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "295": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "296": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "297": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "298": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "299": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "556": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "563": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "259": {
+    "tackles": 6,
+    "clearances_blocks_interceptions": 55,
+    "recoveries": 19,
+    "starts": 8
+  },
+  "300": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "301": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "302": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "303": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "304": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "305": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "306": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "307": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "308": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "309": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "310": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "311": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "312": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "313": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "314": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "315": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "316": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "317": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "318": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "319": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "320": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "321": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "322": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "323": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "324": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "554": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "562": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "564": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "260": {
+    "tackles": 29,
+    "clearances_blocks_interceptions": 66,
+    "recoveries": 82,
+    "starts": 32
+  },
+  "326": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 16,
+    "recoveries": 100,
+    "starts": 16
+  },
+  "327": {
+    "tackles": 25,
+    "clearances_blocks_interceptions": 194,
+    "recoveries": 63,
+    "starts": 21
+  },
+  "329": {
+    "tackles": 37,
+    "clearances_blocks_interceptions": 237,
+    "recoveries": 85,
+    "starts": 33
+  },
+  "330": {
+    "tackles": 66,
+    "clearances_blocks_interceptions": 112,
+    "recoveries": 133,
+    "starts": 32
+  },
+  "331": {
+    "tackles": 65,
+    "clearances_blocks_interceptions": 119,
+    "recoveries": 112,
+    "starts": 31
+  },
+  "332": {
+    "tackles": 55,
+    "clearances_blocks_interceptions": 128,
+    "recoveries": 70,
+    "starts": 21
+  },
+  "333": {
+    "tackles": 8,
+    "clearances_blocks_interceptions": 41,
+    "recoveries": 13,
+    "starts": 5
+  },
+  "334": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "335": {
+    "tackles": 65,
+    "clearances_blocks_interceptions": 81,
+    "recoveries": 120,
+    "starts": 28
+  },
+  "336": {
+    "tackles": 23,
+    "clearances_blocks_interceptions": 29,
+    "recoveries": 61,
+    "starts": 19
+  },
+  "337": {
+    "tackles": 50,
+    "clearances_blocks_interceptions": 36,
+    "recoveries": 130,
+    "starts": 30
+  },
+  "338": {
+    "tackles": 81,
+    "clearances_blocks_interceptions": 151,
+    "recoveries": 184,
+    "starts": 35
+  },
+  "339": {
+    "tackles": 38,
+    "clearances_blocks_interceptions": 29,
+    "recoveries": 43,
+    "starts": 10
+  },
+  "340": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "341": {
+    "tackles": 18,
+    "clearances_blocks_interceptions": 15,
+    "recoveries": 26,
+    "starts": 4
+  },
+  "342": {
+    "tackles": 5,
+    "clearances_blocks_interceptions": 6,
+    "recoveries": 13,
+    "starts": 1
+  },
+  "343": {
+    "tackles": 7,
+    "clearances_blocks_interceptions": 9,
+    "recoveries": 19,
+    "starts": 6
+  },
+  "344": {
+    "tackles": 23,
+    "clearances_blocks_interceptions": 40,
+    "recoveries": 51,
+    "starts": 15
+  },
+  "345": {
+    "tackles": 27,
+    "clearances_blocks_interceptions": 38,
+    "recoveries": 82,
+    "starts": 14
+  },
+  "346": {
+    "tackles": 10,
+    "clearances_blocks_interceptions": 49,
+    "recoveries": 46,
+    "starts": 30
+  },
+  "347": {
+    "tackles": 12,
+    "clearances_blocks_interceptions": 15,
+    "recoveries": 30,
+    "starts": 10
+  },
+  "348": {
+    "tackles": 2,
+    "clearances_blocks_interceptions": 2,
+    "recoveries": 10,
+    "starts": 2
+  },
+  "349": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "350": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 37,
+    "recoveries": 229,
+    "starts": 26
+  },
+  "351": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 10,
+    "recoveries": 76,
+    "starts": 10
+  },
+  "352": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 4,
+    "recoveries": 22,
+    "starts": 2
+  },
+  "353": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "354": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "355": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "356": {
+    "tackles": 23,
+    "clearances_blocks_interceptions": 329,
+    "recoveries": 87,
+    "starts": 38
+  },
+  "357": {
+    "tackles": 11,
+    "clearances_blocks_interceptions": 19,
+    "recoveries": 52,
+    "starts": 12
+  },
+  "358": {
+    "tackles": 41,
+    "clearances_blocks_interceptions": 93,
+    "recoveries": 88,
+    "starts": 27
+  },
+  "359": {
+    "tackles": 10,
+    "clearances_blocks_interceptions": 36,
+    "recoveries": 20,
+    "starts": 7
+  },
+  "360": {
+    "tackles": 19,
+    "clearances_blocks_interceptions": 46,
+    "recoveries": 43,
+    "starts": 12
+  },
+  "361": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "362": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "363": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "364": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "365": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "366": {
+    "tackles": 34,
+    "clearances_blocks_interceptions": 26,
+    "recoveries": 116,
+    "starts": 27
+  },
+  "367": {
+    "tackles": 28,
+    "clearances_blocks_interceptions": 37,
+    "recoveries": 87,
+    "starts": 32
+  },
+  "368": {
+    "tackles": 56,
+    "clearances_blocks_interceptions": 96,
+    "recoveries": 186,
+    "starts": 36
+  },
+  "369": {
+    "tackles": 4,
+    "clearances_blocks_interceptions": 7,
+    "recoveries": 19,
+    "starts": 5
+  },
+  "370": {
+    "tackles": 8,
+    "clearances_blocks_interceptions": 13,
+    "recoveries": 9,
+    "starts": 1
+  },
+  "371": {
+    "tackles": 59,
+    "clearances_blocks_interceptions": 112,
+    "recoveries": 127,
+    "starts": 34
+  },
+  "372": {
+    "tackles": 53,
+    "clearances_blocks_interceptions": 64,
+    "recoveries": 112,
+    "starts": 31
+  },
+  "373": {
+    "tackles": 40,
+    "clearances_blocks_interceptions": 53,
+    "recoveries": 144,
+    "starts": 18
+  },
+  "374": {
+    "tackles": 7,
+    "clearances_blocks_interceptions": 13,
+    "recoveries": 3,
+    "starts": 1
+  },
+  "375": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 4,
+    "starts": 0
+  },
+  "376": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "377": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "378": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "379": {
+    "tackles": 7,
+    "clearances_blocks_interceptions": 10,
+    "recoveries": 13,
+    "starts": 8
+  },
+  "380": {
+    "tackles": 11,
+    "clearances_blocks_interceptions": 32,
+    "recoveries": 42,
+    "starts": 21
+  },
+  "381": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "382": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "383": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 2,
+    "recoveries": 4,
+    "starts": 1
+  },
+  "238": {
+    "tackles": 20,
+    "clearances_blocks_interceptions": 27,
+    "recoveries": 88,
+    "starts": 18
+  },
+  "384": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 42,
+    "recoveries": 236,
+    "starts": 34
+  },
+  "385": {
+    "tackles": 2,
+    "clearances_blocks_interceptions": 6,
+    "recoveries": 35,
+    "starts": 4
+  },
+  "386": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "387": {
+    "tackles": 67,
+    "clearances_blocks_interceptions": 105,
+    "recoveries": 108,
+    "starts": 29
+  },
+  "388": {
+    "tackles": 46,
+    "clearances_blocks_interceptions": 232,
+    "recoveries": 139,
+    "starts": 35
+  },
+  "389": {
+    "tackles": 57,
+    "clearances_blocks_interceptions": 138,
+    "recoveries": 166,
+    "starts": 32
+  },
+  "390": {
+    "tackles": 13,
+    "clearances_blocks_interceptions": 154,
+    "recoveries": 74,
+    "starts": 24
+  },
+  "391": {
+    "tackles": 17,
+    "clearances_blocks_interceptions": 86,
+    "recoveries": 49,
+    "starts": 16
+  },
+  "392": {
+    "tackles": 35,
+    "clearances_blocks_interceptions": 32,
+    "recoveries": 49,
+    "starts": 12
+  },
+  "393": {
+    "tackles": 27,
+    "clearances_blocks_interceptions": 96,
+    "recoveries": 75,
+    "starts": 15
+  },
+  "394": {
+    "tackles": 3,
+    "clearances_blocks_interceptions": 8,
+    "recoveries": 4,
+    "starts": 2
+  },
+  "395": {
+    "tackles": 5,
+    "clearances_blocks_interceptions": 14,
+    "recoveries": 15,
+    "starts": 4
+  },
+  "396": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "397": {
+    "tackles": 45,
+    "clearances_blocks_interceptions": 49,
+    "recoveries": 142,
+    "starts": 37
+  },
+  "398": {
+    "tackles": 34,
+    "clearances_blocks_interceptions": 24,
+    "recoveries": 102,
+    "starts": 23
+  },
+  "399": {
+    "tackles": 26,
+    "clearances_blocks_interceptions": 16,
+    "recoveries": 93,
+    "starts": 19
+  },
+  "400": {
+    "tackles": 23,
+    "clearances_blocks_interceptions": 15,
+    "recoveries": 88,
+    "starts": 19
+  },
+  "401": {
+    "tackles": 13,
+    "clearances_blocks_interceptions": 6,
+    "recoveries": 20,
+    "starts": 8
+  },
+  "402": {
+    "tackles": 42,
+    "clearances_blocks_interceptions": 57,
+    "recoveries": 107,
+    "starts": 17
+  },
+  "403": {
+    "tackles": 9,
+    "clearances_blocks_interceptions": 11,
+    "recoveries": 39,
+    "starts": 7
+  },
+  "404": {
+    "tackles": 10,
+    "clearances_blocks_interceptions": 32,
+    "recoveries": 58,
+    "starts": 19
+  },
+  "405": {
+    "tackles": 42,
+    "clearances_blocks_interceptions": 74,
+    "recoveries": 90,
+    "starts": 17
+  },
+  "406": {
+    "tackles": 2,
+    "clearances_blocks_interceptions": 6,
+    "recoveries": 10,
+    "starts": 1
+  },
+  "407": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "408": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "409": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 1,
+    "starts": 0
+  },
+  "410": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "411": {
+    "tackles": 15,
+    "clearances_blocks_interceptions": 48,
+    "recoveries": 41,
+    "starts": 34
+  },
+  "481": {
+    "tackles": 103,
+    "clearances_blocks_interceptions": 106,
+    "recoveries": 306,
+    "starts": 37
+  },
+  "43": {
+    "tackles": 58,
+    "clearances_blocks_interceptions": 51,
+    "recoveries": 94,
+    "starts": 21
+  },
+  "162": {
+    "tackles": 37,
+    "clearances_blocks_interceptions": 44,
+    "recoveries": 48,
+    "starts": 13
+  },
+  "325": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 30,
+    "recoveries": 202,
+    "starts": 22
+  },
+  "412": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 26,
+    "recoveries": 224,
+    "starts": 32
+  },
+  "413": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 7,
+    "recoveries": 39,
+    "starts": 6
+  },
+  "414": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "415": {
+    "tackles": 48,
+    "clearances_blocks_interceptions": 50,
+    "recoveries": 77,
+    "starts": 15
+  },
+  "416": {
+    "tackles": 19,
+    "clearances_blocks_interceptions": 88,
+    "recoveries": 40,
+    "starts": 13
+  },
+  "417": {
+    "tackles": 53,
+    "clearances_blocks_interceptions": 127,
+    "recoveries": 135,
+    "starts": 29
+  },
+  "418": {
+    "tackles": 22,
+    "clearances_blocks_interceptions": 129,
+    "recoveries": 62,
+    "starts": 19
+  },
+  "419": {
+    "tackles": 19,
+    "clearances_blocks_interceptions": 86,
+    "recoveries": 68,
+    "starts": 13
+  },
+  "420": {
+    "tackles": 30,
+    "clearances_blocks_interceptions": 126,
+    "recoveries": 73,
+    "starts": 18
+  },
+  "421": {
+    "tackles": 22,
+    "clearances_blocks_interceptions": 71,
+    "recoveries": 39,
+    "starts": 11
+  },
+  "422": {
+    "tackles": 28,
+    "clearances_blocks_interceptions": 66,
+    "recoveries": 46,
+    "starts": 11
+  },
+  "423": {
+    "tackles": 75,
+    "clearances_blocks_interceptions": 149,
+    "recoveries": 105,
+    "starts": 38
+  },
+  "424": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "425": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 2,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "426": {
+    "tackles": 53,
+    "clearances_blocks_interceptions": 67,
+    "recoveries": 167,
+    "starts": 35
+  },
+  "427": {
+    "tackles": 25,
+    "clearances_blocks_interceptions": 23,
+    "recoveries": 91,
+    "starts": 31
+  },
+  "428": {
+    "tackles": 39,
+    "clearances_blocks_interceptions": 46,
+    "recoveries": 126,
+    "starts": 29
+  },
+  "429": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "430": {
+    "tackles": 24,
+    "clearances_blocks_interceptions": 19,
+    "recoveries": 59,
+    "starts": 12
+  },
+  "431": {
+    "tackles": 38,
+    "clearances_blocks_interceptions": 48,
+    "recoveries": 112,
+    "starts": 27
+  },
+  "432": {
+    "tackles": 36,
+    "clearances_blocks_interceptions": 56,
+    "recoveries": 95,
+    "starts": 16
+  },
+  "433": {
+    "tackles": 46,
+    "clearances_blocks_interceptions": 45,
+    "recoveries": 51,
+    "starts": 8
+  },
+  "434": {
+    "tackles": 5,
+    "clearances_blocks_interceptions": 2,
+    "recoveries": 4,
+    "starts": 0
+  },
+  "435": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 2,
+    "starts": 0
+  },
+  "436": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "437": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "438": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 2,
+    "starts": 0
+  },
+  "439": {
+    "tackles": 5,
+    "clearances_blocks_interceptions": 20,
+    "recoveries": 39,
+    "starts": 17
+  },
+  "440": {
+    "tackles": 9,
+    "clearances_blocks_interceptions": 14,
+    "recoveries": 21,
+    "starts": 5
+  },
+  "441": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "442": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 35,
+    "recoveries": 254,
+    "starts": 27
+  },
+  "443": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "444": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "445": {
+    "tackles": 44,
+    "clearances_blocks_interceptions": 248,
+    "recoveries": 118,
+    "starts": 33
+  },
+  "446": {
+    "tackles": 14,
+    "clearances_blocks_interceptions": 101,
+    "recoveries": 42,
+    "starts": 11
+  },
+  "447": {
+    "tackles": 21,
+    "clearances_blocks_interceptions": 195,
+    "recoveries": 89,
+    "starts": 21
+  },
+  "448": {
+    "tackles": 40,
+    "clearances_blocks_interceptions": 185,
+    "recoveries": 76,
+    "starts": 25
+  },
+  "449": {
+    "tackles": 54,
+    "clearances_blocks_interceptions": 119,
+    "recoveries": 134,
+    "starts": 24
+  },
+  "450": {
+    "tackles": 22,
+    "clearances_blocks_interceptions": 46,
+    "recoveries": 81,
+    "starts": 14
+  },
+  "451": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 4,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "452": {
+    "tackles": 62,
+    "clearances_blocks_interceptions": 55,
+    "recoveries": 134,
+    "starts": 27
+  },
+  "453": {
+    "tackles": 13,
+    "clearances_blocks_interceptions": 20,
+    "recoveries": 67,
+    "starts": 19
+  },
+  "454": {
+    "tackles": 14,
+    "clearances_blocks_interceptions": 9,
+    "recoveries": 32,
+    "starts": 14
+  },
+  "456": {
+    "tackles": 41,
+    "clearances_blocks_interceptions": 23,
+    "recoveries": 85,
+    "starts": 15
+  },
+  "457": {
+    "tackles": 16,
+    "clearances_blocks_interceptions": 27,
+    "recoveries": 47,
+    "starts": 19
+  },
+  "458": {
+    "tackles": 43,
+    "clearances_blocks_interceptions": 73,
+    "recoveries": 122,
+    "starts": 23
+  },
+  "459": {
+    "tackles": 29,
+    "clearances_blocks_interceptions": 57,
+    "recoveries": 69,
+    "starts": 15
+  },
+  "460": {
+    "tackles": 20,
+    "clearances_blocks_interceptions": 17,
+    "recoveries": 52,
+    "starts": 10
+  },
+  "461": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "462": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "463": {
+    "tackles": 24,
+    "clearances_blocks_interceptions": 28,
+    "recoveries": 53,
+    "starts": 24
+  },
+  "464": {
+    "tackles": 5,
+    "clearances_blocks_interceptions": 3,
+    "recoveries": 14,
+    "starts": 4
+  },
+  "465": {
+    "tackles": 6,
+    "clearances_blocks_interceptions": 2,
+    "recoveries": 23,
+    "starts": 8
+  },
+  "466": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "559": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "567": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "467": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 26,
+    "recoveries": 197,
+    "starts": 30
+  },
+  "468": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 4,
+    "recoveries": 26,
+    "starts": 5
+  },
+  "469": {
+    "tackles": 96,
+    "clearances_blocks_interceptions": 151,
+    "recoveries": 164,
+    "starts": 36
+  },
+  "470": {
+    "tackles": 30,
+    "clearances_blocks_interceptions": 114,
+    "recoveries": 52,
+    "starts": 14
+  },
+  "471": {
+    "tackles": 30,
+    "clearances_blocks_interceptions": 281,
+    "recoveries": 107,
+    "starts": 37
+  },
+  "472": {
+    "tackles": 35,
+    "clearances_blocks_interceptions": 188,
+    "recoveries": 102,
+    "starts": 25
+  },
+  "473": {
+    "tackles": 31,
+    "clearances_blocks_interceptions": 99,
+    "recoveries": 81,
+    "starts": 18
+  },
+  "474": {
+    "tackles": 9,
+    "clearances_blocks_interceptions": 38,
+    "recoveries": 13,
+    "starts": 6
+  },
+  "475": {
+    "tackles": 20,
+    "clearances_blocks_interceptions": 37,
+    "recoveries": 27,
+    "starts": 11
+  },
+  "476": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "477": {
+    "tackles": 4,
+    "clearances_blocks_interceptions": 9,
+    "recoveries": 10,
+    "starts": 2
+  },
+  "478": {
+    "tackles": 12,
+    "clearances_blocks_interceptions": 15,
+    "recoveries": 15,
+    "starts": 3
+  },
+  "479": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "480": {
+    "tackles": 20,
+    "clearances_blocks_interceptions": 48,
+    "recoveries": 110,
+    "starts": 35
+  },
+  "482": {
+    "tackles": 14,
+    "clearances_blocks_interceptions": 24,
+    "recoveries": 68,
+    "starts": 21
+  },
+  "483": {
+    "tackles": 22,
+    "clearances_blocks_interceptions": 24,
+    "recoveries": 50,
+    "starts": 14
+  },
+  "484": {
+    "tackles": 22,
+    "clearances_blocks_interceptions": 20,
+    "recoveries": 87,
+    "starts": 17
+  },
+  "485": {
+    "tackles": 4,
+    "clearances_blocks_interceptions": 3,
+    "recoveries": 28,
+    "starts": 6
+  },
+  "486": {
+    "tackles": 7,
+    "clearances_blocks_interceptions": 7,
+    "recoveries": 18,
+    "starts": 2
+  },
+  "487": {
+    "tackles": 56,
+    "clearances_blocks_interceptions": 29,
+    "recoveries": 58,
+    "starts": 17
+  },
+  "488": {
+    "tackles": 58,
+    "clearances_blocks_interceptions": 95,
+    "recoveries": 114,
+    "starts": 25
+  },
+  "489": {
+    "tackles": 16,
+    "clearances_blocks_interceptions": 35,
+    "recoveries": 18,
+    "starts": 2
+  },
+  "490": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 14,
+    "recoveries": 14,
+    "starts": 11
+  },
+  "491": {
+    "tackles": 24,
+    "clearances_blocks_interceptions": 38,
+    "recoveries": 61,
+    "starts": 28
+  },
+  "492": {
+    "tackles": 2,
+    "clearances_blocks_interceptions": 6,
+    "recoveries": 18,
+    "starts": 3
+  },
+  "493": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 1,
+    "recoveries": 4,
+    "starts": 0
+  },
+  "558": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "112": {
+    "tackles": 53,
+    "clearances_blocks_interceptions": 264,
+    "recoveries": 113,
+    "starts": 36
+  },
+  "455": {
+    "tackles": 35,
+    "clearances_blocks_interceptions": 75,
+    "recoveries": 147,
+    "starts": 31
+  },
+  "494": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 35,
+    "recoveries": 247,
+    "starts": 31
+  },
+  "495": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "496": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 10,
+    "recoveries": 33,
+    "starts": 7
+  },
+  "497": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 59,
+    "recoveries": 291,
+    "starts": 35
+  },
+  "498": {
+    "tackles": 62,
+    "clearances_blocks_interceptions": 357,
+    "recoveries": 155,
+    "starts": 37
+  },
+  "499": {
+    "tackles": 76,
+    "clearances_blocks_interceptions": 142,
+    "recoveries": 132,
+    "starts": 32
+  },
+  "500": {
+    "tackles": 58,
+    "clearances_blocks_interceptions": 139,
+    "recoveries": 88,
+    "starts": 22
+  },
+  "501": {
+    "tackles": 27,
+    "clearances_blocks_interceptions": 165,
+    "recoveries": 45,
+    "starts": 17
+  },
+  "502": {
+    "tackles": 12,
+    "clearances_blocks_interceptions": 43,
+    "recoveries": 40,
+    "starts": 11
+  },
+  "503": {
+    "tackles": 38,
+    "clearances_blocks_interceptions": 174,
+    "recoveries": 121,
+    "starts": 35
+  },
+  "505": {
+    "tackles": 44,
+    "clearances_blocks_interceptions": 72,
+    "recoveries": 112,
+    "starts": 23
+  },
+  "506": {
+    "tackles": 31,
+    "clearances_blocks_interceptions": 37,
+    "recoveries": 70,
+    "starts": 14
+  },
+  "507": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "508": {
+    "tackles": 5,
+    "clearances_blocks_interceptions": 9,
+    "recoveries": 5,
+    "starts": 2
+  },
+  "509": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "510": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "511": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 6,
+    "recoveries": 3,
+    "starts": 2
+  },
+  "512": {
+    "tackles": 29,
+    "clearances_blocks_interceptions": 9,
+    "recoveries": 95,
+    "starts": 19
+  },
+  "513": {
+    "tackles": 34,
+    "clearances_blocks_interceptions": 28,
+    "recoveries": 87,
+    "starts": 19
+  },
+  "514": {
+    "tackles": 20,
+    "clearances_blocks_interceptions": 19,
+    "recoveries": 72,
+    "starts": 13
+  },
+  "515": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 4,
+    "starts": 0
+  },
+  "516": {
+    "tackles": 56,
+    "clearances_blocks_interceptions": 91,
+    "recoveries": 131,
+    "starts": 23
+  },
+  "517": {
+    "tackles": 10,
+    "clearances_blocks_interceptions": 14,
+    "recoveries": 53,
+    "starts": 10
+  },
+  "518": {
+    "tackles": 32,
+    "clearances_blocks_interceptions": 74,
+    "recoveries": 77,
+    "starts": 13
+  },
+  "519": {
+    "tackles": 22,
+    "clearances_blocks_interceptions": 29,
+    "recoveries": 73,
+    "starts": 14
+  },
+  "520": {
+    "tackles": 22,
+    "clearances_blocks_interceptions": 18,
+    "recoveries": 39,
+    "starts": 11
+  },
+  "521": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "522": {
+    "tackles": 11,
+    "clearances_blocks_interceptions": 65,
+    "recoveries": 56,
+    "starts": 18
+  },
+  "523": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "524": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 2,
+    "starts": 0
+  },
+  "525": {
+    "tackles": 103,
+    "clearances_blocks_interceptions": 84,
+    "recoveries": 182,
+    "starts": 35
+  },
+  "526": {
+    "tackles": 22,
+    "clearances_blocks_interceptions": 16,
+    "recoveries": 33,
+    "starts": 11
+  },
+  "527": {
+    "tackles": 27,
+    "clearances_blocks_interceptions": 60,
+    "recoveries": 60,
+    "starts": 20
+  },
+  "528": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 1,
+    "starts": 0
+  },
+  "529": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 37,
+    "recoveries": 333,
+    "starts": 35
+  },
+  "530": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "531": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 6,
+    "recoveries": 33,
+    "starts": 3
+  },
+  "532": {
+    "tackles": 33,
+    "clearances_blocks_interceptions": 231,
+    "recoveries": 69,
+    "starts": 24
+  },
+  "533": {
+    "tackles": 69,
+    "clearances_blocks_interceptions": 204,
+    "recoveries": 131,
+    "starts": 32
+  },
+  "534": {
+    "tackles": 68,
+    "clearances_blocks_interceptions": 135,
+    "recoveries": 102,
+    "starts": 34
+  },
+  "535": {
+    "tackles": 32,
+    "clearances_blocks_interceptions": 280,
+    "recoveries": 103,
+    "starts": 32
+  },
+  "536": {
+    "tackles": 39,
+    "clearances_blocks_interceptions": 125,
+    "recoveries": 90,
+    "starts": 23
+  },
+  "537": {
+    "tackles": 4,
+    "clearances_blocks_interceptions": 8,
+    "recoveries": 6,
+    "starts": 1
+  },
+  "538": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "539": {
+    "tackles": 6,
+    "clearances_blocks_interceptions": 37,
+    "recoveries": 10,
+    "starts": 5
+  },
+  "540": {
+    "tackles": 4,
+    "clearances_blocks_interceptions": 6,
+    "recoveries": 3,
+    "starts": 2
+  },
+  "541": {
+    "tackles": 0,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 0,
+    "starts": 0
+  },
+  "542": {
+    "tackles": 89,
+    "clearances_blocks_interceptions": 77,
+    "recoveries": 153,
+    "starts": 33
+  },
+  "543": {
+    "tackles": 14,
+    "clearances_blocks_interceptions": 17,
+    "recoveries": 48,
+    "starts": 15
+  },
+  "544": {
+    "tackles": 50,
+    "clearances_blocks_interceptions": 134,
+    "recoveries": 178,
+    "starts": 32
+  },
+  "545": {
+    "tackles": 46,
+    "clearances_blocks_interceptions": 89,
+    "recoveries": 113,
+    "starts": 33
+  },
+  "546": {
+    "tackles": 11,
+    "clearances_blocks_interceptions": 13,
+    "recoveries": 21,
+    "starts": 9
+  },
+  "547": {
+    "tackles": 5,
+    "clearances_blocks_interceptions": 6,
+    "recoveries": 22,
+    "starts": 2
+  },
+  "548": {
+    "tackles": 13,
+    "clearances_blocks_interceptions": 15,
+    "recoveries": 29,
+    "starts": 11
+  },
+  "549": {
+    "tackles": 11,
+    "clearances_blocks_interceptions": 20,
+    "recoveries": 61,
+    "starts": 16
+  },
+  "550": {
+    "tackles": 1,
+    "clearances_blocks_interceptions": 0,
+    "recoveries": 2,
+    "starts": 1
+  },
+  "551": {
+    "tackles": 10,
+    "clearances_blocks_interceptions": 16,
+    "recoveries": 9,
+    "starts": 5
+  },
+  "552": {
+    "tackles": 9,
+    "clearances_blocks_interceptions": 21,
+    "recoveries": 44,
+    "starts": 22
+  },
+  "553": {
+    "tackles": 11,
+    "clearances_blocks_interceptions": 17,
+    "recoveries": 23,
+    "starts": 11
+  }
+}

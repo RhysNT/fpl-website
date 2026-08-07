@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pitchside — FPL Stats</title>
+<style>
+  :root {
+    --ink: #10221c;
+    --paper: #f2f6f3;
+    --line: #d7ded9;
+    --pitch: #1c5c40;
+    --pitch-dark: #123c2a;
+    --amber: #e2a83f;
+    --rise: #1c8a54;
+    --fall: #c0463a;
+    --mono: 'IBM Plex Mono', 'SF Mono', Consolas, monospace;
+    --sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--sans);
+    padding: 0 0 4rem;
+  }
+
+  header {
+    background: var(--pitch-dark);
+    color: var(--paper);
+    padding: 2.2rem 1.5rem 1.6rem;
+    position: relative;
+    overflow: hidden;
+  }
+
+  header::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      repeating-linear-gradient(90deg, rgba(255,255,255,0.035) 0 2px, transparent 2px 40px);
+    pointer-events: none;
+  }
+
+  .kicker {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--amber);
+    margin: 0 0 0.4rem;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: clamp(1.8rem, 4vw, 2.6rem);
+    font-weight: 800;
+    letter-spacing: -0.02em;
+  }
+
+  .sub {
+    margin: 0.5rem 0 0;
+    color: #b9c9c0;
+    font-size: 0.95rem;
+    max-width: 46ch;
+  }
+
+  nav { display: flex; gap: 1rem; margin-top: 1.2rem; flex-wrap: wrap; }
+  nav a { color: #b9c9c0; text-decoration: none; font-family: var(--mono); font-size: 0.76rem; letter-spacing: 0.02em; padding-bottom: 0.2rem; border-bottom: 2px solid transparent; }
+  nav a.active { color: white; border-bottom-color: var(--amber); }
+  nav a:hover { color: white; }
+
+  main {
+    max-width: 1100px;
+    margin: 1.5rem auto 0;
+    padding: 0 1.5rem;
+  }
+
+  .toolbar {
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 0.9rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    align-items: center;
+    box-shadow: 0 6px 20px rgba(16,34,28,0.06);
+    margin-bottom: 1.2rem;
+  }
+
+  .pill {
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    border: 1px solid var(--line);
+    background: var(--paper);
+    color: var(--ink);
+    padding: 0.4rem 0.8rem;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+
+  .pill:hover { border-color: var(--pitch); }
+
+  .pill.active {
+    background: var(--pitch);
+    border-color: var(--pitch);
+    color: white;
+  }
+
+  .search {
+    margin-left: auto;
+    font-family: var(--sans);
+    font-size: 0.85rem;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 0.5rem 0.8rem;
+    min-width: 180px;
+  }
+
+  .table-wrap {
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 6px 20px rgba(16,34,28,0.06);
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.86rem;
+  }
+
+  thead th {
+    text-align: left;
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #5b6b63;
+    padding: 0.7rem 0.6rem;
+    border-bottom: 2px solid var(--pitch);
+    cursor: pointer;
+    white-space: nowrap;
+    user-select: none;
+  }
+
+  thead th:hover { color: var(--pitch); }
+
+  thead th .arrow {
+    display: inline-block;
+    margin-left: 3px;
+    opacity: 0.3;
+    font-size: 0.65rem;
+  }
+
+  thead th.sorted .arrow { opacity: 1; color: var(--pitch); }
+
+  tbody tr {
+    border-bottom: 1px solid var(--line);
+    transition: background 0.1s ease;
+  }
+
+  tbody tr:hover { background: #eef4f0; }
+
+  tbody td {
+    padding: 0.6rem;
+    vertical-align: middle;
+    font-variant-numeric: tabular-nums;
+  }
+
+  td.name-cell {
+    font-weight: 700;
+    font-family: var(--sans);
+  }
+
+  td.name-cell .team {
+    display: block;
+    font-weight: 400;
+    font-size: 0.75rem;
+    color: #6c7a72;
+    font-family: var(--mono);
+  }
+
+  .pos-tag {
+    display: inline-block;
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    font-weight: 700;
+    padding: 0.15rem 0.4rem;
+    border-radius: 4px;
+    color: white;
+  }
+
+  .pos-GKP { background: #8a5cc9; }
+  .pos-DEF { background: #2f7cd1; }
+  .pos-MID { background: #1c8a54; }
+  .pos-FWD { background: #c0463a; }
+
+  td.num { font-family: var(--mono); text-align: right; }
+
+  .price { font-weight: 700; }
+
+  .status-flag {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+  .status-a { background: var(--rise); }
+  .status-i, .status-d, .status-s { background: var(--fall); }
+
+  .ep-bar {
+    display: inline-block;
+    height: 6px;
+    border-radius: 3px;
+    background: linear-gradient(90deg, var(--amber), var(--pitch));
+    vertical-align: middle;
+    margin-right: 6px;
+  }
+
+  footer {
+    max-width: 1100px;
+    margin: 1.2rem auto 0;
+    padding: 0 1.5rem;
+    font-size: 0.78rem;
+    color: #6c7a72;
+    font-family: var(--mono);
+  }
+
+  @media (max-width: 640px) {
+    .table-wrap { overflow-x: auto; }
+    table { min-width: 720px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="kicker">Gameweek 1 &middot; 2026/27 Season</p>
+  <h1>Pitchside</h1>
+  <p class="sub">Live player stats, form and expected points — click any column to sort.</p>
+  <nav id="site-nav"></nav>
+</header>
+
+<main>
+  <div class="toolbar">
+    <button class="pill active" data-pos="ALL">All</button>
+    <button class="pill" data-pos="GKP">GKP</button>
+    <button class="pill" data-pos="DEF">DEF</button>
+    <button class="pill" data-pos="MID">MID</button>
+    <button class="pill" data-pos="FWD">FWD</button>
+    <input class="search" id="search" type="text" placeholder="Search player or team...">
+  </div>
+
+  <div class="table-wrap">
+    <table id="player-table">
+      <thead>
+        <tr>
+          <th data-key="name">Player</th>
+          <th data-key="position">Pos</th>
+          <th data-key="price" class="num">Price</th>
+          <th data-key="total_points" class="num">Pts</th>
+          <th data-key="form" class="num">Form</th>
+          <th data-key="ep_next" class="num">Next GW xPts</th>
+          <th data-key="expected_goal_involvements" class="num">xGI</th>
+          <th data-key="selected_by_percent" class="num">Owned %</th>
+        </tr>
+      </thead>
+      <tbody id="table-body"></tbody>
+    </table>
+  </div>
+
+  <footer>
+    Live data pulled from the official FPL API via fetch_fpl_data.py. Re-run that script
+    any time to refresh prices, points and form.
+  </footer>
+</main>
+
+<script>
+// Loaded from fpl_players.json, which fetch_fpl_data.py generates from the
+// live official FPL API. Run that script again any time to refresh this data.
+let players = [];
+let maxEp = 1;
+
+let currentSort = { key: "total_points", dir: -1 };
+let currentPos = "ALL";
+let currentSearch = "";
+
+const tbody = document.getElementById("table-body");
+
+async function loadPlayers() {
+  tbody.innerHTML = `<tr><td colspan="8" style="padding:2rem;text-align:center;color:#6c7a72;">Loading players...</td></tr>`;
+  try {
+    const response = await fetch("fpl_players.json");
+    if (!response.ok) throw new Error("File not found");
+    players = await response.json();
+    maxEp = Math.max(...players.map(p => p.ep_next), 1);
+    render();
+  } catch (err) {
+    tbody.innerHTML = `<tr><td colspan="8" style="padding:2rem;text-align:center;color:var(--fall);">
+      Couldn't load fpl_players.json. Make sure it's in the same folder as this page,
+      and that you're viewing this page via a local server (see README) rather than
+      double-clicking the file directly.
+    </td></tr>`;
+    console.error(err);
+  }
+}
+
+function render() {
+  if (players.length === 0) return;
+  let rows = players.filter(p => {
+    const posMatch = currentPos === "ALL" || p.position === currentPos;
+    const searchMatch = (p.name + p.team).toLowerCase().includes(currentSearch.toLowerCase());
+    return posMatch && searchMatch;
+  });
+
+  rows.sort((a, b) => (a[currentSort.key] - b[currentSort.key]) * currentSort.dir);
+
+  tbody.innerHTML = rows.map(p => `
+    <tr>
+      <td class="name-cell">
+        <span class="status-flag status-${p.status}"></span>${p.name}
+        <span class="team">${p.team}</span>
+      </td>
+      <td><span class="pos-tag pos-${p.position}">${p.position}</span></td>
+      <td class="num price">£${p.price.toFixed(1)}m</td>
+      <td class="num">${p.total_points}</td>
+      <td class="num">${p.form.toFixed(1)}</td>
+      <td class="num">
+        <span class="ep-bar" style="width:${Math.max(6, (p.ep_next / maxEp) * 40)}px"></span>${p.ep_next.toFixed(1)}
+      </td>
+      <td class="num">${p.expected_goal_involvements.toFixed(2)}</td>
+      <td class="num">${p.selected_by_percent.toFixed(1)}%</td>
+    </tr>
+  `).join("");
+
+  document.querySelectorAll("th[data-key]").forEach(th => {
+    th.classList.toggle("sorted", th.dataset.key === currentSort.key);
+    th.querySelector(".arrow")?.remove();
+    const arrow = document.createElement("span");
+    arrow.className = "arrow";
+    arrow.textContent = th.dataset.key === currentSort.key ? (currentSort.dir === 1 ? "▲" : "▼") : "▲▼";
+    th.appendChild(arrow);
+  });
+}
+
+document.querySelectorAll("th[data-key]").forEach(th => {
+  th.addEventListener("click", () => {
+    const key = th.dataset.key;
+    if (currentSort.key === key) {
+      currentSort.dir *= -1;
+    } else {
+      currentSort = { key, dir: -1 };
+    }
+    render();
+  });
+});
+
+document.querySelectorAll(".pill").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll(".pill").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    currentPos = btn.dataset.pos;
+    render();
+  });
+});
+
+document.getElementById("search").addEventListener("input", (e) => {
+  currentSearch = e.target.value;
+  render();
+});
+
+loadPlayers();
+</script>
+<script src="nav.js"></script>
+
+</body>
+</html>

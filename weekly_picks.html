@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pitchside — Weekly Picks</title>
+<style>
+  :root {
+    --ink: #10221c; --paper: #f2f6f3; --line: #d7ded9; --pitch: #1c5c40; --pitch-dark: #123c2a;
+    --amber: #e2a83f; --rise: #1c8a54; --fall: #c0463a;
+    --mono: 'IBM Plex Mono', 'SF Mono', Consolas, monospace;
+    --sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--sans); padding: 0 0 4rem; }
+  header { background: var(--pitch-dark); color: var(--paper); padding: 2.2rem 1.5rem 1.6rem; position: relative; overflow: hidden; }
+  header::before { content: ""; position: absolute; inset: 0; background: repeating-linear-gradient(90deg, rgba(255,255,255,0.035) 0 2px, transparent 2px 40px); pointer-events: none; }
+  .kicker { font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--amber); margin: 0 0 0.4rem; }
+  h1 { margin: 0; font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 800; letter-spacing: -0.02em; }
+  .sub { margin: 0.5rem 0 0; color: #b9c9c0; font-size: 0.95rem; max-width: 54ch; }
+  nav { display: flex; gap: 1rem; margin-top: 1.2rem; flex-wrap: wrap; }
+  nav a { color: #b9c9c0; text-decoration: none; font-family: var(--mono); font-size: 0.76rem; letter-spacing: 0.02em; padding-bottom: 0.2rem; border-bottom: 2px solid transparent; }
+  nav a.active { color: white; border-bottom-color: var(--amber); }
+  nav a:hover { color: white; }
+
+  main { max-width: 1100px; margin: 1.5rem auto 0; padding: 0 1.5rem; }
+  .disclaimer { background: #fdf6e8; border: 1px solid #ecd8a3; color: #7a5c1e; font-size: 0.82rem; padding: 0.8rem 1rem; border-radius: 8px; margin-bottom: 1.2rem; line-height: 1.5; }
+
+  .columns { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; }
+  @media (max-width: 800px) { .columns { grid-template-columns: 1fr; } }
+  .panel { background: white; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; box-shadow: 0 6px 20px rgba(16,34,28,0.06); }
+  .panel-head { padding: 0.9rem 1rem; border-bottom: 1px solid var(--line); display: flex; align-items: center; gap: 0.5rem; }
+  .panel-head h2 { margin: 0; font-size: 1rem; font-weight: 800; }
+  .panel-head .dot { width: 9px; height: 9px; border-radius: 50%; }
+  .buy-panel .dot { background: var(--rise); }
+  .sell-panel .dot { background: var(--fall); }
+
+  ul.pick-list { list-style: none; margin: 0; padding: 0; }
+  ul.pick-list li { padding: 0.7rem 1rem; border-bottom: 1px solid var(--line); display: flex; align-items: center; gap: 0.6rem; }
+  ul.pick-list li:last-child { border-bottom: none; }
+  .rank { font-family: var(--mono); font-size: 0.75rem; color: #8b9a92; width: 1.4rem; }
+  .p-name { font-weight: 700; flex: 1; }
+  .p-team { display: block; font-weight: 400; font-size: 0.75rem; color: #6c7a72; font-family: var(--mono); }
+  .p-reason { font-size: 0.72rem; color: #6c7a72; font-family: var(--mono); }
+  .p-price { font-family: var(--mono); font-size: 0.8rem; }
+
+  footer { max-width: 1100px; margin: 1.2rem auto 0; padding: 0 1.5rem; font-size: 0.78rem; color: #6c7a72; font-family: var(--mono); }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="kicker">Weekly Picks</p>
+  <h1>Top 5 buys, top 5 sells</h1>
+  <p class="sub">Refreshes with the data — ranked by form, upcoming fixture ease, and underlying stats.</p>
+  <nav id="site-nav"></nav>
+</header>
+
+<main>
+  <p class="disclaimer">
+    Built from form + next-5-fixture ease + value, weighted toward players people are more likely to actually
+    own (for sells) or realistically consider (for buys). Treat this as a starting point for research, not
+    the final word.
+  </p>
+
+  <div class="columns">
+    <div class="panel buy-panel">
+      <div class="panel-head"><span class="dot"></span><h2>Top 5 Buys</h2></div>
+      <ul class="pick-list" id="buys-list"></ul>
+    </div>
+    <div class="panel sell-panel">
+      <div class="panel-head"><span class="dot"></span><h2>Top 5 Sells</h2></div>
+      <ul class="pick-list" id="sells-list"></ul>
+    </div>
+  </div>
+</main>
+
+<footer id="footer-note">Loading...</footer>
+
+<script src="nav.js"></script>
+<script>
+async function load() {
+  try {
+    const [pRes, tRes, fRes] = await Promise.all([
+      fetch("fpl_players.json"), fetch("fpl_teams.json"), fetch("fpl_fixtures.json"),
+    ]);
+    const players = await pRes.json();
+    const teams = await tRes.json();
+    const fixtures = await fRes.json();
+    render(players, teams, fixtures);
+  } catch (err) {
+    document.getElementById("footer-note").textContent = "Couldn't load data files — run fetch_fpl_data.py and view this via the local server.";
+  }
+}
+
+function avgNext5Difficulty(player, teams, fixtures) {
+  const teamById = Object.fromEntries(teams.map(t => [t.id, t]));
+  const team = teams.find(t => t.name === player.team);
+  if (!team) return 50;
+  const upcoming = fixtures.filter(f => f.team_h === team.id || f.team_a === team.id).slice(0, 5);
+  if (upcoming.length === 0) return 50;
+  const strengths = upcoming.map(f => {
+    const isHome = f.team_h === team.id;
+    const opp = teamById[isHome ? f.team_a : f.team_h];
+    return opp ? opp.strength_score + (isHome ? -6 : 6) : 50;
+  });
+  return strengths.reduce((a, b) => a + b, 0) / strengths.length; // lower = easier fixtures
+}
+
+function render(players, teams, fixtures) {
+  const eligible = players.filter(p => p.status === "a" && p.minutes >= 0);
+
+  const scored = eligible.map(p => {
+    const fixtureEase = 100 - avgNext5Difficulty(p, teams, fixtures); // higher = easier run
+    const buyScore = p.ep_next * 2 + p.form * 1.5 + fixtureEase * 0.3 + (p.total_points / p.price) * 0.5;
+    const sellScore = -(p.form * 1.5) + avgNext5Difficulty(p, teams, fixtures) * 0.3 - (p.total_points / p.price) * 0.3;
+    return { ...p, buyScore, sellScore };
+  });
+
+  const buys = [...scored].sort((a, b) => b.buyScore - a.buyScore).slice(0, 5);
+  // Sells: focus on players with meaningful ownership (people actually own these) trending worse
+  const ownedEnough = scored.filter(p => p.selected_by_percent >= 3);
+  const sells = [...ownedEnough].sort((a, b) => b.sellScore - a.sellScore).slice(0, 5);
+
+  document.getElementById("buys-list").innerHTML = buys.map((p, i) => `
+    <li>
+      <span class="rank">${i + 1}</span>
+      <span class="p-name">${p.name}<span class="p-team">${p.team} · ${p.position}</span></span>
+      <span class="p-reason">Form ${p.form.toFixed(1)} · ${p.ep_next.toFixed(1)} xPts next</span>
+      <span class="p-price">£${p.price.toFixed(1)}m</span>
+    </li>
+  `).join("");
+
+  document.getElementById("sells-list").innerHTML = sells.map((p, i) => `
+    <li>
+      <span class="rank">${i + 1}</span>
+      <span class="p-name">${p.name}<span class="p-team">${p.team} · ${p.position}</span></span>
+      <span class="p-reason">Owned ${p.selected_by_percent.toFixed(1)}% · Form ${p.form.toFixed(1)}</span>
+      <span class="p-price">£${p.price.toFixed(1)}m</span>
+    </li>
+  `).join("");
+
+  document.getElementById("footer-note").textContent = `Based on ${players.length} players. Re-run fetch_fpl_data.py to refresh rankings.`;
+}
+
+load();
+</script>
+
+</body>
+</html>

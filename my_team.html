@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pitchside — Team Builder</title>
+<style>
+  :root {
+    --ink: #10221c; --paper: #f2f6f3; --line: #d7ded9; --pitch: #1c5c40; --pitch-dark: #123c2a; --pitch-light: #2a7350;
+    --amber: #e2a83f; --rise: #1c8a54; --fall: #c0463a;
+    --mono: 'IBM Plex Mono', 'SF Mono', Consolas, monospace;
+    --sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--sans); padding: 0 0 4rem; }
+  header { background: var(--pitch-dark); color: var(--paper); padding: 2.2rem 1.5rem 1.6rem; position: relative; overflow: hidden; }
+  header::before { content: ""; position: absolute; inset: 0; background: repeating-linear-gradient(90deg, rgba(255,255,255,0.035) 0 2px, transparent 2px 40px); pointer-events: none; }
+  .kicker { font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--amber); margin: 0 0 0.4rem; }
+  h1 { margin: 0; font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 800; letter-spacing: -0.02em; }
+  .sub { margin: 0.5rem 0 0; color: #b9c9c0; font-size: 0.95rem; max-width: 54ch; }
+  nav { display: flex; gap: 1rem; margin-top: 1.2rem; flex-wrap: wrap; }
+  nav a { color: #b9c9c0; text-decoration: none; font-family: var(--mono); font-size: 0.76rem; letter-spacing: 0.02em; padding-bottom: 0.2rem; border-bottom: 2px solid transparent; }
+  nav a.active { color: white; border-bottom-color: var(--amber); }
+  nav a:hover { color: white; }
+
+  main { max-width: 1200px; margin: 1.5rem auto 0; padding: 0 1.5rem; }
+
+  .status-bar {
+    background: white; border: 1px solid var(--line); border-radius: 10px; padding: 0.9rem 1.2rem;
+    display: flex; flex-wrap: wrap; gap: 1.4rem; align-items: center; box-shadow: 0 6px 20px rgba(16,34,28,0.06); margin-bottom: 1.2rem;
+  }
+  .stat-block .label { font-family: var(--mono); font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.05em; color: #8b9a92; }
+  .stat-block .value { font-family: var(--mono); font-size: 1.1rem; font-weight: 700; }
+  .stat-block .value.warn { color: var(--fall); }
+  .reset-btn { margin-left: auto; font-family: var(--mono); font-size: 0.75rem; background: var(--paper); border: 1px solid var(--line); border-radius: 6px; padding: 0.4rem 0.7rem; cursor: pointer; }
+  .reset-btn:hover { border-color: var(--fall); color: var(--fall); }
+
+  .layout { display: grid; grid-template-columns: 1.1fr 1fr; gap: 1.2rem; align-items: start; }
+  @media (max-width: 900px) { .layout { grid-template-columns: 1fr; } }
+
+  .panel { background: white; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; box-shadow: 0 6px 20px rgba(16,34,28,0.06); }
+  .panel-head { padding: 0.8rem 1rem; border-bottom: 1px solid var(--line); font-weight: 800; font-size: 0.95rem; }
+
+  .pool-filters { display: flex; gap: 0.5rem; padding: 0.7rem 1rem; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+  .pill { font-family: var(--mono); font-size: 0.72rem; font-weight: 600; border: 1px solid var(--line); background: var(--paper); padding: 0.3rem 0.6rem; border-radius: 999px; cursor: pointer; }
+  .pill.active { background: var(--pitch); border-color: var(--pitch); color: white; }
+  .pool-search { flex: 1; min-width: 100px; border: 1px solid var(--line); border-radius: 8px; padding: 0.35rem 0.6rem; font-size: 0.8rem; }
+
+  .pool-list { max-height: 560px; overflow-y: auto; }
+  .pool-row { display: flex; align-items: center; gap: 0.6rem; padding: 0.5rem 1rem; border-bottom: 1px solid var(--line); font-size: 0.84rem; }
+  .pool-row:hover { background: #eef4f0; }
+  .pool-row .pname { font-weight: 700; flex: 1; }
+  .pool-row .pteam { font-family: var(--mono); font-size: 0.7rem; color: #6c7a72; }
+  .pool-row .pprice { font-family: var(--mono); font-size: 0.78rem; width: 3.6rem; text-align: right; }
+  .add-btn { font-family: var(--mono); font-size: 0.72rem; font-weight: 700; background: var(--pitch); color: white; border: none; border-radius: 6px; width: 26px; height: 26px; cursor: pointer; flex-shrink: 0; }
+  .add-btn:disabled { background: var(--line); cursor: not-allowed; }
+  .pos-tag { display: inline-block; font-family: var(--mono); font-size: 0.62rem; font-weight: 700; padding: 0.1rem 0.35rem; border-radius: 4px; color: white; width: 30px; text-align: center; }
+  .pos-GKP { background: #8a5cc9; } .pos-DEF { background: #2f7cd1; } .pos-MID { background: #1c8a54; } .pos-FWD { background: #c0463a; }
+
+  .squad-groups { padding: 1rem; }
+  .squad-group-label { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; color: #8b9a92; margin: 0.8rem 0 0.4rem; }
+  .squad-row { display: flex; align-items: center; gap: 0.6rem; padding: 0.4rem 0; border-bottom: 1px solid var(--line); font-size: 0.84rem; }
+  .squad-row .pname { font-weight: 700; flex: 1; }
+  .remove-btn { font-family: var(--mono); font-size: 0.7rem; background: none; border: 1px solid var(--line); border-radius: 6px; width: 24px; height: 24px; cursor: pointer; color: var(--fall); }
+  .empty-slot { color: #b7c2bc; font-family: var(--mono); font-size: 0.78rem; padding: 0.3rem 0; }
+
+  .suggestions-panel { margin-top: 1.2rem; }
+  .suggestion-row { padding: 0.7rem 1rem; border-bottom: 1px solid var(--line); font-size: 0.85rem; display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap; }
+  .swap-arrow { color: var(--amber); font-weight: 700; }
+  .apply-btn { margin-left: auto; font-family: var(--mono); font-size: 0.72rem; background: var(--pitch); color: white; border: none; border-radius: 6px; padding: 0.35rem 0.6rem; cursor: pointer; }
+
+  footer { max-width: 1200px; margin: 1.2rem auto 0; padding: 0 1.5rem; font-size: 0.78rem; color: #6c7a72; font-family: var(--mono); }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="kicker">Team Builder</p>
+  <h1>Build your squad</h1>
+  <p class="sub">£100m budget, max 3 players per club. Pick 15 and we'll suggest upgrades based on form and fixtures.</p>
+  <nav id="site-nav"></nav>
+</header>
+
+<main>
+  <div class="status-bar">
+    <div class="stat-block"><div class="label">Budget Left</div><div class="value" id="stat-budget">£100.0m</div></div>
+    <div class="stat-block"><div class="label">Squad</div><div class="value" id="stat-count">0 / 15</div></div>
+    <div class="stat-block"><div class="label">Predicted Next GW</div><div class="value" id="stat-points">0.0 pts</div></div>
+    <button class="reset-btn" id="reset-btn">Clear squad</button>
+  </div>
+
+  <div class="layout">
+    <div class="panel">
+      <div class="panel-head">Player pool</div>
+      <div class="pool-filters" id="pool-filters">
+        <button class="pill active" data-pos="ALL">All</button>
+        <button class="pill" data-pos="GKP">GKP</button>
+        <button class="pill" data-pos="DEF">DEF</button>
+        <button class="pill" data-pos="MID">MID</button>
+        <button class="pill" data-pos="FWD">FWD</button>
+        <input class="pool-search" id="pool-search" type="text" placeholder="Search...">
+      </div>
+      <div class="pool-list" id="pool-list"></div>
+    </div>
+
+    <div>
+      <div class="panel">
+        <div class="panel-head">Your squad</div>
+        <div class="squad-groups" id="squad-groups"></div>
+      </div>
+
+      <div class="panel suggestions-panel">
+        <div class="panel-head">Suggested upgrades</div>
+        <div id="suggestions-list"></div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer id="footer-note">Loading...</footer>
+
+<script src="nav.js"></script>
+<script>
+const BUDGET = 100.0;
+const SQUAD_RULES = { GKP: 2, DEF: 5, MID: 5, FWD: 3 };
+const STORAGE_KEY = "pitchside_squad_ids";
+
+let allPlayers = [];
+let squadIds = [];
+let currentPosFilter = "ALL";
+let currentSearch = "";
+
+function loadSquadFromStorage() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    return raw ? JSON.parse(raw) : [];
+  } catch (e) { return []; }
+}
+
+function saveSquadToStorage() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(squadIds));
+}
+
+async function init() {
+  try {
+    const res = await fetch("fpl_players.json");
+    if (!res.ok) throw new Error("not found");
+    allPlayers = await res.json();
+  } catch (err) {
+    document.getElementById("footer-note").textContent = "Couldn't load fpl_players.json — run fetch_fpl_data.py and view this via the local server.";
+    return;
+  }
+  squadIds = loadSquadFromStorage();
+  bindEvents();
+  renderAll();
+}
+
+function bindEvents() {
+  document.querySelectorAll("#pool-filters .pill").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll("#pool-filters .pill").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      currentPosFilter = btn.dataset.pos;
+      renderPool();
+    });
+  });
+  document.getElementById("pool-search").addEventListener("input", e => {
+    currentSearch = e.target.value;
+    renderPool();
+  });
+  document.getElementById("reset-btn").addEventListener("click", () => {
+    if (confirm("Clear your whole squad?")) {
+      squadIds = [];
+      saveSquadToStorage();
+      renderAll();
+    }
+  });
+}
+
+function squadPlayers() {
+  return squadIds.map(id => allPlayers.find(p => p.id === id)).filter(Boolean);
+}
+
+function budgetSpent() {
+  return squadPlayers().reduce((sum, p) => sum + p.price, 0);
+}
+
+function clubCounts() {
+  const counts = {};
+  squadPlayers().forEach(p => { counts[p.team] = (counts[p.team] || 0) + 1; });
+  return counts;
+}
+
+function canAdd(player) {
+  if (squadIds.includes(player.id)) return false;
+  if (squadIds.length >= 15) return false;
+  const posCount = squadPlayers().filter(p => p.position === player.position).length;
+  if (posCount >= SQUAD_RULES[player.position]) return false;
+  if (budgetSpent() + player.price > BUDGET + 0.001) return false;
+  const clubCount = clubCounts()[player.team] || 0;
+  if (clubCount >= 3) return false;
+  return true;
+}
+
+function addPlayer(id) {
+  const player = allPlayers.find(p => p.id === id);
+  if (!player || !canAdd(player)) return;
+  squadIds.push(id);
+  saveSquadToStorage();
+  renderAll();
+}
+
+function removePlayer(id) {
+  squadIds = squadIds.filter(x => x !== id);
+  saveSquadToStorage();
+  renderAll();
+}
+
+function renderPool() {
+  const list = document.getElementById("pool-list");
+  const filtered = allPlayers
+    .filter(p => currentPosFilter === "ALL" || p.position === currentPosFilter)
+    .filter(p => (p.name + p.team).toLowerCase().includes(currentSearch.toLowerCase()))
+    .sort((a, b) => b.total_points - a.total_points)
+    .slice(0, 100);
+
+  list.innerHTML = filtered.map(p => {
+    const already = squadIds.includes(p.id);
+    const addable = canAdd(p);
+    return `
+      <div class="pool-row">
+        <span class="pos-tag pos-${p.position}">${p.position}</span>
+        <span class="pname">${p.name}<span class="pteam"> · ${p.team}</span></span>
+        <span class="pprice">£${p.price.toFixed(1)}m</span>
+        <button class="add-btn" data-id="${p.id}" ${already || !addable ? "disabled" : ""}>${already ? "✓" : "+"}</button>
+      </div>`;
+  }).join("") || `<div style="padding:1.5rem;text-align:center;color:#8b9a92;">No matches</div>`;
+
+  list.querySelectorAll(".add-btn").forEach(btn => {
+    btn.addEventListener("click", () => addPlayer(Number(btn.dataset.id)));
+  });
+}
+
+function renderSquad() {
+  const squad = squadPlayers();
+  const groups = document.getElementById("squad-groups");
+
+  groups.innerHTML = ["GKP", "DEF", "MID", "FWD"].map(pos => {
+    const inPos = squad.filter(p => p.position === pos);
+    const slots = SQUAD_RULES[pos];
+    const rows = [];
+    for (let i = 0; i < slots; i++) {
+      if (inPos[i]) {
+        const p = inPos[i];
+        rows.push(`
+          <div class="squad-row">
+            <span class="pos-tag pos-${p.position}">${p.position}</span>
+            <span class="pname">${p.name}<span style="font-family:var(--mono);font-size:0.7rem;color:#6c7a72;"> · ${p.team} · £${p.price.toFixed(1)}m</span></span>
+            <button class="remove-btn" data-id="${p.id}">✕</button>
+          </div>`);
+      } else {
+        rows.push(`<div class="empty-slot">Empty ${pos} slot</div>`);
+      }
+    }
+    return `<div class="squad-group-label">${pos} (${inPos.length}/${slots})</div>${rows.join("")}`;
+  }).join("");
+
+  groups.querySelectorAll(".remove-btn").forEach(btn => {
+    btn.addEventListener("click", () => removePlayer(Number(btn.dataset.id)));
+  });
+}
+
+function bestStartingXIPoints(squad) {
+  // Greedy: best GK, then fill outfield by ep_next respecting formation caps.
+  const gks = squad.filter(p => p.position === "GKP").sort((a, b) => b.ep_next - a.ep_next);
+  if (gks.length === 0) return 0;
+  let points = gks[0].ep_next;
+
+  const outfield = squad.filter(p => p.position !== "GKP").sort((a, b) => b.ep_next - a.ep_next);
+  const caps = { DEF: { min: 3, max: 5, count: 0 }, MID: { min: 2, max: 5, count: 0 }, FWD: { min: 1, max: 3, count: 0 } };
+  let slotsLeft = 10;
+  const chosen = [];
+
+  for (const pos of ["DEF", "MID", "FWD"]) {
+    const players = outfield.filter(p => p.position === pos);
+    for (let i = 0; i < caps[pos].min && i < players.length; i++) {
+      chosen.push(players[i]);
+      caps[pos].count++;
+      slotsLeft--;
+    }
+  }
+  const remaining = outfield.filter(p => !chosen.includes(p)).sort((a, b) => b.ep_next - a.ep_next);
+  for (const p of remaining) {
+    if (slotsLeft <= 0) break;
+    if (caps[p.position].count >= caps[p.position].max) continue;
+    chosen.push(p);
+    caps[p.position].count++;
+    slotsLeft--;
+  }
+
+  points += chosen.reduce((sum, p) => sum + p.ep_next, 0);
+  return points;
+}
+
+function renderStatusBar() {
+  const spent = budgetSpent();
+  const remaining = BUDGET - spent;
+  document.getElementById("stat-budget").textContent = `£${remaining.toFixed(1)}m`;
+  document.getElementById("stat-budget").classList.toggle("warn", remaining < 0);
+  document.getElementById("stat-count").textContent = `${squadIds.length} / 15`;
+  document.getElementById("stat-points").textContent = `${bestStartingXIPoints(squadPlayers()).toFixed(1)} pts`;
+}
+
+function playerScore(p) {
+  return p.ep_next * 1.5 + p.form + p.expected_goal_involvements * 0.3;
+}
+
+function renderSuggestions() {
+  const squad = squadPlayers();
+  const list = document.getElementById("suggestions-list");
+
+  if (squad.length < 15) {
+    list.innerHTML = `<div style="padding:1.2rem;color:#8b9a92;font-size:0.85rem;">Fill your squad to 15 players to see suggested upgrades.</div>`;
+    return;
+  }
+
+  const clubs = clubCounts();
+  const spent = budgetSpent();
+  const remainingBudget = BUDGET - spent;
+
+  const suggestions = squad.map(current => {
+    const currentScore = playerScore(current);
+    const candidates = allPlayers.filter(p =>
+      p.position === current.position &&
+      !squadIds.includes(p.id) &&
+      p.price <= current.price + remainingBudget &&
+      (clubs[p.team] || 0) < 3
+    );
+    let best = null;
+    for (const c of candidates) {
+      if (!best || playerScore(c) > playerScore(best)) best = c;
+    }
+    if (!best) return null;
+    const improvement = playerScore(best) - currentScore;
+    if (improvement <= 0.3) return null;
+    return { out: current, in: best, improvement };
+  }).filter(Boolean)
+    .sort((a, b) => b.improvement - a.improvement)
+    .slice(0, 5);
+
+  list.innerHTML = suggestions.length
+    ? suggestions.map(s => `
+        <div class="suggestion-row">
+          <span class="pos-tag pos-${s.out.position}">${s.out.position}</span>
+          ${s.out.name} <span class="swap-arrow">→</span> ${s.in.name}
+          <span style="font-family:var(--mono);font-size:0.72rem;color:#6c7a72;">£${s.in.price.toFixed(1)}m</span>
+          <button class="apply-btn" data-out="${s.out.id}" data-in="${s.in.id}">Apply</button>
+        </div>`).join("")
+    : `<div style="padding:1.2rem;color:#8b9a92;font-size:0.85rem;">No clear upgrades found within your budget right now — your squad looks solid.</div>`;
+
+  list.querySelectorAll(".apply-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      removePlayer(Number(btn.dataset.out));
+      addPlayer(Number(btn.dataset.in));
+    });
+  });
+}
+
+function renderAll() {
+  renderPool();
+  renderSquad();
+  renderStatusBar();
+  renderSuggestions();
+  document.getElementById("footer-note").textContent = `Squad saved automatically in this browser. ${allPlayers.length} players available.`;
+}
+
+init();
+</script>
+
+</body>
+</html>

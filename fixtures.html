@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pitchside — Fixture Ticker</title>
+<style>
+  :root {
+    --ink: #10221c;
+    --paper: #f2f6f3;
+    --line: #d7ded9;
+    --pitch: #1c5c40;
+    --pitch-dark: #123c2a;
+    --amber: #e2a83f;
+    --rise: #1c8a54;
+    --fall: #c0463a;
+    --mono: 'IBM Plex Mono', 'SF Mono', Consolas, monospace;
+    --sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --fdr1: #1c8a54;
+    --fdr2: #7ab88a;
+    --fdr3: #d9d3c2;
+    --fdr4: #e08a5b;
+    --fdr5: #c0463a;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--sans); padding: 0 0 4rem; }
+
+  header { background: var(--pitch-dark); color: var(--paper); padding: 2.2rem 1.5rem 1.6rem; position: relative; overflow: hidden; }
+  header::before { content: ""; position: absolute; inset: 0; background: repeating-linear-gradient(90deg, rgba(255,255,255,0.035) 0 2px, transparent 2px 40px); pointer-events: none; }
+  .kicker { font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--amber); margin: 0 0 0.4rem; }
+  h1 { margin: 0; font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 800; letter-spacing: -0.02em; }
+  .sub { margin: 0.5rem 0 0; color: #b9c9c0; font-size: 0.95rem; max-width: 54ch; }
+
+  nav { display: flex; gap: 1.2rem; margin-top: 1.2rem; }
+  nav a { color: #b9c9c0; text-decoration: none; font-family: var(--mono); font-size: 0.8rem; letter-spacing: 0.03em; padding-bottom: 0.2rem; border-bottom: 2px solid transparent; }
+  nav a.active { color: white; border-bottom-color: var(--amber); }
+  nav a:hover { color: white; }
+
+  main { max-width: 1100px; margin: 1.5rem auto 0; padding: 0 1.5rem; }
+
+  .disclaimer {
+    background: #fdf6e8; border: 1px solid #ecd8a3; color: #7a5c1e;
+    font-size: 0.82rem; padding: 0.8rem 1rem; border-radius: 8px; margin-bottom: 1.2rem; line-height: 1.5;
+  }
+
+  .legend { display: flex; align-items: center; gap: 0.5rem; font-family: var(--mono); font-size: 0.72rem; color: #5b6b63; margin-bottom: 0.8rem; }
+  .legend span.box { width: 14px; height: 14px; border-radius: 3px; display: inline-block; margin-right: 3px; vertical-align: middle; }
+
+  .table-wrap { background: white; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; box-shadow: 0 6px 20px rgba(16,34,28,0.06); }
+  table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+  thead th { text-align: left; font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0.06em; text-transform: uppercase; color: #5b6b63; padding: 0.7rem 0.6rem; border-bottom: 2px solid var(--pitch); white-space: nowrap; }
+  tbody tr { border-bottom: 1px solid var(--line); }
+  tbody tr:hover { background: #eef4f0; }
+  tbody td { padding: 0.5rem 0.6rem; vertical-align: middle; }
+  td.team-cell { font-weight: 700; white-space: nowrap; }
+
+  .fixture-cell {
+    text-align: center;
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    font-weight: 700;
+    border-radius: 6px;
+    padding: 0.45rem 0.3rem;
+    color: var(--ink);
+  }
+  .fixture-cell .venue { display: block; font-weight: 400; font-size: 0.65rem; opacity: 0.75; }
+  .fdr-1 { background: var(--fdr1); color: white; }
+  .fdr-2 { background: var(--fdr2); color: #10221c; }
+  .fdr-3 { background: var(--fdr3); color: #10221c; }
+  .fdr-4 { background: var(--fdr4); color: white; }
+  .fdr-5 { background: var(--fdr5); color: white; }
+  .fdr-none { background: var(--paper); color: #8b9a92; }
+
+  footer { max-width: 1100px; margin: 1.2rem auto 0; padding: 0 1.5rem; font-size: 0.78rem; color: #6c7a72; font-family: var(--mono); }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="kicker">Fixture Difficulty Ticker</p>
+  <h1>Who's got it easy</h1>
+  <p class="sub">Our own difficulty model — blending last season's table, this season's live standings, and recent form.</p>
+  <nav id="site-nav"></nav>
+</header>
+
+<main>
+  <p class="disclaimer" id="model-note">Loading...</p>
+
+  <div class="legend">
+    Difficulty:
+    <span class="box" style="background:var(--fdr1)"></span>1 easiest
+    <span class="box" style="background:var(--fdr2)"></span>2
+    <span class="box" style="background:var(--fdr3)"></span>3
+    <span class="box" style="background:var(--fdr4)"></span>4
+    <span class="box" style="background:var(--fdr5)"></span>5 hardest
+  </div>
+
+  <div class="table-wrap">
+    <table id="fixture-table">
+      <thead><tr id="table-head"></tr></thead>
+      <tbody id="table-body"></tbody>
+    </table>
+  </div>
+</main>
+
+<footer id="footer-note">Loading data...</footer>
+
+<script>
+const GAMEWEEKS_TO_SHOW = 5;
+
+async function loadData() {
+  try {
+    const [teamsRes, fixturesRes, metaRes] = await Promise.all([
+      fetch("fpl_teams.json"),
+      fetch("fpl_fixtures.json"),
+      fetch("fpl_meta.json"),
+    ]);
+    if (!teamsRes.ok || !fixturesRes.ok || !metaRes.ok) throw new Error("Data files not found");
+
+    const teams = await teamsRes.json();
+    const fixtures = await fixturesRes.json();
+    const meta = await metaRes.json();
+
+    render(teams, fixtures, meta);
+  } catch (err) {
+    document.getElementById("footer-note").textContent =
+      "Couldn't load data files. Make sure fpl_teams.json and fpl_fixtures.json are in this folder, and you're viewing this via the local server (see README).";
+    console.error(err);
+  }
+}
+
+function strengthToDifficulty(strength) {
+  // Higher opponent strength = harder fixture. Bucket 0-100 into 1-5.
+  if (strength >= 80) return 5;
+  if (strength >= 62) return 4;
+  if (strength >= 42) return 3;
+  if (strength >= 24) return 2;
+  return 1;
+}
+
+function render(teams, fixtures, meta) {
+  const teamById = Object.fromEntries(teams.map(t => [t.id, t]));
+  const startEvent = meta.next_event || meta.current_event || 1;
+  const gwRange = Array.from({ length: GAMEWEEKS_TO_SHOW }, (_, i) => startEvent + i);
+
+  const anyLiveData = teams.some(t => t.strength_score !== undefined);
+  const usingLastSeasonOnly = fixtures.every(f => f.finished === false);
+
+  document.getElementById("model-note").textContent = usingLastSeasonOnly
+    ? "The season hasn't started yet, so team strength is currently based entirely on last season's final table. It'll automatically blend in this season's live results and form as gameweeks are played — no changes needed here."
+    : "Team strength blends last season's table with this season's live results and recent form, weighted more toward current form as the season goes on.";
+
+  // Header row
+  const thead = document.getElementById("table-head");
+  thead.innerHTML = `<th>Team</th>` + gwRange.map(gw => `<th>GW${gw}</th>`).join("");
+
+  // Sort teams by current strength, strongest first, just for a sensible default order
+  const sortedTeams = [...teams].sort((a, b) => b.strength_score - a.strength_score);
+
+  const tbody = document.getElementById("table-body");
+  tbody.innerHTML = sortedTeams.map(team => {
+    const cells = gwRange.map(gw => {
+      const match = fixtures.find(f => f.event === gw && (f.team_h === team.id || f.team_a === team.id));
+      if (!match) return `<td class="fixture-cell fdr-none">—</td>`;
+
+      const isHome = match.team_h === team.id;
+      const oppId = isHome ? match.team_a : match.team_h;
+      const opp = teamById[oppId];
+      if (!opp) return `<td class="fixture-cell fdr-none">—</td>`;
+
+      // Away fixtures are nudged harder; home fixtures nudged easier.
+      const adjusted = opp.strength_score + (isHome ? -6 : 6);
+      const difficulty = strengthToDifficulty(adjusted);
+
+      return `<td class="fixture-cell fdr-${difficulty}">${opp.short_name}<span class="venue">${isHome ? "H" : "A"}</span></td>`;
+    }).join("");
+
+    return `<tr><td class="team-cell">${team.name}</td>${cells}</tr>`;
+  }).join("");
+
+  document.getElementById("footer-note").textContent =
+    `Showing Gameweeks ${gwRange[0]}–${gwRange[gwRange.length - 1]} for ${teams.length} teams. Re-run fetch_fpl_data.py to refresh.`;
+}
+
+loadData();
+</script>
+<script src="nav.js"></script>
+
+</body>
+</html>

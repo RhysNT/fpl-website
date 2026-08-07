@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pitchside — Chips</title>
+<style>
+  :root {
+    --ink: #10221c; --paper: #f2f6f3; --line: #d7ded9; --pitch: #1c5c40; --pitch-dark: #123c2a;
+    --amber: #e2a83f; --rise: #1c8a54; --fall: #c0463a;
+    --mono: 'IBM Plex Mono', 'SF Mono', Consolas, monospace;
+    --sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--sans); padding: 0 0 4rem; }
+  header { background: var(--pitch-dark); color: var(--paper); padding: 2.2rem 1.5rem 1.6rem; position: relative; overflow: hidden; }
+  header::before { content: ""; position: absolute; inset: 0; background: repeating-linear-gradient(90deg, rgba(255,255,255,0.035) 0 2px, transparent 2px 40px); pointer-events: none; }
+  .kicker { font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--amber); margin: 0 0 0.4rem; }
+  h1 { margin: 0; font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 800; letter-spacing: -0.02em; }
+  .sub { margin: 0.5rem 0 0; color: #b9c9c0; font-size: 0.95rem; max-width: 54ch; }
+  nav { display: flex; gap: 1rem; margin-top: 1.2rem; flex-wrap: wrap; }
+  nav a { color: #b9c9c0; text-decoration: none; font-family: var(--mono); font-size: 0.76rem; letter-spacing: 0.02em; padding-bottom: 0.2rem; border-bottom: 2px solid transparent; }
+  nav a.active { color: white; border-bottom-color: var(--amber); }
+  nav a:hover { color: white; }
+
+  main { max-width: 1000px; margin: 1.5rem auto 0; padding: 0 1.5rem; }
+
+  .panel { background: white; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; box-shadow: 0 6px 20px rgba(16,34,28,0.06); margin-bottom: 1.2rem; }
+  .panel-head { padding: 0.9rem 1rem; border-bottom: 1px solid var(--line); font-weight: 800; font-size: 0.95rem; }
+
+  .gw-row { display: flex; align-items: center; gap: 0.7rem; padding: 0.6rem 1rem; border-bottom: 1px solid var(--line); font-size: 0.85rem; }
+  .gw-row:last-child { border-bottom: none; }
+  .gw-tag { font-family: var(--mono); font-size: 0.75rem; font-weight: 700; width: 3.4rem; }
+  .flag { font-family: var(--mono); font-size: 0.68rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px; color: white; }
+  .flag.dgw { background: var(--rise); }
+  .flag.bgw { background: var(--fall); }
+  .team-list { color: #445a4f; }
+
+  .chip-card { padding: 1rem; border-bottom: 1px solid var(--line); }
+  .chip-card:last-child { border-bottom: none; }
+  .chip-card h3 { margin: 0 0 0.4rem; font-size: 0.95rem; }
+  .chip-card p { margin: 0; color: #445a4f; font-size: 0.85rem; line-height: 1.5; }
+
+  footer { max-width: 1000px; margin: 1.2rem auto 0; padding: 0 1.5rem; font-size: 0.78rem; color: #6c7a72; font-family: var(--mono); }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="kicker">Chips &amp; Special Gameweeks</p>
+  <h1>Chip strategy</h1>
+  <p class="sub">When to save your Wildcard, Free Hit, Bench Boost and Triple Captain — and which gameweeks to watch.</p>
+  <nav id="site-nav"></nav>
+</header>
+
+<main>
+  <div class="panel">
+    <div class="panel-head">This week's expert roundup <span style="font-weight:400;font-family:var(--mono);font-size:0.72rem;color:#8b9a92;">— curated 5 Aug 2026, ask Claude to refresh</span></div>
+    <div class="chip-card">
+      <h3>Rotation risks to watch</h3>
+      <p>Sunderland's boss is expected to rotate heavily to manage a packed early schedule, making their assets riskier holds from Gameweek 3 onward. At Chelsea, a new manager and a crowded attacking group mean starting XI roles are genuinely unclear heading into Gameweek 1 — worth waiting for team news rather than guessing. Leeds face an unusually brutal opening (away at Arsenal, then City by Gameweek 3), so their defenders carry real risk early on.</p>
+    </div>
+    <div class="chip-card">
+      <h3>Wildcard timing — the consensus</h3>
+      <p>Opinion is split into two camps. Some managers prefer wildcarding early (Gameweek 4–6) to react fast to which new signings and promoted-team players are actually delivering. The more common view favours Gameweek 8–9, right after the first international break — by then there's a reliable six-gameweek form sample, and the break itself tends to shake up prices, creating good value to exploit. Either way, most experts agree: don't let the first Wildcard sit unused much past Gameweek 19, or you lose it.</p>
+    </div>
+    <div class="chip-card">
+      <h3>Bench Boost / Wildcard combo</h3>
+      <p>A pattern several experts flag: play Bench Boost early (GW1–2) while your bench still has GW1 hype picks in it, then Wildcard immediately after to reinvest that bench money into your starting XI — a clean way to sequence the two chips rather than using them in isolation.</p>
+    </div>
+    <p style="padding:0 1rem 1rem;font-size:0.78rem;color:#8b9a92;font-family:var(--mono);">
+      Sources: Fantasy Football Scout, RotoWire, AllAboutFPL, FPLai — paraphrased, not quoted directly. This section needs manually refreshing; it won't update on its own.
+    </p>
+  </div>
+
+  <div class="panel">
+    <div class="panel-head">Upcoming double &amp; blank gameweeks</div>
+    <div id="gw-list"></div>
+  </div>
+
+  <div class="panel">
+    <div class="panel-head">Chip guide</div>
+    <div class="chip-card">
+      <h3>Wildcard</h3>
+      <p>Unlimited free transfers for one gameweek — use it to fully reshape your squad. One is available for the first half of the season (GW1–19), the second for the back half. Best played just before a run of good fixtures, or right before a Double Gameweek so your new signings benefit from it.</p>
+    </div>
+    <div class="chip-card">
+      <h3>Free Hit</h3>
+      <p>Unlimited transfers for a single gameweek only — your squad reverts afterwards. Ideal for Blank Gameweeks, when several of your players have no fixture at all, letting you field a full XI from teams that are actually playing.</p>
+    </div>
+    <div class="chip-card">
+      <h3>Bench Boost</h3>
+      <p>Your bench players' points count too, for one gameweek. Best saved for a Double Gameweek where as many of your 15 as possible have two fixtures — maximises the extra points from a strong bench.</p>
+    </div>
+    <div class="chip-card">
+      <h3>Triple Captain</h3>
+      <p>Your captain's points are tripled instead of doubled. Best used on a premium, nailed-on player during a Double Gameweek against two favourable fixtures — avoid using it into a single tough away game.</p>
+    </div>
+  </div>
+</main>
+
+<footer id="footer-note">Loading...</footer>
+
+<script src="nav.js"></script>
+<script>
+const GAMEWEEKS_TO_SCAN = 10;
+
+async function load() {
+  try {
+    const [tRes, fRes, mRes] = await Promise.all([
+      fetch("fpl_teams.json"), fetch("fpl_fixtures.json"), fetch("fpl_meta.json"),
+    ]);
+    const teams = await tRes.json();
+    const fixtures = await fRes.json();
+    const meta = await mRes.json();
+    render(teams, fixtures, meta);
+  } catch (err) {
+    document.getElementById("footer-note").textContent = "Couldn't load data files — run fetch_fpl_data.py and view this via the local server.";
+  }
+}
+
+function render(teams, fixtures, meta) {
+  const teamById = Object.fromEntries(teams.map(t => [t.id, t]));
+  const startEvent = meta.next_event || meta.current_event || 1;
+  const gwRange = Array.from({ length: GAMEWEEKS_TO_SCAN }, (_, i) => startEvent + i);
+
+  const rows = gwRange.map(gw => {
+    const gwFixtures = fixtures.filter(f => f.event === gw);
+    const fixtureCounts = {};
+    gwFixtures.forEach(f => {
+      fixtureCounts[f.team_h] = (fixtureCounts[f.team_h] || 0) + 1;
+      fixtureCounts[f.team_a] = (fixtureCounts[f.team_a] || 0) + 1;
+    });
+
+    const doubles = teams.filter(t => (fixtureCounts[t.id] || 0) >= 2);
+    const blanks = teams.filter(t => (fixtureCounts[t.id] || 0) === 0);
+
+    let flagHtml = "";
+    if (doubles.length > 0) flagHtml += `<span class="flag dgw">DGW · ${doubles.length} teams</span>`;
+    if (blanks.length > 0) flagHtml += ` <span class="flag bgw">BGW · ${blanks.length} teams</span>`;
+    if (!flagHtml) flagHtml = `<span style="color:#8b9a92;font-family:var(--mono);font-size:0.78rem;">Normal gameweek</span>`;
+
+    const teamNames = [...doubles, ...blanks].map(t => t.short_name).join(", ");
+
+    return `
+      <div class="gw-row">
+        <span class="gw-tag">GW${gw}</span>
+        ${flagHtml}
+        <span class="team-list">${teamNames}</span>
+      </div>`;
+  }).join("");
+
+  document.getElementById("gw-list").innerHTML = rows;
+
+  const anyFixturesScheduled = fixtures.some(f => f.event >= startEvent && f.event < startEvent + GAMEWEEKS_TO_SCAN);
+  document.getElementById("footer-note").textContent = anyFixturesScheduled
+    ? `Scanning Gameweeks ${gwRange[0]}–${gwRange[gwRange.length - 1]}. Re-run fetch_fpl_data.py to refresh.`
+    : `Fixture list for these gameweeks isn't fully published yet — check back closer to the time.`;
+}
+
+load();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pitchside — Price Changes</title>
+<style>
+  :root {
+    --ink: #10221c;
+    --paper: #f2f6f3;
+    --line: #d7ded9;
+    --pitch: #1c5c40;
+    --pitch-dark: #123c2a;
+    --amber: #e2a83f;
+    --rise: #1c8a54;
+    --fall: #c0463a;
+    --mono: 'IBM Plex Mono', 'SF Mono', Consolas, monospace;
+    --sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--sans); padding: 0 0 4rem; }
+
+  header { background: var(--pitch-dark); color: var(--paper); padding: 2.2rem 1.5rem 1.6rem; position: relative; overflow: hidden; }
+  header::before { content: ""; position: absolute; inset: 0; background: repeating-linear-gradient(90deg, rgba(255,255,255,0.035) 0 2px, transparent 2px 40px); pointer-events: none; }
+  .kicker { font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--amber); margin: 0 0 0.4rem; }
+  h1 { margin: 0; font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 800; letter-spacing: -0.02em; }
+  .sub { margin: 0.5rem 0 0; color: #b9c9c0; font-size: 0.95rem; max-width: 52ch; }
+
+  nav { display: flex; gap: 1.2rem; margin-top: 1.2rem; }
+  nav a { color: #b9c9c0; text-decoration: none; font-family: var(--mono); font-size: 0.8rem; letter-spacing: 0.03em; padding-bottom: 0.2rem; border-bottom: 2px solid transparent; }
+  nav a.active { color: white; border-bottom-color: var(--amber); }
+  nav a:hover { color: white; }
+
+  main { max-width: 1100px; margin: 1.5rem auto 0; padding: 0 1.5rem; }
+
+  .disclaimer {
+    background: #fdf6e8; border: 1px solid #ecd8a3; color: #7a5c1e;
+    font-size: 0.82rem; padding: 0.8rem 1rem; border-radius: 8px; margin-bottom: 1.2rem; line-height: 1.5;
+  }
+
+  .columns { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; }
+  @media (max-width: 800px) { .columns { grid-template-columns: 1fr; } }
+
+  .panel { background: white; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; box-shadow: 0 6px 20px rgba(16,34,28,0.06); }
+  .panel-head { padding: 0.9rem 1rem; border-bottom: 1px solid var(--line); display: flex; align-items: center; gap: 0.5rem; }
+  .panel-head h2 { margin: 0; font-size: 1rem; font-weight: 800; }
+  .panel-head .dot { width: 9px; height: 9px; border-radius: 50%; }
+  .rise-panel .dot { background: var(--rise); }
+  .fall-panel .dot { background: var(--fall); }
+
+  ul.player-list { list-style: none; margin: 0; padding: 0; }
+  ul.player-list li { display: flex; align-items: center; gap: 0.6rem; padding: 0.6rem 1rem; border-bottom: 1px solid var(--line); }
+  ul.player-list li:last-child { border-bottom: none; }
+
+  .rank { font-family: var(--mono); font-size: 0.75rem; color: #8b9a92; width: 1.4rem; }
+
+  .p-name { font-weight: 700; flex: 1; min-width: 0; }
+  .p-team { display: block; font-weight: 400; font-size: 0.75rem; color: #6c7a72; font-family: var(--mono); }
+
+  .p-price { font-family: var(--mono); font-size: 0.8rem; color: #445a4f; }
+
+  .momentum-bar-wrap { width: 80px; height: 8px; background: var(--paper); border-radius: 4px; overflow: hidden; flex-shrink: 0; }
+  .momentum-bar { height: 100%; }
+  .rise-panel .momentum-bar { background: var(--rise); }
+  .fall-panel .momentum-bar { background: var(--fall); }
+
+  .net-count { font-family: var(--mono); font-size: 0.75rem; width: 4.2rem; text-align: right; color: #445a4f; }
+
+  .already-moved { max-width: 1100px; margin: 1.4rem auto 0; padding: 0 1.5rem; }
+  .already-moved h2 { font-size: 0.95rem; margin: 0 0 0.6rem; }
+  .chip-row { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .chip { font-family: var(--mono); font-size: 0.78rem; background: white; border: 1px solid var(--line); border-radius: 999px; padding: 0.35rem 0.7rem; display: flex; align-items: center; gap: 0.4rem; }
+  .chip.up { border-color: #bfe3cc; }
+  .chip.down { border-color: #f0c6bf; }
+  .chip .arrow-up { color: var(--rise); font-weight: 700; }
+  .chip .arrow-down { color: var(--fall); font-weight: 700; }
+
+  footer { max-width: 1100px; margin: 1.6rem auto 0; padding: 0 1.5rem; font-size: 0.78rem; color: #6c7a72; font-family: var(--mono); }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="kicker">Price Change Tracker</p>
+  <h1>Who's about to move</h1>
+  <p class="sub">Ranked by transfer momentum relative to how widely-owned each player already is.</p>
+  <nav id="site-nav"></nav>
+</header>
+
+<main>
+  <p class="disclaimer">
+    FPL doesn't publish its exact price-change formula, so this is an estimate: we rank players
+    by today's net transfers scaled against their existing ownership. Treat the order as a strong
+    signal, not a guarantee — a player near the top of Risers could still not move today.
+  </p>
+
+  <div class="columns">
+    <div class="panel rise-panel">
+      <div class="panel-head"><span class="dot"></span><h2>Likely risers</h2></div>
+      <ul class="player-list" id="risers-list"></ul>
+    </div>
+    <div class="panel fall-panel">
+      <div class="panel-head"><span class="dot"></span><h2>Likely fallers</h2></div>
+      <ul class="player-list" id="fallers-list"></ul>
+    </div>
+  </div>
+</main>
+
+<div class="already-moved">
+  <h2>Already changed price today</h2>
+  <div class="chip-row" id="already-moved-row"></div>
+</div>
+
+<footer id="footer-note">Loading data...</footer>
+
+<script>
+async function loadData() {
+  try {
+    const [playersRes, metaRes] = await Promise.all([
+      fetch("fpl_players.json"),
+      fetch("fpl_meta.json"),
+    ]);
+    if (!playersRes.ok || !metaRes.ok) throw new Error("Data files not found");
+
+    const players = await playersRes.json();
+    const meta = await metaRes.json();
+
+    computeAndRender(players, meta);
+  } catch (err) {
+    document.getElementById("footer-note").textContent =
+      "Couldn't load data files. Make sure fpl_players.json and fpl_meta.json are in this folder, and you're viewing this via the local server (see README).";
+    console.error(err);
+  }
+}
+
+function computeAndRender(players, meta) {
+  const totalManagers = meta.total_players || 3000000;
+
+  // Before the season starts, transfers_in_event/transfers_out_event are 0
+  // for everyone (no gameweek is live yet). Fall back to cumulative
+  // preseason transfers so the tool still shows something meaningful.
+  const anyLiveActivity = players.some(p => p.transfers_in_event !== 0 || p.transfers_out_event !== 0);
+  const usingPreseasonData = !anyLiveActivity;
+
+  if (usingPreseasonData) {
+    const banner = document.createElement("p");
+    banner.className = "disclaimer";
+    banner.style.background = "#e9f2ec";
+    banner.style.borderColor = "#bfe3cc";
+    banner.style.color = "#1c5c40";
+    banner.textContent = "The season hasn't started yet, so there's no live in-gameweek transfer data. Showing cumulative preseason squad-building activity instead — this becomes a true price-change predictor once Gameweek 1 kicks off.";
+    document.querySelector("main").insertBefore(banner, document.querySelector(".columns"));
+  }
+
+  // Momentum score: net transfers, scaled down for players who are
+  // already widely owned (they need bigger raw numbers to move the same %).
+  const scored = players
+    .filter(p => p.status !== "u")               // skip unavailable/removed players
+    .map(p => {
+      const netTransfers = usingPreseasonData
+        ? p.transfers_in - p.transfers_out
+        : p.transfers_in_event - p.transfers_out_event;
+      const ownersEstimate = (p.selected_by_percent / 100) * totalManagers;
+      const momentum = netTransfers / (ownersEstimate + 2000); // +2000 softens tiny-ownership noise
+      return { ...p, netTransfers, momentum };
+    });
+
+  const alreadyMoved = scored.filter(p => p.cost_change_event !== 0);
+  const stillMovable = scored.filter(p => p.cost_change_event === 0);
+
+  const risers = [...stillMovable].filter(p => p.netTransfers > 0)
+    .sort((a, b) => b.momentum - a.momentum).slice(0, 12);
+  const fallers = [...stillMovable].filter(p => p.netTransfers < 0)
+    .sort((a, b) => a.momentum - b.momentum).slice(0, 12);
+
+  const maxRiseMomentum = Math.max(...risers.map(p => p.momentum), 0.0001);
+  const maxFallMomentum = Math.max(...fallers.map(p => Math.abs(p.momentum)), 0.0001);
+
+  document.getElementById("risers-list").innerHTML = risers.map((p, i) => `
+    <li>
+      <span class="rank">${i + 1}</span>
+      <span class="p-name">${p.name}<span class="p-team">${p.team}</span></span>
+      <span class="p-price">£${p.price.toFixed(1)}m</span>
+      <span class="momentum-bar-wrap"><span class="momentum-bar" style="width:${(p.momentum / maxRiseMomentum) * 100}%"></span></span>
+      <span class="net-count">+${p.netTransfers.toLocaleString()}</span>
+    </li>
+  `).join("") || `<li style="color:#8b9a92;">No strong risers right now</li>`;
+
+  document.getElementById("fallers-list").innerHTML = fallers.map((p, i) => `
+    <li>
+      <span class="rank">${i + 1}</span>
+      <span class="p-name">${p.name}<span class="p-team">${p.team}</span></span>
+      <span class="p-price">£${p.price.toFixed(1)}m</span>
+      <span class="momentum-bar-wrap"><span class="momentum-bar" style="width:${(Math.abs(p.momentum) / maxFallMomentum) * 100}%"></span></span>
+      <span class="net-count">${p.netTransfers.toLocaleString()}</span>
+    </li>
+  `).join("") || `<li style="color:#8b9a92;">No strong fallers right now</li>`;
+
+  document.getElementById("already-moved-row").innerHTML = alreadyMoved.length
+    ? alreadyMoved.map(p => `
+        <span class="chip ${p.cost_change_event > 0 ? "up" : "down"}">
+          <span class="${p.cost_change_event > 0 ? "arrow-up" : "arrow-down"}">${p.cost_change_event > 0 ? "▲" : "▼"}</span>
+          ${p.name} <span style="color:#8b9a92;">£${p.price.toFixed(1)}m</span>
+        </span>
+      `).join("")
+    : `<span style="color:#8b9a92; font-family: var(--mono); font-size: 0.85rem;">No price changes yet today</span>`;
+
+  document.getElementById("footer-note").textContent =
+    `Based on ${players.length} players and an estimated ${totalManagers.toLocaleString()} FPL managers. Re-run fetch_fpl_data.py to refresh.`;
+}
+
+loadData();
+</script>
+<script src="nav.js"></script>
+
+</body>
+</html>
