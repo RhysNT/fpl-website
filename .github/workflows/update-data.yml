@@ -1,0 +1,38 @@
+name: Update FPL Data
+
+# Runs automatically every 6 hours, and can also be triggered manually
+# from the "Actions" tab on GitHub for testing.
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+# Needed so this workflow is allowed to push commits back to the repo
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch latest FPL data
+        run: python fetch_fpl_data.py
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add fpl_players.json fpl_teams.json fpl_fixtures.json fpl_meta.json fpl_last_season_snapshot.json
+          git diff --staged --quiet || git commit -m "Auto-update FPL data $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
