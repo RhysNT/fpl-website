@@ -4,70 +4,70 @@
     "team_h": 1,
     "team_a": 7,
     "kickoff_time": "2026-08-21T19:00:00Z",
-    "finished": false
+    "finished": true
   },
   {
     "event": 1,
     "team_h": 11,
     "team_a": 16,
     "kickoff_time": "2026-08-22T11:30:00Z",
-    "finished": false
+    "finished": true
   },
   {
     "event": 1,
     "team_h": 9,
     "team_a": 8,
     "kickoff_time": "2026-08-22T14:00:00Z",
-    "finished": false
+    "finished": true
   },
   {
     "event": 1,
     "team_h": 12,
     "team_a": 20,
     "kickoff_time": "2026-08-22T14:00:00Z",
-    "finished": false
+    "finished": true
   },
   {
     "event": 1,
     "team_h": 18,
     "team_a": 13,
     "kickoff_time": "2026-08-22T14:00:00Z",
-    "finished": false
+    "finished": true
   },
   {
     "event": 1,
     "team_h": 4,
     "team_a": 19,
     "kickoff_time": "2026-08-22T16:30:00Z",
-    "finished": false
+    "finished": true
   },
   {
     "event": 1,
     "team_h": 5,
     "team_a": 2,
     "kickoff_time": "2026-08-23T13:00:00Z",
-    "finished": false
+    "finished": true
   },
   {
     "event": 1,
     "team_h": 15,
     "team_a": 3,
     "kickoff_time": "2026-08-23T13:00:00Z",
-    "finished": false
+    "finished": true
   },
   {
     "event": 1,
     "team_h": 17,
     "team_a": 14,
     "kickoff_time": "2026-08-23T15:30:00Z",
-    "finished": false
+    "finished": true
   },
   {
     "event": 1,
     "team_h": 10,
     "team_a": 6,
     "kickoff_time": "2026-08-24T19:00:00Z",
-    "finished": false
+    "finished": true
   },
   {
     "event": 2,
