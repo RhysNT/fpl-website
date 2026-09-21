@@ -3,85 +3,85 @@
     "id": 1,
     "name": "Arsenal",
     "short_name": "ARS",
-    "strength_score": 103.2
+    "strength_score": 92.6
   },
   {
     "id": 2,
     "name": "Aston Villa",
     "short_name": "AVL",
-    "strength_score": 57.0
+    "strength_score": 58.1
   },
   {
     "id": 3,
     "name": "Bournemouth",
     "short_name": "BOU",
-    "strength_score": 57.4
+    "strength_score": 49.5
   },
   {
     "id": 4,
     "name": "Brentford",
     "short_name": "BRE",
-    "strength_score": 57.9
+    "strength_score": 61.6
   },
   {
     "id": 5,
     "name": "Brighton",
     "short_name": "BHA",
-    "strength_score": 51.8
+    "strength_score": 57.0
   },
   {
     "id": 6,
     "name": "Chelsea",
     "short_name": "CHE",
-    "strength_score": 64.4
+    "strength_score": 57.5
   },
   {
     "id": 7,
     "name": "Coventry City",
     "short_name": "COV",
-    "strength_score": 6.3
+    "strength_score": 15.3
   },
   {
     "id": 8,
     "name": "Crystal Palace",
     "short_name": "CRY",
-    "strength_score": 32.1
+    "strength_score": 31.8
   },
   {
     "id": 9,
     "name": "Everton",
     "short_name": "EVE",
-    "strength_score": 54.7
+    "strength_score": 58.9
   },
   {
     "id": 10,
     "name": "Fulham",
     "short_name": "FUL",
-    "strength_score": 34.9
+    "strength_score": 33.0
   },
   {
     "id": 11,
     "name": "Hull City",
     "short_name": "HUL",
-    "strength_score": 33.0
+    "strength_score": 31.9
   },
   {
     "id": 12,
     "name": "Ipswich Town",
     "short_name": "IPS",
-    "strength_score": 26.3
+    "strength_score": 25.3
   },
   {
     "id": 13,
     "name": "Leeds",
     "short_name": "LEE",
-    "strength_score": 45.6
+    "strength_score": 45.8
   },
   {
     "id": 14,
     "name": "Liverpool",
     "short_name": "LIV",
-    "strength_score": 70.5
+    "strength_score": 72.1
   },
   {
     "id": 15,
@@ -93,30 +93,30 @@
     "id": 16,
     "name": "Man Utd",
     "short_name": "MUN",
-    "strength_score": 70.2
+    "strength_score": 64.0
   },
   {
     "id": 17,
     "name": "Newcastle",
     "short_name": "NEW",
-    "strength_score": 41.9
+    "strength_score": 47.7
   },
   {
     "id": 18,
     "name": "Nott'm Forest",
     "short_name": "NFO",
-    "strength_score": 29.3
+    "strength_score": 27.2
   },
   {
     "id": 19,
     "name": "Spurs",
     "short_name": "TOT",
-    "strength_score": 22.5
+    "strength_score": 19.8
   },
   {
     "id": 20,
     "name": "Sunderland",
     "short_name": "SUN",
-    "strength_score": 57.5
+    "strength_score": 50.2
   }
 ]
