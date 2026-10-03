@@ -26,10 +26,10 @@
     "last_season_starts": 37,
     "status": "a",
     "news": "",
-    "transfers_in_event": 129216,
-    "transfers_out_event": 49229,
-    "transfers_in": 969615,
-    "transfers_out": 641633,
+    "transfers_in_event": 129538,
+    "transfers_out_event": 49429,
+    "transfers_in": 969937,
+    "transfers_out": 641833,
     "cost_change_event": 1
   },
   {
@@ -60,9 +60,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 113,
-    "transfers_out_event": 261,
+    "transfers_out_event": 263,
     "transfers_in": 1490,
-    "transfers_out": 4274,
+    "transfers_out": 4276,
     "cost_change_event": 0
   },
   {
@@ -125,10 +125,10 @@
     "last_season_starts": 30,
     "status": "a",
     "news": "",
-    "transfers_in_event": 25706,
-    "transfers_out_event": 67941,
-    "transfers_in": 235949,
-    "transfers_out": 910832,
+    "transfers_in_event": 25812,
+    "transfers_out_event": 68113,
+    "transfers_in": 236055,
+    "transfers_out": 911004,
     "cost_change_event": 0
   },
   {
@@ -158,10 +158,10 @@
     "last_season_starts": 28,
     "status": "a",
     "news": "",
-    "transfers_in_event": 13105,
-    "transfers_out_event": 4257,
-    "transfers_in": 34761,
-    "transfers_out": 15010,
+    "transfers_in_event": 13164,
+    "transfers_out_event": 4281,
+    "transfers_in": 34820,
+    "transfers_out": 15034,
     "cost_change_event": 0
   },
   {
@@ -191,10 +191,10 @@
     "last_season_starts": 30,
     "status": "i",
     "news": "Back injury - Unknown return date",
-    "transfers_in_event": 408,
-    "transfers_out_event": 1137,
-    "transfers_in": 3490,
-    "transfers_out": 18690,
+    "transfers_in_event": 410,
+    "transfers_out_event": 1139,
+    "transfers_in": 3492,
+    "transfers_out": 18692,
     "cost_change_event": 0
   },
   {
@@ -224,10 +224,10 @@
     "last_season_starts": 5,
     "status": "a",
     "news": "",
-    "transfers_in_event": 957,
-    "transfers_out_event": 5035,
-    "transfers_in": 29634,
-    "transfers_out": 49839,
+    "transfers_in_event": 962,
+    "transfers_out_event": 5039,
+    "transfers_in": 29639,
+    "transfers_out": 49843,
     "cost_change_event": -1
   },
   {
@@ -257,10 +257,10 @@
     "last_season_starts": 22,
     "status": "a",
     "news": "",
-    "transfers_in_event": 79056,
-    "transfers_out_event": 65162,
-    "transfers_in": 1659064,
-    "transfers_out": 403669,
+    "transfers_in_event": 79418,
+    "transfers_out_event": 65329,
+    "transfers_in": 1659426,
+    "transfers_out": 403836,
     "cost_change_event": 0
   },
   {
@@ -290,10 +290,10 @@
     "last_season_starts": 20,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1481,
-    "transfers_out_event": 5807,
-    "transfers_in": 16300,
-    "transfers_out": 117518,
+    "transfers_in_event": 1486,
+    "transfers_out_event": 5816,
+    "transfers_in": 16305,
+    "transfers_out": 117527,
     "cost_change_event": -1
   },
   {
@@ -324,9 +324,9 @@
     "status": "d",
     "news": "Groin injury - 75% chance of playing",
     "transfers_in_event": 3264,
-    "transfers_out_event": 68766,
+    "transfers_out_event": 68942,
     "transfers_in": 456022,
-    "transfers_out": 567547,
+    "transfers_out": 567723,
     "cost_change_event": 0
   },
   {
@@ -356,10 +356,10 @@
     "last_season_starts": 9,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1238,
-    "transfers_out_event": 9637,
-    "transfers_in": 31403,
-    "transfers_out": 468366,
+    "transfers_in_event": 1242,
+    "transfers_out_event": 9658,
+    "transfers_in": 31407,
+    "transfers_out": 468387,
     "cost_change_event": 0
   },
   {
@@ -389,10 +389,10 @@
     "last_season_starts": 25,
     "status": "a",
     "news": "",
-    "transfers_in_event": 114359,
-    "transfers_out_event": 48738,
-    "transfers_in": 793981,
-    "transfers_out": 398589,
+    "transfers_in_event": 115176,
+    "transfers_out_event": 48862,
+    "transfers_in": 794798,
+    "transfers_out": 398713,
     "cost_change_event": 0
   },
   {
@@ -422,10 +422,10 @@
     "last_season_starts": 35,
     "status": "d",
     "news": "Unspecified injury - 75% chance of playing",
-    "transfers_in_event": 7638,
-    "transfers_out_event": 86195,
-    "transfers_in": 119484,
-    "transfers_out": 728869,
+    "transfers_in_event": 7645,
+    "transfers_out_event": 86444,
+    "transfers_in": 119491,
+    "transfers_out": 729118,
     "cost_change_event": 0
   },
   {
@@ -455,10 +455,10 @@
     "last_season_starts": 22,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2496,
-    "transfers_out_event": 6940,
-    "transfers_in": 23415,
-    "transfers_out": 139784,
+    "transfers_in_event": 2543,
+    "transfers_out_event": 6952,
+    "transfers_in": 23462,
+    "transfers_out": 139796,
     "cost_change_event": -1
   },
   {
@@ -488,10 +488,10 @@
     "last_season_starts": 16,
     "status": "a",
     "news": "",
-    "transfers_in_event": 79868,
-    "transfers_out_event": 90193,
-    "transfers_in": 1635588,
-    "transfers_out": 549642,
+    "transfers_in_event": 80181,
+    "transfers_out_event": 90404,
+    "transfers_in": 1635901,
+    "transfers_out": 549853,
     "cost_change_event": 0
   },
   {
@@ -522,9 +522,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 755,
-    "transfers_out_event": 1588,
+    "transfers_out_event": 1592,
     "transfers_in": 6035,
-    "transfers_out": 26008,
+    "transfers_out": 26012,
     "cost_change_event": 0
   },
   {
@@ -554,10 +554,10 @@
     "last_season_starts": 10,
     "status": "a",
     "news": "",
-    "transfers_in_event": 777,
-    "transfers_out_event": 2942,
-    "transfers_in": 9514,
-    "transfers_out": 48232,
+    "transfers_in_event": 780,
+    "transfers_out_event": 2947,
+    "transfers_in": 9517,
+    "transfers_out": 48237,
     "cost_change_event": -1
   },
   {
@@ -588,9 +588,9 @@
     "status": "u",
     "news": "Has joined Al Hilal permanently",
     "transfers_in_event": 0,
-    "transfers_out_event": 584,
+    "transfers_out_event": 586,
     "transfers_in": 2483,
-    "transfers_out": 21885,
+    "transfers_out": 21887,
     "cost_change_event": 0
   },
   {
@@ -620,10 +620,10 @@
     "last_season_starts": 34,
     "status": "a",
     "news": "",
-    "transfers_in_event": 515,
-    "transfers_out_event": 3784,
-    "transfers_in": 8530,
-    "transfers_out": 66727,
+    "transfers_in_event": 517,
+    "transfers_out_event": 3795,
+    "transfers_in": 8532,
+    "transfers_out": 66738,
     "cost_change_event": 0
   },
   {
@@ -654,9 +654,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 468,
-    "transfers_out_event": 597,
+    "transfers_out_event": 598,
     "transfers_in": 3056,
-    "transfers_out": 7316,
+    "transfers_out": 7317,
     "cost_change_event": 0
   },
   {
@@ -785,10 +785,10 @@
     "last_season_starts": 26,
     "status": "a",
     "news": "",
-    "transfers_in_event": 12750,
-    "transfers_out_event": 17335,
-    "transfers_in": 40973,
-    "transfers_out": 611659,
+    "transfers_in_event": 12916,
+    "transfers_out_event": 17378,
+    "transfers_in": 41139,
+    "transfers_out": 611702,
     "cost_change_event": -1
   },
   {
@@ -818,10 +818,10 @@
     "last_season_starts": 7,
     "status": "d",
     "news": "Hamstring injury - 75% chance of playing",
-    "transfers_in_event": 50598,
-    "transfers_out_event": 66505,
-    "transfers_in": 653831,
-    "transfers_out": 426977,
+    "transfers_in_event": 50616,
+    "transfers_out_event": 66860,
+    "transfers_in": 653849,
+    "transfers_out": 427332,
     "cost_change_event": 0
   },
   {
@@ -852,9 +852,9 @@
     "status": "u",
     "news": "Has joined FC Barcelona permanently",
     "transfers_in_event": 0,
-    "transfers_out_event": 1048,
+    "transfers_out_event": 1050,
     "transfers_in": 4164,
-    "transfers_out": 29323,
+    "transfers_out": 29325,
     "cost_change_event": 0
   },
   {
@@ -884,10 +884,10 @@
     "last_season_starts": 34,
     "status": "a",
     "news": "",
-    "transfers_in_event": 92686,
-    "transfers_out_event": 47790,
-    "transfers_in": 1465993,
-    "transfers_out": 638898,
+    "transfers_in_event": 92918,
+    "transfers_out_event": 48024,
+    "transfers_in": 1466225,
+    "transfers_out": 639132,
     "cost_change_event": 1
   },
   {
@@ -917,10 +917,10 @@
     "last_season_starts": 27,
     "status": "a",
     "news": "",
-    "transfers_in_event": 5876,
-    "transfers_out_event": 7808,
-    "transfers_in": 30822,
-    "transfers_out": 244881,
+    "transfers_in_event": 5907,
+    "transfers_out_event": 7823,
+    "transfers_in": 30853,
+    "transfers_out": 244896,
     "cost_change_event": 0
   },
   {
@@ -950,10 +950,10 @@
     "last_season_starts": 0,
     "status": "d",
     "news": "Hamstring injury - 75% chance of playing",
-    "transfers_in_event": 12386,
-    "transfers_out_event": 144644,
-    "transfers_in": 462753,
-    "transfers_out": 1607852,
+    "transfers_in_event": 12389,
+    "transfers_out_event": 145494,
+    "transfers_in": 462756,
+    "transfers_out": 1608702,
     "cost_change_event": -1
   },
   {
@@ -1049,10 +1049,10 @@
     "last_season_starts": 34,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2739,
-    "transfers_out_event": 25538,
-    "transfers_in": 95390,
-    "transfers_out": 419527,
+    "transfers_in_event": 2750,
+    "transfers_out_event": 25602,
+    "transfers_in": 95401,
+    "transfers_out": 419591,
     "cost_change_event": 0
   },
   {
@@ -1082,10 +1082,10 @@
     "last_season_starts": 15,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1763,
-    "transfers_out_event": 1441,
-    "transfers_in": 16483,
-    "transfers_out": 17465,
+    "transfers_in_event": 1774,
+    "transfers_out_event": 1446,
+    "transfers_in": 16494,
+    "transfers_out": 17470,
     "cost_change_event": 0
   },
   {
@@ -1116,9 +1116,9 @@
     "status": "i",
     "news": "Hamstring injury - Expected back 10 Oct",
     "transfers_in_event": 44,
-    "transfers_out_event": 3192,
+    "transfers_out_event": 3200,
     "transfers_in": 11237,
-    "transfers_out": 27550,
+    "transfers_out": 27558,
     "cost_change_event": -1
   },
   {
@@ -1182,9 +1182,9 @@
     "status": "i",
     "news": "Ankle injury - Unknown return date",
     "transfers_in_event": 51,
-    "transfers_out_event": 6287,
+    "transfers_out_event": 6299,
     "transfers_in": 31893,
-    "transfers_out": 62025,
+    "transfers_out": 62037,
     "cost_change_event": -1
   },
   {
@@ -1214,10 +1214,10 @@
     "last_season_starts": 11,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1070,
-    "transfers_out_event": 1322,
-    "transfers_in": 14670,
-    "transfers_out": 14345,
+    "transfers_in_event": 1076,
+    "transfers_out_event": 1326,
+    "transfers_in": 14676,
+    "transfers_out": 14349,
     "cost_change_event": 0
   },
   {
@@ -1247,10 +1247,10 @@
     "last_season_starts": 1,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1875,
-    "transfers_out_event": 6171,
-    "transfers_in": 45321,
-    "transfers_out": 68071,
+    "transfers_in_event": 1876,
+    "transfers_out_event": 6183,
+    "transfers_in": 45322,
+    "transfers_out": 68083,
     "cost_change_event": 0
   },
   {
@@ -1281,9 +1281,9 @@
     "status": "u",
     "news": "Has joined Rangers on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 575,
+    "transfers_out_event": 576,
     "transfers_in": 0,
-    "transfers_out": 15260,
+    "transfers_out": 15261,
     "cost_change_event": 0
   },
   {
@@ -1313,10 +1313,10 @@
     "last_season_starts": 21,
     "status": "a",
     "news": "",
-    "transfers_in_event": 12524,
-    "transfers_out_event": 4291,
-    "transfers_in": 60508,
-    "transfers_out": 95436,
+    "transfers_in_event": 12565,
+    "transfers_out_event": 4307,
+    "transfers_in": 60549,
+    "transfers_out": 95452,
     "cost_change_event": 0
   },
   {
@@ -1347,9 +1347,9 @@
     "status": "u",
     "news": "Has joined Olympiakos permanently",
     "transfers_in_event": 0,
-    "transfers_out_event": 502,
+    "transfers_out_event": 504,
     "transfers_in": 2096,
-    "transfers_out": 13233,
+    "transfers_out": 13235,
     "cost_change_event": 0
   },
   {
@@ -1379,10 +1379,10 @@
     "last_season_starts": 28,
     "status": "a",
     "news": "",
-    "transfers_in_event": 7007,
-    "transfers_out_event": 8724,
-    "transfers_in": 70838,
-    "transfers_out": 155686,
+    "transfers_in_event": 7032,
+    "transfers_out_event": 8746,
+    "transfers_in": 70863,
+    "transfers_out": 155708,
     "cost_change_event": 0
   },
   {
@@ -1413,9 +1413,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 575,
-    "transfers_out_event": 1790,
+    "transfers_out_event": 1793,
     "transfers_in": 16132,
-    "transfers_out": 16267,
+    "transfers_out": 16270,
     "cost_change_event": 0
   },
   {
@@ -1445,10 +1445,10 @@
     "last_season_starts": 17,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1341,
-    "transfers_out_event": 1597,
-    "transfers_in": 14550,
-    "transfers_out": 21545,
+    "transfers_in_event": 1343,
+    "transfers_out_event": 1599,
+    "transfers_in": 14552,
+    "transfers_out": 21547,
     "cost_change_event": 0
   },
   {
@@ -1478,9 +1478,9 @@
     "last_season_starts": 21,
     "status": "i",
     "news": "Knee injury - Unknown return date",
-    "transfers_in_event": 41,
+    "transfers_in_event": 42,
     "transfers_out_event": 97,
-    "transfers_in": 512,
+    "transfers_in": 513,
     "transfers_out": 1667,
     "cost_change_event": 0
   },
@@ -1544,10 +1544,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 646,
-    "transfers_out_event": 3437,
-    "transfers_in": 21471,
-    "transfers_out": 35161,
+    "transfers_in_event": 648,
+    "transfers_out_event": 3443,
+    "transfers_in": 21473,
+    "transfers_out": 35167,
     "cost_change_event": 0
   },
   {
@@ -1577,10 +1577,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3240,
-    "transfers_out_event": 9790,
-    "transfers_in": 115923,
-    "transfers_out": 69723,
+    "transfers_in_event": 3243,
+    "transfers_out_event": 9811,
+    "transfers_in": 115926,
+    "transfers_out": 69744,
     "cost_change_event": 0
   },
   {
@@ -1611,9 +1611,9 @@
     "status": "d",
     "news": "Unspecified injury - 75% chance of playing",
     "transfers_in_event": 69,
-    "transfers_out_event": 798,
+    "transfers_out_event": 799,
     "transfers_in": 3355,
-    "transfers_out": 3661,
+    "transfers_out": 3662,
     "cost_change_event": 0
   },
   {
@@ -1643,10 +1643,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 28527,
-    "transfers_out_event": 3398,
-    "transfers_in": 31513,
-    "transfers_out": 20017,
+    "transfers_in_event": 28590,
+    "transfers_out_event": 3417,
+    "transfers_in": 31576,
+    "transfers_out": 20036,
     "cost_change_event": 0
   },
   {
@@ -1710,9 +1710,9 @@
     "status": "u",
     "news": "Has joined Al Hilal permanently",
     "transfers_in_event": 0,
-    "transfers_out_event": 13062,
+    "transfers_out_event": 13093,
     "transfers_in": 14882,
-    "transfers_out": 760443,
+    "transfers_out": 760474,
     "cost_change_event": 0
   },
   {
@@ -1742,10 +1742,10 @@
     "last_season_starts": 2,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1736,
-    "transfers_out_event": 1759,
-    "transfers_in": 15784,
-    "transfers_out": 12935,
+    "transfers_in_event": 1742,
+    "transfers_out_event": 1762,
+    "transfers_in": 15790,
+    "transfers_out": 12938,
     "cost_change_event": 0
   },
   {
@@ -1775,10 +1775,10 @@
     "last_season_starts": 14,
     "status": "a",
     "news": "",
-    "transfers_in_event": 550,
-    "transfers_out_event": 2801,
-    "transfers_in": 7498,
-    "transfers_out": 41254,
+    "transfers_in_event": 554,
+    "transfers_out_event": 2809,
+    "transfers_in": 7502,
+    "transfers_out": 41262,
     "cost_change_event": 0
   },
   {
@@ -1808,10 +1808,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 37383,
-    "transfers_out_event": 8290,
-    "transfers_in": 182645,
-    "transfers_out": 85230,
+    "transfers_in_event": 37515,
+    "transfers_out_event": 8322,
+    "transfers_in": 182777,
+    "transfers_out": 85262,
     "cost_change_event": 0
   },
   {
@@ -1841,10 +1841,10 @@
     "last_season_starts": 0,
     "status": "i",
     "news": "Unspecified injury - Unknown return date",
-    "transfers_in_event": 228,
-    "transfers_out_event": 1805,
-    "transfers_in": 2913,
-    "transfers_out": 30576,
+    "transfers_in_event": 231,
+    "transfers_out_event": 1809,
+    "transfers_in": 2916,
+    "transfers_out": 30580,
     "cost_change_event": 0
   },
   {
@@ -1875,9 +1875,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 544,
-    "transfers_out_event": 340,
+    "transfers_out_event": 342,
     "transfers_in": 3187,
-    "transfers_out": 5604,
+    "transfers_out": 5606,
     "cost_change_event": 0
   },
   {
@@ -1907,10 +1907,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 13806,
-    "transfers_out_event": 6674,
-    "transfers_in": 151370,
-    "transfers_out": 62533,
+    "transfers_in_event": 13843,
+    "transfers_out_event": 6707,
+    "transfers_in": 151407,
+    "transfers_out": 62566,
     "cost_change_event": 0
   },
   {
@@ -1940,9 +1940,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 321,
+    "transfers_in_event": 322,
     "transfers_out_event": 917,
-    "transfers_in": 13017,
+    "transfers_in": 13018,
     "transfers_out": 6172,
     "cost_change_event": 0
   },
@@ -1974,9 +1974,9 @@
     "status": "u",
     "news": "Has joined Oxford United on loan until January",
     "transfers_in_event": 0,
-    "transfers_out_event": 716,
+    "transfers_out_event": 717,
     "transfers_in": 7103,
-    "transfers_out": 8160,
+    "transfers_out": 8161,
     "cost_change_event": 0
   },
   {
@@ -2006,10 +2006,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1470,
-    "transfers_out_event": 1447,
-    "transfers_in": 18323,
-    "transfers_out": 7780,
+    "transfers_in_event": 1475,
+    "transfers_out_event": 1449,
+    "transfers_in": 18328,
+    "transfers_out": 7782,
     "cost_change_event": 0
   },
   {
@@ -2039,10 +2039,10 @@
     "last_season_starts": 0,
     "status": "i",
     "news": "Knee injury - Expected back 10 Oct",
-    "transfers_in_event": 26,
-    "transfers_out_event": 422,
-    "transfers_in": 4635,
-    "transfers_out": 4736,
+    "transfers_in_event": 27,
+    "transfers_out_event": 423,
+    "transfers_in": 4636,
+    "transfers_out": 4737,
     "cost_change_event": 0
   },
   {
@@ -2072,9 +2072,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 196,
+    "transfers_in_event": 199,
     "transfers_out_event": 190,
-    "transfers_in": 2173,
+    "transfers_in": 2176,
     "transfers_out": 996,
     "cost_change_event": 0
   },
@@ -2105,10 +2105,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 929,
-    "transfers_out_event": 1134,
-    "transfers_in": 10437,
-    "transfers_out": 4815,
+    "transfers_in_event": 930,
+    "transfers_out_event": 1135,
+    "transfers_in": 10438,
+    "transfers_out": 4816,
     "cost_change_event": 0
   },
   {
@@ -2138,10 +2138,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 7321,
-    "transfers_out_event": 872,
-    "transfers_in": 7321,
-    "transfers_out": 872,
+    "transfers_in_event": 7345,
+    "transfers_out_event": 876,
+    "transfers_in": 7345,
+    "transfers_out": 876,
     "cost_change_event": 0
   },
   {
@@ -2171,10 +2171,10 @@
     "last_season_starts": 38,
     "status": "a",
     "news": "",
-    "transfers_in_event": 6382,
-    "transfers_out_event": 11985,
-    "transfers_in": 112365,
-    "transfers_out": 124656,
+    "transfers_in_event": 6404,
+    "transfers_out_event": 12031,
+    "transfers_in": 112387,
+    "transfers_out": 124702,
     "cost_change_event": 0
   },
   {
@@ -2204,10 +2204,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 8300,
-    "transfers_out_event": 7461,
-    "transfers_in": 117494,
-    "transfers_out": 79282,
+    "transfers_in_event": 8327,
+    "transfers_out_event": 7479,
+    "transfers_in": 117521,
+    "transfers_out": 79300,
     "cost_change_event": 0
   },
   {
@@ -2270,10 +2270,10 @@
     "last_season_starts": 22,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3240,
-    "transfers_out_event": 3168,
-    "transfers_in": 30981,
-    "transfers_out": 43762,
+    "transfers_in_event": 3257,
+    "transfers_out_event": 3176,
+    "transfers_in": 30998,
+    "transfers_out": 43770,
     "cost_change_event": 0
   },
   {
@@ -2303,10 +2303,10 @@
     "last_season_starts": 38,
     "status": "a",
     "news": "",
-    "transfers_in_event": 4696,
-    "transfers_out_event": 12400,
-    "transfers_in": 56565,
-    "transfers_out": 160683,
+    "transfers_in_event": 4711,
+    "transfers_out_event": 12425,
+    "transfers_in": 56580,
+    "transfers_out": 160708,
     "cost_change_event": -1
   },
   {
@@ -2336,9 +2336,9 @@
     "last_season_starts": 15,
     "status": "a",
     "news": "",
-    "transfers_in_event": 480,
+    "transfers_in_event": 481,
     "transfers_out_event": 976,
-    "transfers_in": 7138,
+    "transfers_in": 7139,
     "transfers_out": 12041,
     "cost_change_event": -1
   },
@@ -2369,9 +2369,9 @@
     "last_season_starts": 4,
     "status": "i",
     "news": "Thigh injury - Unknown return date",
-    "transfers_in_event": 32,
+    "transfers_in_event": 33,
     "transfers_out_event": 47,
-    "transfers_in": 338,
+    "transfers_in": 339,
     "transfers_out": 844,
     "cost_change_event": 0
   },
@@ -2402,9 +2402,9 @@
     "last_season_starts": 14,
     "status": "a",
     "news": "",
-    "transfers_in_event": 404,
+    "transfers_in_event": 405,
     "transfers_out_event": 492,
-    "transfers_in": 7202,
+    "transfers_in": 7203,
     "transfers_out": 7320,
     "cost_change_event": 0
   },
@@ -2468,10 +2468,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 745,
-    "transfers_out_event": 1138,
-    "transfers_in": 13836,
-    "transfers_out": 11023,
+    "transfers_in_event": 747,
+    "transfers_out_event": 1141,
+    "transfers_in": 13838,
+    "transfers_out": 11026,
     "cost_change_event": 0
   },
   {
@@ -2501,10 +2501,10 @@
     "last_season_starts": 13,
     "status": "a",
     "news": "",
-    "transfers_in_event": 4134,
-    "transfers_out_event": 9890,
-    "transfers_in": 52804,
-    "transfers_out": 169386,
+    "transfers_in_event": 4147,
+    "transfers_out_event": 9914,
+    "transfers_in": 52817,
+    "transfers_out": 169410,
     "cost_change_event": -1
   },
   {
@@ -2534,10 +2534,10 @@
     "last_season_starts": 31,
     "status": "a",
     "news": "",
-    "transfers_in_event": 84865,
-    "transfers_out_event": 45188,
-    "transfers_in": 696058,
-    "transfers_out": 219912,
+    "transfers_in_event": 85179,
+    "transfers_out_event": 45324,
+    "transfers_in": 696372,
+    "transfers_out": 220048,
     "cost_change_event": 0
   },
   {
@@ -2567,10 +2567,10 @@
     "last_season_starts": 34,
     "status": "a",
     "news": "",
-    "transfers_in_event": 24560,
-    "transfers_out_event": 39216,
-    "transfers_in": 548463,
-    "transfers_out": 209392,
+    "transfers_in_event": 24633,
+    "transfers_out_event": 39280,
+    "transfers_in": 548536,
+    "transfers_out": 209456,
     "cost_change_event": 0
   },
   {
@@ -2601,9 +2601,9 @@
     "status": "i",
     "news": "Unspecified injury - Unknown return date",
     "transfers_in_event": 2301,
-    "transfers_out_event": 18436,
+    "transfers_out_event": 18474,
     "transfers_in": 52658,
-    "transfers_out": 83318,
+    "transfers_out": 83356,
     "cost_change_event": 0
   },
   {
@@ -2633,10 +2633,10 @@
     "last_season_starts": 8,
     "status": "a",
     "news": "",
-    "transfers_in_event": 272,
-    "transfers_out_event": 1162,
-    "transfers_in": 13106,
-    "transfers_out": 13943,
+    "transfers_in_event": 273,
+    "transfers_out_event": 1163,
+    "transfers_in": 13107,
+    "transfers_out": 13944,
     "cost_change_event": 0
   },
   {
@@ -2699,10 +2699,10 @@
     "last_season_starts": 21,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1128,
-    "transfers_out_event": 1677,
-    "transfers_in": 18337,
-    "transfers_out": 16668,
+    "transfers_in_event": 1130,
+    "transfers_out_event": 1679,
+    "transfers_in": 18339,
+    "transfers_out": 16670,
     "cost_change_event": 0
   },
   {
@@ -2732,10 +2732,10 @@
     "last_season_starts": 13,
     "status": "a",
     "news": "",
-    "transfers_in_event": 181,
-    "transfers_out_event": 328,
-    "transfers_in": 3363,
-    "transfers_out": 3786,
+    "transfers_in_event": 182,
+    "transfers_out_event": 329,
+    "transfers_in": 3364,
+    "transfers_out": 3787,
     "cost_change_event": 0
   },
   {
@@ -2765,9 +2765,9 @@
     "last_season_starts": 9,
     "status": "a",
     "news": "",
-    "transfers_in_event": 301,
+    "transfers_in_event": 302,
     "transfers_out_event": 252,
-    "transfers_in": 3556,
+    "transfers_in": 3557,
     "transfers_out": 2197,
     "cost_change_event": 0
   },
@@ -2798,9 +2798,9 @@
     "last_season_starts": 2,
     "status": "a",
     "news": "",
-    "transfers_in_event": 27,
+    "transfers_in_event": 28,
     "transfers_out_event": 55,
-    "transfers_in": 384,
+    "transfers_in": 385,
     "transfers_out": 784,
     "cost_change_event": 0
   },
@@ -2831,9 +2831,9 @@
     "last_season_starts": 10,
     "status": "i",
     "news": "Calf injury - Unknown return date",
-    "transfers_in_event": 23,
+    "transfers_in_event": 24,
     "transfers_out_event": 77,
-    "transfers_in": 292,
+    "transfers_in": 293,
     "transfers_out": 2218,
     "cost_change_event": 0
   },
@@ -2864,10 +2864,10 @@
     "last_season_starts": 21,
     "status": "i",
     "news": "Foot injury - Expected back 7 Nov",
-    "transfers_in_event": 192,
-    "transfers_out_event": 882,
-    "transfers_in": 1238,
-    "transfers_out": 27400,
+    "transfers_in_event": 193,
+    "transfers_out_event": 885,
+    "transfers_in": 1239,
+    "transfers_out": 27403,
     "cost_change_event": 0
   },
   {
@@ -2897,10 +2897,10 @@
     "last_season_starts": 32,
     "status": "a",
     "news": "",
-    "transfers_in_event": 18415,
-    "transfers_out_event": 21386,
-    "transfers_in": 253876,
-    "transfers_out": 176213,
+    "transfers_in_event": 18511,
+    "transfers_out_event": 21426,
+    "transfers_in": 253972,
+    "transfers_out": 176253,
     "cost_change_event": 0
   },
   {
@@ -2963,9 +2963,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 816,
+    "transfers_in_event": 821,
     "transfers_out_event": 736,
-    "transfers_in": 5523,
+    "transfers_in": 5528,
     "transfers_out": 6867,
     "cost_change_event": 0
   },
@@ -2996,10 +2996,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 6520,
-    "transfers_out_event": 3802,
-    "transfers_in": 31982,
-    "transfers_out": 25243,
+    "transfers_in_event": 6581,
+    "transfers_out_event": 3828,
+    "transfers_in": 32043,
+    "transfers_out": 25269,
     "cost_change_event": 0
   },
   {
@@ -3029,9 +3029,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 154,
+    "transfers_in_event": 155,
     "transfers_out_event": 447,
-    "transfers_in": 1574,
+    "transfers_in": 1575,
     "transfers_out": 7104,
     "cost_change_event": 0
   },
@@ -3062,10 +3062,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 913,
-    "transfers_out_event": 912,
-    "transfers_in": 13276,
-    "transfers_out": 7267,
+    "transfers_in_event": 921,
+    "transfers_out_event": 915,
+    "transfers_in": 13284,
+    "transfers_out": 7270,
     "cost_change_event": 0
   },
   {
@@ -3095,9 +3095,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 186,
+    "transfers_in_event": 187,
     "transfers_out_event": 197,
-    "transfers_in": 2929,
+    "transfers_in": 2930,
     "transfers_out": 1746,
     "cost_change_event": 0
   },
@@ -3128,10 +3128,10 @@
     "last_season_starts": 37,
     "status": "a",
     "news": "",
-    "transfers_in_event": 20275,
-    "transfers_out_event": 13882,
-    "transfers_in": 251912,
-    "transfers_out": 214148,
+    "transfers_in_event": 20334,
+    "transfers_out_event": 13923,
+    "transfers_in": 251971,
+    "transfers_out": 214189,
     "cost_change_event": 0
   },
   {
@@ -3161,10 +3161,10 @@
     "last_season_starts": 1,
     "status": "a",
     "news": "",
-    "transfers_in_event": 302,
-    "transfers_out_event": 342,
-    "transfers_in": 2867,
-    "transfers_out": 4592,
+    "transfers_in_event": 303,
+    "transfers_out_event": 344,
+    "transfers_in": 2868,
+    "transfers_out": 4594,
     "cost_change_event": 0
   },
   {
@@ -3195,9 +3195,9 @@
     "status": "i",
     "news": "Calf injury - Unknown return date",
     "transfers_in_event": 123,
-    "transfers_out_event": 9615,
+    "transfers_out_event": 9638,
     "transfers_in": 58742,
-    "transfers_out": 156971,
+    "transfers_out": 156994,
     "cost_change_event": 0
   },
   {
@@ -3260,10 +3260,10 @@
     "last_season_starts": 22,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3749,
-    "transfers_out_event": 12150,
-    "transfers_in": 190394,
-    "transfers_out": 120531,
+    "transfers_in_event": 3759,
+    "transfers_out_event": 12177,
+    "transfers_in": 190404,
+    "transfers_out": 120558,
     "cost_change_event": 0
   },
   {
@@ -3293,10 +3293,10 @@
     "last_season_starts": 20,
     "status": "a",
     "news": "",
-    "transfers_in_event": 11483,
-    "transfers_out_event": 23137,
-    "transfers_in": 316970,
-    "transfers_out": 276829,
+    "transfers_in_event": 11515,
+    "transfers_out_event": 23183,
+    "transfers_in": 317002,
+    "transfers_out": 276875,
     "cost_change_event": 0
   },
   {
@@ -3326,10 +3326,10 @@
     "last_season_starts": 37,
     "status": "a",
     "news": "",
-    "transfers_in_event": 13623,
-    "transfers_out_event": 21649,
-    "transfers_in": 596321,
-    "transfers_out": 367883,
+    "transfers_in_event": 13682,
+    "transfers_out_event": 21710,
+    "transfers_in": 596380,
+    "transfers_out": 367944,
     "cost_change_event": 0
   },
   {
@@ -3359,10 +3359,10 @@
     "last_season_starts": 14,
     "status": "a",
     "news": "",
-    "transfers_in_event": 163,
-    "transfers_out_event": 600,
-    "transfers_in": 1987,
-    "transfers_out": 8598,
+    "transfers_in_event": 164,
+    "transfers_out_event": 602,
+    "transfers_in": 1988,
+    "transfers_out": 8600,
     "cost_change_event": 0
   },
   {
@@ -3393,9 +3393,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 185,
-    "transfers_out_event": 251,
+    "transfers_out_event": 252,
     "transfers_in": 2099,
-    "transfers_out": 2984,
+    "transfers_out": 2985,
     "cost_change_event": 0
   },
   {
@@ -3458,10 +3458,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 15444,
-    "transfers_out_event": 2416,
-    "transfers_in": 17006,
-    "transfers_out": 6904,
+    "transfers_in_event": 15490,
+    "transfers_out_event": 2427,
+    "transfers_in": 17052,
+    "transfers_out": 6915,
     "cost_change_event": 0
   },
   {
@@ -3474,7 +3474,7 @@
     "total_points": 39,
     "points_per_game": 7.8,
     "form": 8.7,
-    "selected_by_percent": 11.6,
+    "selected_by_percent": 11.7,
     "expected_goals": 1.52,
     "expected_assists": 0.32,
     "expected_goal_involvements": 1.84,
@@ -3491,10 +3491,10 @@
     "last_season_starts": 32,
     "status": "a",
     "news": "",
-    "transfers_in_event": 400512,
-    "transfers_out_event": 26009,
-    "transfers_in": 1020367,
-    "transfers_out": 246013,
+    "transfers_in_event": 401634,
+    "transfers_out_event": 26144,
+    "transfers_in": 1021489,
+    "transfers_out": 246148,
     "cost_change_event": 1
   },
   {
@@ -3524,10 +3524,10 @@
     "last_season_starts": 25,
     "status": "a",
     "news": "",
-    "transfers_in_event": 837,
-    "transfers_out_event": 3748,
-    "transfers_in": 15198,
-    "transfers_out": 82327,
+    "transfers_in_event": 840,
+    "transfers_out_event": 3754,
+    "transfers_in": 15201,
+    "transfers_out": 82333,
     "cost_change_event": 0
   },
   {
@@ -3557,10 +3557,10 @@
     "last_season_starts": 24,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1730,
-    "transfers_out_event": 2094,
-    "transfers_in": 15241,
-    "transfers_out": 30210,
+    "transfers_in_event": 1741,
+    "transfers_out_event": 2099,
+    "transfers_in": 15252,
+    "transfers_out": 30215,
     "cost_change_event": 0
   },
   {
@@ -3623,10 +3623,10 @@
     "last_season_starts": 15,
     "status": "a",
     "news": "",
-    "transfers_in_event": 19981,
-    "transfers_out_event": 18237,
-    "transfers_in": 307041,
-    "transfers_out": 107328,
+    "transfers_in_event": 20039,
+    "transfers_out_event": 18289,
+    "transfers_in": 307099,
+    "transfers_out": 107380,
     "cost_change_event": 0
   },
   {
@@ -3656,9 +3656,9 @@
     "last_season_starts": 1,
     "status": "i",
     "news": "Knee injury - Unknown return date",
-    "transfers_in_event": 6,
+    "transfers_in_event": 7,
     "transfers_out_event": 7,
-    "transfers_in": 115,
+    "transfers_in": 116,
     "transfers_out": 159,
     "cost_change_event": 0
   },
@@ -3722,10 +3722,10 @@
     "last_season_starts": 30,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1369,
-    "transfers_out_event": 3365,
-    "transfers_in": 5822,
-    "transfers_out": 61715,
+    "transfers_in_event": 1371,
+    "transfers_out_event": 3375,
+    "transfers_in": 5824,
+    "transfers_out": 61725,
     "cost_change_event": 0
   },
   {
@@ -3788,10 +3788,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2387,
-    "transfers_out_event": 631,
-    "transfers_in": 7385,
-    "transfers_out": 11032,
+    "transfers_in_event": 2396,
+    "transfers_out_event": 634,
+    "transfers_in": 7394,
+    "transfers_out": 11035,
     "cost_change_event": 0
   },
   {
@@ -3821,10 +3821,10 @@
     "last_season_starts": 37,
     "status": "a",
     "news": "",
-    "transfers_in_event": 60181,
-    "transfers_out_event": 39084,
-    "transfers_in": 280604,
-    "transfers_out": 1035992,
+    "transfers_in_event": 60388,
+    "transfers_out_event": 39180,
+    "transfers_in": 280811,
+    "transfers_out": 1036088,
     "cost_change_event": 0
   },
   {
@@ -3855,9 +3855,9 @@
     "status": "i",
     "news": "Unspecified injury - Unknown return date",
     "transfers_in_event": 635,
-    "transfers_out_event": 9676,
+    "transfers_out_event": 9698,
     "transfers_in": 61708,
-    "transfers_out": 66838,
+    "transfers_out": 66860,
     "cost_change_event": 0
   },
   {
@@ -3887,10 +3887,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1238,
-    "transfers_out_event": 2503,
-    "transfers_in": 15587,
-    "transfers_out": 26568,
+    "transfers_in_event": 1240,
+    "transfers_out_event": 2507,
+    "transfers_in": 15589,
+    "transfers_out": 26572,
     "cost_change_event": -1
   },
   {
@@ -3920,10 +3920,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 8564,
-    "transfers_out_event": 140501,
-    "transfers_in": 1227852,
-    "transfers_out": 822390,
+    "transfers_in_event": 8582,
+    "transfers_out_event": 140749,
+    "transfers_in": 1227870,
+    "transfers_out": 822638,
     "cost_change_event": -1
   },
   {
@@ -3953,9 +3953,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 479,
+    "transfers_in_event": 480,
     "transfers_out_event": 695,
-    "transfers_in": 13640,
+    "transfers_in": 13641,
     "transfers_out": 7357,
     "cost_change_event": 0
   },
@@ -3986,9 +3986,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 353,
+    "transfers_in_event": 355,
     "transfers_out_event": 272,
-    "transfers_in": 2095,
+    "transfers_in": 2097,
     "transfers_out": 665,
     "cost_change_event": 0
   },
@@ -4019,9 +4019,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 533,
+    "transfers_in_event": 534,
     "transfers_out_event": 69,
-    "transfers_in": 533,
+    "transfers_in": 534,
     "transfers_out": 69,
     "cost_change_event": 0
   },
@@ -4052,10 +4052,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2926,
-    "transfers_out_event": 563,
-    "transfers_in": 2926,
-    "transfers_out": 563,
+    "transfers_in_event": 2932,
+    "transfers_out_event": 564,
+    "transfers_in": 2932,
+    "transfers_out": 564,
     "cost_change_event": 0
   },
   {
@@ -4085,10 +4085,10 @@
     "last_season_starts": 38,
     "status": "a",
     "news": "",
-    "transfers_in_event": 73983,
-    "transfers_out_event": 73615,
-    "transfers_in": 767458,
-    "transfers_out": 609469,
+    "transfers_in_event": 74192,
+    "transfers_out_event": 73844,
+    "transfers_in": 767667,
+    "transfers_out": 609698,
     "cost_change_event": 0
   },
   {
@@ -4118,10 +4118,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 7258,
-    "transfers_out_event": 15056,
-    "transfers_in": 147445,
-    "transfers_out": 120811,
+    "transfers_in_event": 7277,
+    "transfers_out_event": 15099,
+    "transfers_in": 147464,
+    "transfers_out": 120854,
     "cost_change_event": 0
   },
   {
@@ -4151,10 +4151,10 @@
     "last_season_starts": 34,
     "status": "a",
     "news": "",
-    "transfers_in_event": 4089,
-    "transfers_out_event": 7047,
-    "transfers_in": 30502,
-    "transfers_out": 134590,
+    "transfers_in_event": 4099,
+    "transfers_out_event": 7078,
+    "transfers_in": 30512,
+    "transfers_out": 134621,
     "cost_change_event": 0
   },
   {
@@ -4184,10 +4184,10 @@
     "last_season_starts": 9,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2112,
-    "transfers_out_event": 813,
-    "transfers_in": 16329,
-    "transfers_out": 11890,
+    "transfers_in_event": 2116,
+    "transfers_out_event": 814,
+    "transfers_in": 16333,
+    "transfers_out": 11891,
     "cost_change_event": 0
   },
   {
@@ -4217,10 +4217,10 @@
     "last_season_starts": 17,
     "status": "a",
     "news": "",
-    "transfers_in_event": 305069,
-    "transfers_out_event": 22318,
-    "transfers_in": 2723408,
-    "transfers_out": 407349,
+    "transfers_in_event": 305738,
+    "transfers_out_event": 22415,
+    "transfers_in": 2724077,
+    "transfers_out": 407446,
     "cost_change_event": 1
   },
   {
@@ -4250,10 +4250,10 @@
     "last_season_starts": 31,
     "status": "d",
     "news": "Neck injury - 75% chance of playing",
-    "transfers_in_event": 7605,
-    "transfers_out_event": 10174,
-    "transfers_in": 89166,
-    "transfers_out": 51238,
+    "transfers_in_event": 7610,
+    "transfers_out_event": 10220,
+    "transfers_in": 89171,
+    "transfers_out": 51284,
     "cost_change_event": 0
   },
   {
@@ -4382,9 +4382,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1337,
+    "transfers_in_event": 1338,
     "transfers_out_event": 467,
-    "transfers_in": 4513,
+    "transfers_in": 4514,
     "transfers_out": 3989,
     "cost_change_event": 0
   },
@@ -4416,9 +4416,9 @@
     "status": "i",
     "news": "Hamstring injury - Expected back 10 Oct",
     "transfers_in_event": 131,
-    "transfers_out_event": 179,
+    "transfers_out_event": 180,
     "transfers_in": 557,
-    "transfers_out": 3116,
+    "transfers_out": 3117,
     "cost_change_event": 0
   },
   {
@@ -4481,10 +4481,10 @@
     "last_season_starts": 20,
     "status": "i",
     "news": "Ankle injury - Expected back 10 Oct",
-    "transfers_in_event": 281,
-    "transfers_out_event": 6927,
-    "transfers_in": 147902,
-    "transfers_out": 216153,
+    "transfers_in_event": 282,
+    "transfers_out_event": 6950,
+    "transfers_in": 147903,
+    "transfers_out": 216176,
     "cost_change_event": 0
   },
   {
@@ -4514,10 +4514,10 @@
     "last_season_starts": 18,
     "status": "a",
     "news": "",
-    "transfers_in_event": 804007,
-    "transfers_out_event": 12433,
-    "transfers_in": 2164500,
-    "transfers_out": 542216,
+    "transfers_in_event": 805974,
+    "transfers_out_event": 12510,
+    "transfers_in": 2166467,
+    "transfers_out": 542293,
     "cost_change_event": 1
   },
   {
@@ -4547,10 +4547,10 @@
     "last_season_starts": 20,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2722,
-    "transfers_out_event": 3917,
-    "transfers_in": 34719,
-    "transfers_out": 76545,
+    "transfers_in_event": 2733,
+    "transfers_out_event": 3923,
+    "transfers_in": 34730,
+    "transfers_out": 76551,
     "cost_change_event": -1
   },
   {
@@ -4580,10 +4580,10 @@
     "last_season_starts": 2,
     "status": "a",
     "news": "",
-    "transfers_in_event": 432,
-    "transfers_out_event": 577,
-    "transfers_in": 3606,
-    "transfers_out": 6533,
+    "transfers_in_event": 433,
+    "transfers_out_event": 578,
+    "transfers_in": 3607,
+    "transfers_out": 6534,
     "cost_change_event": 0
   },
   {
@@ -4613,10 +4613,10 @@
     "last_season_starts": 26,
     "status": "a",
     "news": "",
-    "transfers_in_event": 12422,
-    "transfers_out_event": 39056,
-    "transfers_in": 334929,
-    "transfers_out": 300687,
+    "transfers_in_event": 12454,
+    "transfers_out_event": 39164,
+    "transfers_in": 334961,
+    "transfers_out": 300795,
     "cost_change_event": 0
   },
   {
@@ -4679,10 +4679,10 @@
     "last_season_starts": 20,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2382,
-    "transfers_out_event": 2044,
-    "transfers_in": 12623,
-    "transfers_out": 41599,
+    "transfers_in_event": 2396,
+    "transfers_out_event": 2050,
+    "transfers_in": 12637,
+    "transfers_out": 41605,
     "cost_change_event": 0
   },
   {
@@ -4713,9 +4713,9 @@
     "status": "i",
     "news": "Knee injury - Unknown return date",
     "transfers_in_event": 31,
-    "transfers_out_event": 2013,
+    "transfers_out_event": 2015,
     "transfers_in": 25946,
-    "transfers_out": 43445,
+    "transfers_out": 43447,
     "cost_change_event": 0
   },
   {
@@ -4812,9 +4812,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 365,
-    "transfers_out_event": 1364,
+    "transfers_out_event": 1366,
     "transfers_in": 8769,
-    "transfers_out": 14232,
+    "transfers_out": 14234,
     "cost_change_event": 0
   },
   {
@@ -4910,10 +4910,10 @@
     "last_season_starts": 2,
     "status": "a",
     "news": "",
-    "transfers_in_event": 320485,
-    "transfers_out_event": 19777,
-    "transfers_in": 425176,
-    "transfers_out": 52287,
+    "transfers_in_event": 321350,
+    "transfers_out_event": 19879,
+    "transfers_in": 426041,
+    "transfers_out": 52389,
     "cost_change_event": 1
   },
   {
@@ -4943,9 +4943,9 @@
     "last_season_starts": 0,
     "status": "i",
     "news": "Ankle injury - Expected back 10 Oct",
-    "transfers_in_event": 137,
+    "transfers_in_event": 138,
     "transfers_out_event": 262,
-    "transfers_in": 1588,
+    "transfers_in": 1589,
     "transfers_out": 2531,
     "cost_change_event": 0
   },
@@ -4977,9 +4977,9 @@
     "status": "d",
     "news": "Hamstring injury - 75% chance of playing",
     "transfers_in_event": 641,
-    "transfers_out_event": 905,
+    "transfers_out_event": 911,
     "transfers_in": 5670,
-    "transfers_out": 12156,
+    "transfers_out": 12162,
     "cost_change_event": 0
   },
   {
@@ -5009,10 +5009,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 58300,
-    "transfers_out_event": 13745,
-    "transfers_in": 261400,
-    "transfers_out": 138557,
+    "transfers_in_event": 58546,
+    "transfers_out_event": 13810,
+    "transfers_in": 261646,
+    "transfers_out": 138622,
     "cost_change_event": 0
   },
   {
@@ -5042,10 +5042,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3236,
-    "transfers_out_event": 2250,
-    "transfers_in": 15098,
-    "transfers_out": 22523,
+    "transfers_in_event": 3245,
+    "transfers_out_event": 2252,
+    "transfers_in": 15107,
+    "transfers_out": 22525,
     "cost_change_event": -1
   },
   {
@@ -5108,10 +5108,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 26505,
-    "transfers_out_event": 33508,
-    "transfers_in": 555394,
-    "transfers_out": 171462,
+    "transfers_in_event": 26559,
+    "transfers_out_event": 33583,
+    "transfers_in": 555448,
+    "transfers_out": 171537,
     "cost_change_event": 0
   },
   {
@@ -5141,9 +5141,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 249,
+    "transfers_in_event": 251,
     "transfers_out_event": 257,
-    "transfers_in": 3988,
+    "transfers_in": 3990,
     "transfers_out": 1962,
     "cost_change_event": 0
   },
@@ -5207,10 +5207,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2780,
-    "transfers_out_event": 316,
-    "transfers_in": 4024,
-    "transfers_out": 784,
+    "transfers_in_event": 2782,
+    "transfers_out_event": 319,
+    "transfers_in": 4026,
+    "transfers_out": 787,
     "cost_change_event": 0
   },
   {
@@ -5306,10 +5306,10 @@
     "last_season_starts": 32,
     "status": "a",
     "news": "",
-    "transfers_in_event": 7830,
-    "transfers_out_event": 22317,
-    "transfers_in": 245597,
-    "transfers_out": 246898,
+    "transfers_in_event": 7850,
+    "transfers_out_event": 22361,
+    "transfers_in": 245617,
+    "transfers_out": 246942,
     "cost_change_event": 0
   },
   {
@@ -5339,10 +5339,10 @@
     "last_season_starts": 37,
     "status": "a",
     "news": "",
-    "transfers_in_event": 152804,
-    "transfers_out_event": 71617,
-    "transfers_in": 2482227,
-    "transfers_out": 663304,
+    "transfers_in_event": 153500,
+    "transfers_out_event": 71807,
+    "transfers_in": 2482923,
+    "transfers_out": 663494,
     "cost_change_event": 0
   },
   {
@@ -5372,9 +5372,9 @@
     "last_season_starts": 22,
     "status": "a",
     "news": "",
-    "transfers_in_event": 521,
+    "transfers_in_event": 524,
     "transfers_out_event": 163,
-    "transfers_in": 1134,
+    "transfers_in": 1137,
     "transfers_out": 2637,
     "cost_change_event": 0
   },
@@ -5405,10 +5405,10 @@
     "last_season_starts": 26,
     "status": "a",
     "news": "",
-    "transfers_in_event": 7838,
-    "transfers_out_event": 9441,
-    "transfers_in": 61774,
-    "transfers_out": 83345,
+    "transfers_in_event": 7862,
+    "transfers_out_event": 9454,
+    "transfers_in": 61798,
+    "transfers_out": 83358,
     "cost_change_event": 0
   },
   {
@@ -5439,9 +5439,9 @@
     "status": "u",
     "news": "Has joined Como on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 4941,
+    "transfers_out_event": 4949,
     "transfers_in": 10847,
-    "transfers_out": 176549,
+    "transfers_out": 176557,
     "cost_change_event": 0
   },
   {
@@ -5505,9 +5505,9 @@
     "status": "d",
     "news": "Hamstring injury - 75% chance of playing",
     "transfers_in_event": 642,
-    "transfers_out_event": 79116,
+    "transfers_out_event": 79259,
     "transfers_in": 168847,
-    "transfers_out": 601805,
+    "transfers_out": 601948,
     "cost_change_event": 0
   },
   {
@@ -5538,9 +5538,9 @@
     "status": "u",
     "news": "Has joined Como permanently",
     "transfers_in_event": 0,
-    "transfers_out_event": 330,
+    "transfers_out_event": 331,
     "transfers_in": 0,
-    "transfers_out": 13960,
+    "transfers_out": 13961,
     "cost_change_event": 0
   },
   {
@@ -5570,10 +5570,10 @@
     "last_season_starts": 26,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1599,
-    "transfers_out_event": 6980,
-    "transfers_in": 36926,
-    "transfers_out": 67460,
+    "transfers_in_event": 1602,
+    "transfers_out_event": 6989,
+    "transfers_in": 36929,
+    "transfers_out": 67469,
     "cost_change_event": -1
   },
   {
@@ -5603,10 +5603,10 @@
     "last_season_starts": 20,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2555,
-    "transfers_out_event": 1315,
-    "transfers_in": 18661,
-    "transfers_out": 8256,
+    "transfers_in_event": 2565,
+    "transfers_out_event": 1320,
+    "transfers_in": 18671,
+    "transfers_out": 8261,
     "cost_change_event": 0
   },
   {
@@ -5669,10 +5669,10 @@
     "last_season_starts": 12,
     "status": "a",
     "news": "",
-    "transfers_in_event": 835,
-    "transfers_out_event": 7444,
-    "transfers_in": 91230,
-    "transfers_out": 59771,
+    "transfers_in_event": 839,
+    "transfers_out_event": 7455,
+    "transfers_in": 91234,
+    "transfers_out": 59782,
     "cost_change_event": 0
   },
   {
@@ -5702,10 +5702,10 @@
     "last_season_starts": 2,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1102,
-    "transfers_out_event": 5484,
-    "transfers_in": 26758,
-    "transfers_out": 98509,
+    "transfers_in_event": 1106,
+    "transfers_out_event": 5494,
+    "transfers_in": 26762,
+    "transfers_out": 98519,
     "cost_change_event": -1
   },
   {
@@ -5769,9 +5769,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 434,
-    "transfers_out_event": 1975,
+    "transfers_out_event": 1978,
     "transfers_in": 21146,
-    "transfers_out": 22534,
+    "transfers_out": 22537,
     "cost_change_event": 0
   },
   {
@@ -5801,10 +5801,10 @@
     "last_season_starts": 0,
     "status": "d",
     "news": "Thigh injury - 50% chance of playing",
-    "transfers_in_event": 235,
-    "transfers_out_event": 3914,
-    "transfers_in": 6695,
-    "transfers_out": 220455,
+    "transfers_in_event": 238,
+    "transfers_out_event": 3922,
+    "transfers_in": 6698,
+    "transfers_out": 220463,
     "cost_change_event": 0
   },
   {
@@ -5834,10 +5834,10 @@
     "last_season_starts": 24,
     "status": "d",
     "news": "Muscular injury - 75% chance of playing",
-    "transfers_in_event": 49305,
-    "transfers_out_event": 173172,
-    "transfers_in": 1952681,
-    "transfers_out": 668478,
+    "transfers_in_event": 49436,
+    "transfers_out_event": 173843,
+    "transfers_in": 1952812,
+    "transfers_out": 669149,
     "cost_change_event": 0
   },
   {
@@ -5867,10 +5867,10 @@
     "last_season_starts": 30,
     "status": "a",
     "news": "",
-    "transfers_in_event": 5330,
-    "transfers_out_event": 9783,
-    "transfers_in": 82455,
-    "transfers_out": 91434,
+    "transfers_in_event": 5368,
+    "transfers_out_event": 9798,
+    "transfers_in": 82493,
+    "transfers_out": 91449,
     "cost_change_event": 0
   },
   {
@@ -5900,10 +5900,10 @@
     "last_season_starts": 12,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1838,
-    "transfers_out_event": 4397,
-    "transfers_in": 17752,
-    "transfers_out": 87132,
+    "transfers_in_event": 1840,
+    "transfers_out_event": 4406,
+    "transfers_in": 17754,
+    "transfers_out": 87141,
     "cost_change_event": 0
   },
   {
@@ -5933,10 +5933,10 @@
     "last_season_starts": 5,
     "status": "d",
     "news": "Ankle injury - 75% chance of playing",
-    "transfers_in_event": 155,
-    "transfers_out_event": 260,
-    "transfers_in": 1134,
-    "transfers_out": 2890,
+    "transfers_in_event": 157,
+    "transfers_out_event": 261,
+    "transfers_in": 1136,
+    "transfers_out": 2891,
     "cost_change_event": -1
   },
   {
@@ -5966,10 +5966,10 @@
     "last_season_starts": 32,
     "status": "d",
     "news": "Calf injury - 50% chance of playing",
-    "transfers_in_event": 420,
-    "transfers_out_event": 9096,
-    "transfers_in": 15058,
-    "transfers_out": 281488,
+    "transfers_in_event": 421,
+    "transfers_out_event": 9119,
+    "transfers_in": 15059,
+    "transfers_out": 281511,
     "cost_change_event": 0
   },
   {
@@ -5999,10 +5999,10 @@
     "last_season_starts": 4,
     "status": "a",
     "news": "",
-    "transfers_in_event": 441,
-    "transfers_out_event": 2494,
-    "transfers_in": 25816,
-    "transfers_out": 15604,
+    "transfers_in_event": 442,
+    "transfers_out_event": 2497,
+    "transfers_in": 25817,
+    "transfers_out": 15607,
     "cost_change_event": 0
   },
   {
@@ -6033,9 +6033,9 @@
     "status": "u",
     "news": "Has joined RC Strasbourg on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 733,
+    "transfers_out_event": 734,
     "transfers_in": 2698,
-    "transfers_out": 14445,
+    "transfers_out": 14446,
     "cost_change_event": 0
   },
   {
@@ -6098,10 +6098,10 @@
     "last_season_starts": 31,
     "status": "d",
     "news": "Knee injury - 75% chance of playing",
-    "transfers_in_event": 65107,
-    "transfers_out_event": 400367,
-    "transfers_in": 1579848,
-    "transfers_out": 1472863,
+    "transfers_in_event": 65343,
+    "transfers_out_event": 401071,
+    "transfers_in": 1580084,
+    "transfers_out": 1473567,
     "cost_change_event": -1
   },
   {
@@ -6132,9 +6132,9 @@
     "status": "u",
     "news": "Has joined RB Leipzig permanently",
     "transfers_in_event": 0,
-    "transfers_out_event": 1571,
+    "transfers_out_event": 1573,
     "transfers_in": 4102,
-    "transfers_out": 33295,
+    "transfers_out": 33297,
     "cost_change_event": 0
   },
   {
@@ -6164,10 +6164,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 4595,
-    "transfers_out_event": 3590,
-    "transfers_in": 32316,
-    "transfers_out": 25379,
+    "transfers_in_event": 4606,
+    "transfers_out_event": 3593,
+    "transfers_in": 32327,
+    "transfers_out": 25382,
     "cost_change_event": 0
   },
   {
@@ -6198,9 +6198,9 @@
     "status": "i",
     "news": "Hamstring injury - Expected back 10 Oct",
     "transfers_in_event": 82,
-    "transfers_out_event": 1114,
+    "transfers_out_event": 1115,
     "transfers_in": 6082,
-    "transfers_out": 12621,
+    "transfers_out": 12622,
     "cost_change_event": -1
   },
   {
@@ -6230,10 +6230,10 @@
     "last_season_starts": 35,
     "status": "a",
     "news": "",
-    "transfers_in_event": 8148,
-    "transfers_out_event": 29763,
-    "transfers_in": 174802,
-    "transfers_out": 425339,
+    "transfers_in_event": 8183,
+    "transfers_out_event": 29813,
+    "transfers_in": 174837,
+    "transfers_out": 425389,
     "cost_change_event": -1
   },
   {
@@ -6264,9 +6264,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 246,
-    "transfers_out_event": 301,
+    "transfers_out_event": 303,
     "transfers_in": 2021,
-    "transfers_out": 3621,
+    "transfers_out": 3623,
     "cost_change_event": 0
   },
   {
@@ -6296,10 +6296,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 66,
-    "transfers_out_event": 104,
-    "transfers_in": 823,
-    "transfers_out": 1252,
+    "transfers_in_event": 67,
+    "transfers_out_event": 105,
+    "transfers_in": 824,
+    "transfers_out": 1253,
     "cost_change_event": 0
   },
   {
@@ -6329,10 +6329,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 238,
-    "transfers_out_event": 455,
-    "transfers_in": 3161,
-    "transfers_out": 7022,
+    "transfers_in_event": 239,
+    "transfers_out_event": 457,
+    "transfers_in": 3162,
+    "transfers_out": 7024,
     "cost_change_event": 0
   },
   {
@@ -6362,10 +6362,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 433,
-    "transfers_out_event": 561,
-    "transfers_in": 3393,
-    "transfers_out": 11167,
+    "transfers_in_event": 435,
+    "transfers_out_event": 565,
+    "transfers_in": 3395,
+    "transfers_out": 11171,
     "cost_change_event": 0
   },
   {
@@ -6494,10 +6494,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2626,
-    "transfers_out_event": 5982,
-    "transfers_in": 23773,
-    "transfers_out": 59146,
+    "transfers_in_event": 2635,
+    "transfers_out_event": 5993,
+    "transfers_in": 23782,
+    "transfers_out": 59157,
     "cost_change_event": 0
   },
   {
@@ -6528,9 +6528,9 @@
     "status": "u",
     "news": "Has joined Leyton Orient on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 4852,
+    "transfers_out_event": 4868,
     "transfers_in": 8924,
-    "transfers_out": 58020,
+    "transfers_out": 58036,
     "cost_change_event": 0
   },
   {
@@ -6560,10 +6560,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 245,
-    "transfers_out_event": 699,
-    "transfers_in": 1415,
-    "transfers_out": 12396,
+    "transfers_in_event": 246,
+    "transfers_out_event": 701,
+    "transfers_in": 1416,
+    "transfers_out": 12398,
     "cost_change_event": 0
   },
   {
@@ -6593,10 +6593,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 26816,
-    "transfers_out_event": 32588,
-    "transfers_in": 364250,
-    "transfers_out": 285612,
+    "transfers_in_event": 26928,
+    "transfers_out_event": 32682,
+    "transfers_in": 364362,
+    "transfers_out": 285706,
     "cost_change_event": 0
   },
   {
@@ -6627,9 +6627,9 @@
     "status": "u",
     "news": "Has joined Sheffield United on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 1867,
+    "transfers_out_event": 1873,
     "transfers_in": 981,
-    "transfers_out": 32960,
+    "transfers_out": 32966,
     "cost_change_event": 0
   },
   {
@@ -6660,9 +6660,9 @@
     "status": "d",
     "news": "Hamstring injury - 75% chance of playing",
     "transfers_in_event": 1180,
-    "transfers_out_event": 77397,
+    "transfers_out_event": 77610,
     "transfers_in": 123085,
-    "transfers_out": 502071,
+    "transfers_out": 502284,
     "cost_change_event": 0
   },
   {
@@ -6692,10 +6692,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 6599,
-    "transfers_out_event": 1824,
-    "transfers_in": 15882,
-    "transfers_out": 22790,
+    "transfers_in_event": 6622,
+    "transfers_out_event": 1829,
+    "transfers_in": 15905,
+    "transfers_out": 22795,
     "cost_change_event": 0
   },
   {
@@ -6725,10 +6725,10 @@
     "last_season_starts": 0,
     "status": "i",
     "news": "Hamstring injury - Unknown return date",
-    "transfers_in_event": 1043,
-    "transfers_out_event": 582,
-    "transfers_in": 1642,
-    "transfers_out": 3807,
+    "transfers_in_event": 1047,
+    "transfers_out_event": 585,
+    "transfers_in": 1646,
+    "transfers_out": 3810,
     "cost_change_event": -1
   },
   {
@@ -6792,9 +6792,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 74,
-    "transfers_out_event": 138,
+    "transfers_out_event": 139,
     "transfers_in": 985,
-    "transfers_out": 1741,
+    "transfers_out": 1742,
     "cost_change_event": 0
   },
   {
@@ -6825,9 +6825,9 @@
     "status": "i",
     "news": "Knee injury - Unknown return date",
     "transfers_in_event": 35,
-    "transfers_out_event": 515,
+    "transfers_out_event": 518,
     "transfers_in": 2270,
-    "transfers_out": 9024,
+    "transfers_out": 9027,
     "cost_change_event": 0
   },
   {
@@ -6891,9 +6891,9 @@
     "status": "i",
     "news": "Calf injury - Unknown return date",
     "transfers_in_event": 37,
-    "transfers_out_event": 6938,
+    "transfers_out_event": 6956,
     "transfers_in": 11482,
-    "transfers_out": 33840,
+    "transfers_out": 33858,
     "cost_change_event": 0
   },
   {
@@ -6923,10 +6923,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 938,
-    "transfers_out_event": 691,
-    "transfers_in": 4408,
-    "transfers_out": 8080,
+    "transfers_in_event": 944,
+    "transfers_out_event": 694,
+    "transfers_in": 4414,
+    "transfers_out": 8083,
     "cost_change_event": 0
   },
   {
@@ -6957,9 +6957,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 190,
-    "transfers_out_event": 875,
+    "transfers_out_event": 878,
     "transfers_in": 4087,
-    "transfers_out": 11266,
+    "transfers_out": 11269,
     "cost_change_event": 0
   },
   {
@@ -6990,9 +6990,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 130,
-    "transfers_out_event": 388,
+    "transfers_out_event": 389,
     "transfers_in": 1020,
-    "transfers_out": 5760,
+    "transfers_out": 5761,
     "cost_change_event": 0
   },
   {
@@ -7121,10 +7121,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 4108,
-    "transfers_out_event": 2299,
-    "transfers_in": 10828,
-    "transfers_out": 15170,
+    "transfers_in_event": 4112,
+    "transfers_out_event": 2305,
+    "transfers_in": 10832,
+    "transfers_out": 15176,
     "cost_change_event": 0
   },
   {
@@ -7155,9 +7155,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 25,
-    "transfers_out_event": 353,
+    "transfers_out_event": 354,
     "transfers_in": 3141,
-    "transfers_out": 8230,
+    "transfers_out": 8231,
     "cost_change_event": 0
   },
   {
@@ -7188,9 +7188,9 @@
     "status": "u",
     "news": "Has joined Burton Albion on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 692,
+    "transfers_out_event": 695,
     "transfers_in": 1943,
-    "transfers_out": 11516,
+    "transfers_out": 11519,
     "cost_change_event": 0
   },
   {
@@ -7221,9 +7221,9 @@
     "status": "u",
     "news": "Has joined Oxford United on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 2013,
+    "transfers_out_event": 2016,
     "transfers_in": 2718,
-    "transfers_out": 41118,
+    "transfers_out": 41121,
     "cost_change_event": 0
   },
   {
@@ -7254,9 +7254,9 @@
     "status": "i",
     "news": "Thigh injury - Unknown return date",
     "transfers_in_event": 49,
-    "transfers_out_event": 572,
+    "transfers_out_event": 573,
     "transfers_in": 616,
-    "transfers_out": 12498,
+    "transfers_out": 12499,
     "cost_change_event": -1
   },
   {
@@ -7286,10 +7286,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 8292,
-    "transfers_out_event": 6030,
-    "transfers_in": 58917,
-    "transfers_out": 57055,
+    "transfers_in_event": 8328,
+    "transfers_out_event": 6044,
+    "transfers_in": 58953,
+    "transfers_out": 57069,
     "cost_change_event": 0
   },
   {
@@ -7319,10 +7319,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1970,
-    "transfers_out_event": 5328,
-    "transfers_in": 40474,
-    "transfers_out": 64546,
+    "transfers_in_event": 1978,
+    "transfers_out_event": 5339,
+    "transfers_in": 40482,
+    "transfers_out": 64557,
     "cost_change_event": -1
   },
   {
@@ -7386,9 +7386,9 @@
     "status": "u",
     "news": "Has joined KVC Westerlo on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 148,
+    "transfers_out_event": 149,
     "transfers_in": 0,
-    "transfers_out": 2107,
+    "transfers_out": 2108,
     "cost_change_event": 0
   },
   {
@@ -7419,9 +7419,9 @@
     "status": "s",
     "news": "Suspended until 19 Oct",
     "transfers_in_event": 71,
-    "transfers_out_event": 5105,
+    "transfers_out_event": 5113,
     "transfers_in": 21344,
-    "transfers_out": 64900,
+    "transfers_out": 64908,
     "cost_change_event": -1
   },
   {
@@ -7451,10 +7451,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 300,
-    "transfers_out_event": 1020,
-    "transfers_in": 2952,
-    "transfers_out": 13687,
+    "transfers_in_event": 303,
+    "transfers_out_event": 1025,
+    "transfers_in": 2955,
+    "transfers_out": 13692,
     "cost_change_event": -1
   },
   {
@@ -7485,9 +7485,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 43,
-    "transfers_out_event": 402,
+    "transfers_out_event": 403,
     "transfers_in": 793,
-    "transfers_out": 6409,
+    "transfers_out": 6410,
     "cost_change_event": 0
   },
   {
@@ -7518,9 +7518,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 547,
-    "transfers_out_event": 764,
+    "transfers_out_event": 765,
     "transfers_in": 7474,
-    "transfers_out": 7603,
+    "transfers_out": 7604,
     "cost_change_event": 0
   },
   {
@@ -7550,10 +7550,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 8128,
-    "transfers_out_event": 2354,
-    "transfers_in": 78506,
-    "transfers_out": 19246,
+    "transfers_in_event": 8152,
+    "transfers_out_event": 2364,
+    "transfers_in": 78530,
+    "transfers_out": 19256,
     "cost_change_event": 0
   },
   {
@@ -7583,9 +7583,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 72,
+    "transfers_in_event": 73,
     "transfers_out_event": 52,
-    "transfers_in": 270,
+    "transfers_in": 271,
     "transfers_out": 101,
     "cost_change_event": 0
   },
@@ -7616,10 +7616,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1886,
-    "transfers_out_event": 875,
-    "transfers_in": 10198,
-    "transfers_out": 2676,
+    "transfers_in_event": 1890,
+    "transfers_out_event": 876,
+    "transfers_in": 10202,
+    "transfers_out": 2677,
     "cost_change_event": 0
   },
   {
@@ -7683,9 +7683,9 @@
     "status": "s",
     "news": "Suspended until 25 Oct",
     "transfers_in_event": 27,
-    "transfers_out_event": 775,
+    "transfers_out_event": 777,
     "transfers_in": 9428,
-    "transfers_out": 10356,
+    "transfers_out": 10358,
     "cost_change_event": 0
   },
   {
@@ -7694,7 +7694,7 @@
     "full_name": "Dean Henderson",
     "team": "Crystal Palace",
     "position": "GKP",
-    "price": 5.0,
+    "price": 4.9,
     "total_points": 5,
     "points_per_game": 1.7,
     "form": 0.7,
@@ -7716,10 +7716,10 @@
     "status": "i",
     "news": "Foot injury - Expected back 11 Oct",
     "transfers_in_event": 149,
-    "transfers_out_event": 11360,
+    "transfers_out_event": 11383,
     "transfers_in": 55275,
-    "transfers_out": 120268,
-    "cost_change_event": 0
+    "transfers_out": 120291,
+    "cost_change_event": -1
   },
   {
     "id": 199,
@@ -7748,10 +7748,10 @@
     "last_season_starts": 1,
     "status": "a",
     "news": "",
-    "transfers_in_event": 701,
-    "transfers_out_event": 384,
-    "transfers_in": 3793,
-    "transfers_out": 4801,
+    "transfers_in_event": 704,
+    "transfers_out_event": 385,
+    "transfers_in": 3796,
+    "transfers_out": 4802,
     "cost_change_event": 0
   },
   {
@@ -7781,10 +7781,10 @@
     "last_season_starts": 31,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1627,
-    "transfers_out_event": 2224,
-    "transfers_in": 22539,
-    "transfers_out": 37955,
+    "transfers_in_event": 1629,
+    "transfers_out_event": 2227,
+    "transfers_in": 22541,
+    "transfers_out": 37958,
     "cost_change_event": -1
   },
   {
@@ -7814,9 +7814,9 @@
     "last_season_starts": 14,
     "status": "a",
     "news": "",
-    "transfers_in_event": 418,
+    "transfers_in_event": 422,
     "transfers_out_event": 877,
-    "transfers_in": 5760,
+    "transfers_in": 5764,
     "transfers_out": 19527,
     "cost_change_event": -1
   },
@@ -7847,10 +7847,10 @@
     "last_season_starts": 36,
     "status": "a",
     "news": "",
-    "transfers_in_event": 15010,
-    "transfers_out_event": 16407,
-    "transfers_in": 311545,
-    "transfers_out": 264809,
+    "transfers_in_event": 15092,
+    "transfers_out_event": 16471,
+    "transfers_in": 311627,
+    "transfers_out": 264873,
     "cost_change_event": 0
   },
   {
@@ -7946,10 +7946,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 80,
-    "transfers_out_event": 282,
-    "transfers_in": 1990,
-    "transfers_out": 4838,
+    "transfers_in_event": 81,
+    "transfers_out_event": 283,
+    "transfers_in": 1991,
+    "transfers_out": 4839,
     "cost_change_event": 0
   },
   {
@@ -7979,10 +7979,10 @@
     "last_season_starts": 24,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2572,
-    "transfers_out_event": 2234,
-    "transfers_in": 6626,
-    "transfers_out": 376685,
+    "transfers_in_event": 2577,
+    "transfers_out_event": 2241,
+    "transfers_in": 6631,
+    "transfers_out": 376692,
     "cost_change_event": 0
   },
   {
@@ -8012,10 +8012,10 @@
     "last_season_starts": 29,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1183,
-    "transfers_out_event": 4584,
-    "transfers_in": 29590,
-    "transfers_out": 48574,
+    "transfers_in_event": 1184,
+    "transfers_out_event": 4587,
+    "transfers_in": 29591,
+    "transfers_out": 48577,
     "cost_change_event": -1
   },
   {
@@ -8046,9 +8046,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 705,
-    "transfers_out_event": 2660,
+    "transfers_out_event": 2670,
     "transfers_in": 45249,
-    "transfers_out": 31057,
+    "transfers_out": 31067,
     "cost_change_event": 0
   },
   {
@@ -8078,10 +8078,10 @@
     "last_season_starts": 19,
     "status": "a",
     "news": "",
-    "transfers_in_event": 9150,
-    "transfers_out_event": 44759,
-    "transfers_in": 122549,
-    "transfers_out": 483374,
+    "transfers_in_event": 9170,
+    "transfers_out_event": 44887,
+    "transfers_in": 122569,
+    "transfers_out": 483502,
     "cost_change_event": 0
   },
   {
@@ -8112,9 +8112,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 92,
-    "transfers_out_event": 383,
+    "transfers_out_event": 384,
     "transfers_in": 1298,
-    "transfers_out": 5564,
+    "transfers_out": 5565,
     "cost_change_event": -1
   },
   {
@@ -8144,10 +8144,10 @@
     "last_season_starts": 22,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3294,
-    "transfers_out_event": 3052,
-    "transfers_in": 50041,
-    "transfers_out": 24669,
+    "transfers_in_event": 3304,
+    "transfers_out_event": 3059,
+    "transfers_in": 50051,
+    "transfers_out": 24676,
     "cost_change_event": 0
   },
   {
@@ -8244,9 +8244,9 @@
     "status": "u",
     "news": "Has joined Alverca on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 159,
+    "transfers_out_event": 160,
     "transfers_in": 1007,
-    "transfers_out": 3441,
+    "transfers_out": 3442,
     "cost_change_event": 0
   },
   {
@@ -8375,9 +8375,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 140,
+    "transfers_in_event": 141,
     "transfers_out_event": 428,
-    "transfers_in": 2688,
+    "transfers_in": 2689,
     "transfers_out": 4673,
     "cost_change_event": 0
   },
@@ -8408,10 +8408,10 @@
     "last_season_starts": 26,
     "status": "a",
     "news": "",
-    "transfers_in_event": 5048,
-    "transfers_out_event": 3949,
-    "transfers_in": 50273,
-    "transfers_out": 41003,
+    "transfers_in_event": 5066,
+    "transfers_out_event": 3955,
+    "transfers_in": 50291,
+    "transfers_out": 41009,
     "cost_change_event": 0
   },
   {
@@ -8441,10 +8441,10 @@
     "last_season_starts": 25,
     "status": "i",
     "news": "Hamstring injury - Expected back 11 Oct",
-    "transfers_in_event": 218,
-    "transfers_out_event": 9258,
-    "transfers_in": 25971,
-    "transfers_out": 454745,
+    "transfers_in_event": 219,
+    "transfers_out_event": 9281,
+    "transfers_in": 25972,
+    "transfers_out": 454768,
     "cost_change_event": 0
   },
   {
@@ -8474,10 +8474,10 @@
     "last_season_starts": 2,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1309,
-    "transfers_out_event": 3384,
-    "transfers_in": 47290,
-    "transfers_out": 50031,
+    "transfers_in_event": 1315,
+    "transfers_out_event": 3387,
+    "transfers_in": 47296,
+    "transfers_out": 50034,
     "cost_change_event": 0
   },
   {
@@ -8541,9 +8541,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 75,
-    "transfers_out_event": 483,
+    "transfers_out_event": 486,
     "transfers_in": 1782,
-    "transfers_out": 8212,
+    "transfers_out": 8215,
     "cost_change_event": 0
   },
   {
@@ -8573,10 +8573,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1121,
-    "transfers_out_event": 3059,
-    "transfers_in": 23305,
-    "transfers_out": 31499,
+    "transfers_in_event": 1122,
+    "transfers_out_event": 3070,
+    "transfers_in": 23306,
+    "transfers_out": 31510,
     "cost_change_event": 0
   },
   {
@@ -8607,9 +8607,9 @@
     "status": "d",
     "news": "Calf injury - 75% chance of playing",
     "transfers_in_event": 149,
-    "transfers_out_event": 1218,
+    "transfers_out_event": 1221,
     "transfers_in": 3478,
-    "transfers_out": 13338,
+    "transfers_out": 13341,
     "cost_change_event": 0
   },
   {
@@ -8639,10 +8639,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2114,
-    "transfers_out_event": 1136,
-    "transfers_in": 34807,
-    "transfers_out": 15390,
+    "transfers_in_event": 2120,
+    "transfers_out_event": 1143,
+    "transfers_in": 34813,
+    "transfers_out": 15397,
     "cost_change_event": 0
   },
   {
@@ -8706,9 +8706,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 140,
-    "transfers_out_event": 108,
+    "transfers_out_event": 109,
     "transfers_in": 1915,
-    "transfers_out": 560,
+    "transfers_out": 561,
     "cost_change_event": 0
   },
   {
@@ -8738,10 +8738,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 573,
-    "transfers_out_event": 2972,
-    "transfers_in": 43127,
-    "transfers_out": 18182,
+    "transfers_in_event": 574,
+    "transfers_out_event": 2979,
+    "transfers_in": 43128,
+    "transfers_out": 18189,
     "cost_change_event": 0
   },
   {
@@ -8837,9 +8837,9 @@
     "last_season_starts": 1,
     "status": "i",
     "news": "Groin injury - Unknown return date",
-    "transfers_in_event": 57,
+    "transfers_in_event": 58,
     "transfers_out_event": 331,
-    "transfers_in": 497,
+    "transfers_in": 498,
     "transfers_out": 7433,
     "cost_change_event": -1
   },
@@ -8870,10 +8870,10 @@
     "last_season_starts": 19,
     "status": "a",
     "news": "",
-    "transfers_in_event": 426,
-    "transfers_out_event": 716,
-    "transfers_in": 5321,
-    "transfers_out": 10431,
+    "transfers_in_event": 427,
+    "transfers_out_event": 722,
+    "transfers_in": 5322,
+    "transfers_out": 10437,
     "cost_change_event": 0
   },
   {
@@ -8903,10 +8903,10 @@
     "last_season_starts": 38,
     "status": "a",
     "news": "",
-    "transfers_in_event": 29166,
-    "transfers_out_event": 15923,
-    "transfers_in": 296683,
-    "transfers_out": 236042,
+    "transfers_in_event": 29230,
+    "transfers_out_event": 15989,
+    "transfers_in": 296747,
+    "transfers_out": 236108,
     "cost_change_event": 0
   },
   {
@@ -8936,10 +8936,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 253,
-    "transfers_out_event": 265,
-    "transfers_in": 1811,
-    "transfers_out": 2127,
+    "transfers_in_event": 254,
+    "transfers_out_event": 267,
+    "transfers_in": 1812,
+    "transfers_out": 2129,
     "cost_change_event": 0
   },
   {
@@ -8969,10 +8969,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 117,
-    "transfers_out_event": 176,
-    "transfers_in": 1184,
-    "transfers_out": 1743,
+    "transfers_in_event": 118,
+    "transfers_out_event": 177,
+    "transfers_in": 1185,
+    "transfers_out": 1744,
     "cost_change_event": 0
   },
   {
@@ -9002,10 +9002,10 @@
     "last_season_starts": 37,
     "status": "a",
     "news": "",
-    "transfers_in_event": 237452,
-    "transfers_out_event": 21414,
-    "transfers_in": 948260,
-    "transfers_out": 285000,
+    "transfers_in_event": 237944,
+    "transfers_out_event": 21521,
+    "transfers_in": 948752,
+    "transfers_out": 285107,
     "cost_change_event": 1
   },
   {
@@ -9035,10 +9035,10 @@
     "last_season_starts": 7,
     "status": "a",
     "news": "",
-    "transfers_in_event": 20128,
-    "transfers_out_event": 7390,
-    "transfers_in": 140300,
-    "transfers_out": 71855,
+    "transfers_in_event": 20186,
+    "transfers_out_event": 7407,
+    "transfers_in": 140358,
+    "transfers_out": 71872,
     "cost_change_event": 0
   },
   {
@@ -9068,10 +9068,10 @@
     "last_season_starts": 29,
     "status": "a",
     "news": "",
-    "transfers_in_event": 396,
-    "transfers_out_event": 3887,
-    "transfers_in": 9301,
-    "transfers_out": 90686,
+    "transfers_in_event": 398,
+    "transfers_out_event": 3894,
+    "transfers_in": 9303,
+    "transfers_out": 90693,
     "cost_change_event": 0
   },
   {
@@ -9101,10 +9101,10 @@
     "last_season_starts": 35,
     "status": "a",
     "news": "",
-    "transfers_in_event": 337,
-    "transfers_out_event": 1165,
-    "transfers_in": 4592,
-    "transfers_out": 24636,
+    "transfers_in_event": 339,
+    "transfers_out_event": 1168,
+    "transfers_in": 4594,
+    "transfers_out": 24639,
     "cost_change_event": -1
   },
   {
@@ -9134,10 +9134,10 @@
     "last_season_starts": 33,
     "status": "d",
     "news": "Leg injury - 75% chance of playing",
-    "transfers_in_event": 41404,
-    "transfers_out_event": 23015,
-    "transfers_in": 412596,
-    "transfers_out": 119468,
+    "transfers_in_event": 41415,
+    "transfers_out_event": 23214,
+    "transfers_in": 412607,
+    "transfers_out": 119667,
     "cost_change_event": 1
   },
   {
@@ -9201,9 +9201,9 @@
     "status": "u",
     "news": "Has joined Malaga on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 570,
+    "transfers_out_event": 571,
     "transfers_in": 1728,
-    "transfers_out": 11164,
+    "transfers_out": 11165,
     "cost_change_event": 0
   },
   {
@@ -9233,10 +9233,10 @@
     "last_season_starts": 30,
     "status": "a",
     "news": "",
-    "transfers_in_event": 34623,
-    "transfers_out_event": 45324,
-    "transfers_in": 585387,
-    "transfers_out": 324688,
+    "transfers_in_event": 34687,
+    "transfers_out_event": 45487,
+    "transfers_in": 585451,
+    "transfers_out": 324851,
     "cost_change_event": 1
   },
   {
@@ -9266,10 +9266,10 @@
     "last_season_starts": 18,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3845,
-    "transfers_out_event": 3032,
-    "transfers_in": 40889,
-    "transfers_out": 23316,
+    "transfers_in_event": 3855,
+    "transfers_out_event": 3035,
+    "transfers_in": 40899,
+    "transfers_out": 23319,
     "cost_change_event": 0
   },
   {
@@ -9299,10 +9299,10 @@
     "last_season_starts": 38,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1786,
-    "transfers_out_event": 2029,
-    "transfers_in": 21238,
-    "transfers_out": 13929,
+    "transfers_in_event": 1795,
+    "transfers_out_event": 2036,
+    "transfers_in": 21247,
+    "transfers_out": 13936,
     "cost_change_event": 0
   },
   {
@@ -9332,10 +9332,10 @@
     "last_season_starts": 1,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2493,
-    "transfers_out_event": 10912,
-    "transfers_in": 107158,
-    "transfers_out": 42576,
+    "transfers_in_event": 2495,
+    "transfers_out_event": 10934,
+    "transfers_in": 107160,
+    "transfers_out": 42598,
     "cost_change_event": 0
   },
   {
@@ -9365,9 +9365,9 @@
     "last_season_starts": 6,
     "status": "a",
     "news": "",
-    "transfers_in_event": 161,
+    "transfers_in_event": 162,
     "transfers_out_event": 409,
-    "transfers_in": 2862,
+    "transfers_in": 2863,
     "transfers_out": 5842,
     "cost_change_event": 0
   },
@@ -9398,10 +9398,10 @@
     "last_season_starts": 6,
     "status": "a",
     "news": "",
-    "transfers_in_event": 863,
-    "transfers_out_event": 3355,
-    "transfers_in": 53923,
-    "transfers_out": 32709,
+    "transfers_in_event": 865,
+    "transfers_out_event": 3357,
+    "transfers_in": 53925,
+    "transfers_out": 32711,
     "cost_change_event": 0
   },
   {
@@ -9497,10 +9497,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 194,
-    "transfers_out_event": 1102,
-    "transfers_in": 3745,
-    "transfers_out": 11942,
+    "transfers_in_event": 195,
+    "transfers_out_event": 1104,
+    "transfers_in": 3746,
+    "transfers_out": 11944,
     "cost_change_event": -1
   },
   {
@@ -9531,9 +9531,9 @@
     "status": "u",
     "news": "Has joined Fiorentina permanently",
     "transfers_in_event": 0,
-    "transfers_out_event": 7417,
+    "transfers_out_event": 7432,
     "transfers_in": 16222,
-    "transfers_out": 219739,
+    "transfers_out": 219754,
     "cost_change_event": 0
   },
   {
@@ -9563,10 +9563,10 @@
     "last_season_starts": 21,
     "status": "a",
     "news": "",
-    "transfers_in_event": 86392,
-    "transfers_out_event": 39905,
-    "transfers_in": 968547,
-    "transfers_out": 358081,
+    "transfers_in_event": 86643,
+    "transfers_out_event": 40041,
+    "transfers_in": 968798,
+    "transfers_out": 358217,
     "cost_change_event": 1
   },
   {
@@ -9596,10 +9596,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 19704,
-    "transfers_out_event": 4851,
-    "transfers_in": 92736,
-    "transfers_out": 14743,
+    "transfers_in_event": 19744,
+    "transfers_out_event": 4865,
+    "transfers_in": 92776,
+    "transfers_out": 14757,
     "cost_change_event": 0
   },
   {
@@ -9630,9 +9630,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 238,
-    "transfers_out_event": 1017,
+    "transfers_out_event": 1019,
     "transfers_in": 11284,
-    "transfers_out": 5322,
+    "transfers_out": 5324,
     "cost_change_event": 0
   },
   {
@@ -9662,10 +9662,10 @@
     "last_season_starts": 38,
     "status": "a",
     "news": "",
-    "transfers_in_event": 40234,
-    "transfers_out_event": 11659,
-    "transfers_in": 151131,
-    "transfers_out": 102701,
+    "transfers_in_event": 40458,
+    "transfers_out_event": 11719,
+    "transfers_in": 151355,
+    "transfers_out": 102761,
     "cost_change_event": 0
   },
   {
@@ -9695,10 +9695,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2538,
-    "transfers_out_event": 2558,
-    "transfers_in": 25266,
-    "transfers_out": 25993,
+    "transfers_in_event": 2548,
+    "transfers_out_event": 2567,
+    "transfers_in": 25276,
+    "transfers_out": 26002,
     "cost_change_event": 0
   },
   {
@@ -9729,9 +9729,9 @@
     "status": "u",
     "news": "Has joined York City on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 608,
+    "transfers_out_event": 612,
     "transfers_in": 2589,
-    "transfers_out": 6604,
+    "transfers_out": 6608,
     "cost_change_event": 0
   },
   {
@@ -9761,10 +9761,10 @@
     "last_season_starts": 33,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2768,
-    "transfers_out_event": 1110,
-    "transfers_in": 14642,
-    "transfers_out": 9220,
+    "transfers_in_event": 2774,
+    "transfers_out_event": 1112,
+    "transfers_in": 14648,
+    "transfers_out": 9222,
     "cost_change_event": 0
   },
   {
@@ -9794,10 +9794,10 @@
     "last_season_starts": 17,
     "status": "a",
     "news": "",
-    "transfers_in_event": 16348,
-    "transfers_out_event": 6843,
-    "transfers_in": 58833,
-    "transfers_out": 70818,
+    "transfers_in_event": 16433,
+    "transfers_out_event": 6873,
+    "transfers_in": 58918,
+    "transfers_out": 70848,
     "cost_change_event": 0
   },
   {
@@ -9860,10 +9860,10 @@
     "last_season_starts": 21,
     "status": "a",
     "news": "",
-    "transfers_in_event": 59,
-    "transfers_out_event": 1049,
-    "transfers_in": 1390,
-    "transfers_out": 10494,
+    "transfers_in_event": 60,
+    "transfers_out_event": 1050,
+    "transfers_in": 1391,
+    "transfers_out": 10495,
     "cost_change_event": 0
   },
   {
@@ -9893,10 +9893,10 @@
     "last_season_starts": 28,
     "status": "a",
     "news": "",
-    "transfers_in_event": 5745,
-    "transfers_out_event": 1871,
-    "transfers_in": 26759,
-    "transfers_out": 30017,
+    "transfers_in_event": 5794,
+    "transfers_out_event": 1881,
+    "transfers_in": 26808,
+    "transfers_out": 30027,
     "cost_change_event": 0
   },
   {
@@ -9926,10 +9926,10 @@
     "last_season_starts": 20,
     "status": "a",
     "news": "",
-    "transfers_in_event": 14971,
-    "transfers_out_event": 4962,
-    "transfers_in": 91613,
-    "transfers_out": 43691,
+    "transfers_in_event": 15044,
+    "transfers_out_event": 4969,
+    "transfers_in": 91686,
+    "transfers_out": 43698,
     "cost_change_event": 0
   },
   {
@@ -9959,10 +9959,10 @@
     "last_season_starts": 29,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3571,
-    "transfers_out_event": 3298,
-    "transfers_in": 22491,
-    "transfers_out": 55659,
+    "transfers_in_event": 3593,
+    "transfers_out_event": 3307,
+    "transfers_in": 22513,
+    "transfers_out": 55668,
     "cost_change_event": 0
   },
   {
@@ -9992,10 +9992,10 @@
     "last_season_starts": 22,
     "status": "a",
     "news": "",
-    "transfers_in_event": 310,
-    "transfers_out_event": 1351,
-    "transfers_in": 4508,
-    "transfers_out": 21010,
+    "transfers_in_event": 311,
+    "transfers_out_event": 1354,
+    "transfers_in": 4509,
+    "transfers_out": 21013,
     "cost_change_event": -1
   },
   {
@@ -10026,9 +10026,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 197,
-    "transfers_out_event": 290,
+    "transfers_out_event": 291,
     "transfers_in": 2001,
-    "transfers_out": 4227,
+    "transfers_out": 4228,
     "cost_change_event": 0
   },
   {
@@ -10058,10 +10058,10 @@
     "last_season_starts": 11,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2435,
-    "transfers_out_event": 1826,
-    "transfers_in": 16438,
-    "transfers_out": 20932,
+    "transfers_in_event": 2450,
+    "transfers_out_event": 1834,
+    "transfers_in": 16453,
+    "transfers_out": 20940,
     "cost_change_event": 0
   },
   {
@@ -10091,9 +10091,9 @@
     "last_season_starts": 34,
     "status": "a",
     "news": "",
-    "transfers_in_event": 635,
+    "transfers_in_event": 636,
     "transfers_out_event": 1316,
-    "transfers_in": 6366,
+    "transfers_in": 6367,
     "transfers_out": 18072,
     "cost_change_event": 0
   },
@@ -10157,10 +10157,10 @@
     "last_season_starts": 15,
     "status": "a",
     "news": "",
-    "transfers_in_event": 91106,
-    "transfers_out_event": 18854,
-    "transfers_in": 335241,
-    "transfers_out": 97422,
+    "transfers_in_event": 91768,
+    "transfers_out_event": 18940,
+    "transfers_in": 335903,
+    "transfers_out": 97508,
     "cost_change_event": 0
   },
   {
@@ -10191,9 +10191,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 306,
-    "transfers_out_event": 1316,
+    "transfers_out_event": 1317,
     "transfers_in": 2749,
-    "transfers_out": 19014,
+    "transfers_out": 19015,
     "cost_change_event": -1
   },
   {
@@ -10223,10 +10223,10 @@
     "last_season_starts": 1,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2832,
-    "transfers_out_event": 6945,
-    "transfers_in": 36324,
-    "transfers_out": 73170,
+    "transfers_in_event": 2834,
+    "transfers_out_event": 6956,
+    "transfers_in": 36326,
+    "transfers_out": 73181,
     "cost_change_event": 0
   },
   {
@@ -10256,10 +10256,10 @@
     "last_season_starts": 10,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1765,
-    "transfers_out_event": 2714,
-    "transfers_in": 16094,
-    "transfers_out": 35155,
+    "transfers_in_event": 1769,
+    "transfers_out_event": 2719,
+    "transfers_in": 16098,
+    "transfers_out": 35160,
     "cost_change_event": 0
   },
   {
@@ -10289,10 +10289,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 11064,
-    "transfers_out_event": 33654,
-    "transfers_in": 160535,
-    "transfers_out": 301459,
+    "transfers_in_event": 11103,
+    "transfers_out_event": 33732,
+    "transfers_in": 160574,
+    "transfers_out": 301537,
     "cost_change_event": 0
   },
   {
@@ -10322,10 +10322,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 70717,
-    "transfers_out_event": 33015,
-    "transfers_in": 433026,
-    "transfers_out": 312400,
+    "transfers_in_event": 71127,
+    "transfers_out_event": 33115,
+    "transfers_in": 433436,
+    "transfers_out": 312500,
     "cost_change_event": 0
   },
   {
@@ -10356,9 +10356,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 716,
-    "transfers_out_event": 957,
+    "transfers_out_event": 960,
     "transfers_in": 6005,
-    "transfers_out": 10603,
+    "transfers_out": 10606,
     "cost_change_event": 0
   },
   {
@@ -10388,10 +10388,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 638,
-    "transfers_out_event": 440,
-    "transfers_in": 2368,
-    "transfers_out": 4116,
+    "transfers_in_event": 641,
+    "transfers_out_event": 443,
+    "transfers_in": 2371,
+    "transfers_out": 4119,
     "cost_change_event": 0
   },
   {
@@ -10422,9 +10422,9 @@
     "status": "u",
     "news": "has joined  Real Salt Lake on loan for the rest of the seaon.",
     "transfers_in_event": 0,
-    "transfers_out_event": 507,
+    "transfers_out_event": 508,
     "transfers_in": 5787,
-    "transfers_out": 5253,
+    "transfers_out": 5254,
     "cost_change_event": 0
   },
   {
@@ -10454,10 +10454,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 790,
-    "transfers_out_event": 2281,
-    "transfers_in": 34957,
-    "transfers_out": 18495,
+    "transfers_in_event": 805,
+    "transfers_out_event": 2286,
+    "transfers_in": 34972,
+    "transfers_out": 18500,
     "cost_change_event": -1
   },
   {
@@ -10553,10 +10553,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 6167,
-    "transfers_out_event": 1479,
-    "transfers_in": 9045,
-    "transfers_out": 2101,
+    "transfers_in_event": 6227,
+    "transfers_out_event": 1494,
+    "transfers_in": 9105,
+    "transfers_out": 2116,
     "cost_change_event": 0
   },
   {
@@ -10619,10 +10619,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3052,
-    "transfers_out_event": 3566,
-    "transfers_in": 29177,
-    "transfers_out": 38449,
+    "transfers_in_event": 3060,
+    "transfers_out_event": 3576,
+    "transfers_in": 29185,
+    "transfers_out": 38459,
     "cost_change_event": 0
   },
   {
@@ -10751,10 +10751,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 27510,
-    "transfers_out_event": 29934,
-    "transfers_in": 750669,
-    "transfers_out": 216855,
+    "transfers_in_event": 27591,
+    "transfers_out_event": 30025,
+    "transfers_in": 750750,
+    "transfers_out": 216946,
     "cost_change_event": 0
   },
   {
@@ -10784,10 +10784,10 @@
     "last_season_starts": 0,
     "status": "i",
     "news": "Groin injury - Unknown return date",
-    "transfers_in_event": 1112,
-    "transfers_out_event": 1973,
-    "transfers_in": 16901,
-    "transfers_out": 12940,
+    "transfers_in_event": 1116,
+    "transfers_out_event": 1976,
+    "transfers_in": 16905,
+    "transfers_out": 12943,
     "cost_change_event": 0
   },
   {
@@ -10800,7 +10800,7 @@
     "total_points": 27,
     "points_per_game": 5.4,
     "form": 2.3,
-    "selected_by_percent": 14.0,
+    "selected_by_percent": 13.9,
     "expected_goals": 0.66,
     "expected_assists": 0.01,
     "expected_goal_involvements": 0.67,
@@ -10817,10 +10817,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 44216,
-    "transfers_out_event": 59902,
-    "transfers_in": 1355601,
-    "transfers_out": 310404,
+    "transfers_in_event": 44314,
+    "transfers_out_event": 60028,
+    "transfers_in": 1355699,
+    "transfers_out": 310530,
     "cost_change_event": 0
   },
   {
@@ -10850,10 +10850,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2101,
-    "transfers_out_event": 2068,
-    "transfers_in": 27673,
-    "transfers_out": 25876,
+    "transfers_in_event": 2104,
+    "transfers_out_event": 2075,
+    "transfers_in": 27676,
+    "transfers_out": 25883,
     "cost_change_event": 0
   },
   {
@@ -10916,10 +10916,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 21600,
-    "transfers_out_event": 14068,
-    "transfers_in": 278417,
-    "transfers_out": 66359,
+    "transfers_in_event": 21658,
+    "transfers_out_event": 14102,
+    "transfers_in": 278475,
+    "transfers_out": 66393,
     "cost_change_event": 0
   },
   {
@@ -10983,9 +10983,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 397,
-    "transfers_out_event": 441,
+    "transfers_out_event": 443,
     "transfers_in": 4931,
-    "transfers_out": 4593,
+    "transfers_out": 4595,
     "cost_change_event": 0
   },
   {
@@ -11016,9 +11016,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 197,
-    "transfers_out_event": 414,
+    "transfers_out_event": 416,
     "transfers_in": 3150,
-    "transfers_out": 4723,
+    "transfers_out": 4725,
     "cost_change_event": 0
   },
   {
@@ -11048,10 +11048,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 77774,
-    "transfers_out_event": 25584,
-    "transfers_in": 507710,
-    "transfers_out": 85622,
+    "transfers_in_event": 77995,
+    "transfers_out_event": 25663,
+    "transfers_in": 507931,
+    "transfers_out": 85701,
     "cost_change_event": 0
   },
   {
@@ -11114,10 +11114,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 595,
-    "transfers_out_event": 2041,
-    "transfers_in": 12352,
-    "transfers_out": 21624,
+    "transfers_in_event": 598,
+    "transfers_out_event": 2045,
+    "transfers_in": 12355,
+    "transfers_out": 21628,
     "cost_change_event": 0
   },
   {
@@ -11147,10 +11147,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 5133,
-    "transfers_out_event": 4251,
-    "transfers_in": 24492,
-    "transfers_out": 40480,
+    "transfers_in_event": 5142,
+    "transfers_out_event": 4259,
+    "transfers_in": 24501,
+    "transfers_out": 40488,
     "cost_change_event": -1
   },
   {
@@ -11180,10 +11180,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 16002,
-    "transfers_out_event": 37881,
-    "transfers_in": 498935,
-    "transfers_out": 278880,
+    "transfers_in_event": 16044,
+    "transfers_out_event": 37995,
+    "transfers_in": 498977,
+    "transfers_out": 278994,
     "cost_change_event": 0
   },
   {
@@ -11312,9 +11312,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 152,
+    "transfers_in_event": 153,
     "transfers_out_event": 499,
-    "transfers_in": 3881,
+    "transfers_in": 3882,
     "transfers_out": 6828,
     "cost_change_event": 0
   },
@@ -11345,10 +11345,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 8225,
-    "transfers_out_event": 18194,
-    "transfers_in": 189211,
-    "transfers_out": 153541,
+    "transfers_in_event": 8252,
+    "transfers_out_event": 18231,
+    "transfers_in": 189238,
+    "transfers_out": 153578,
     "cost_change_event": 0
   },
   {
@@ -11379,9 +11379,9 @@
     "status": "u",
     "news": "Has joined Omonoia FC permanently",
     "transfers_in_event": 0,
-    "transfers_out_event": 276,
+    "transfers_out_event": 277,
     "transfers_in": 2704,
-    "transfers_out": 4889,
+    "transfers_out": 4890,
     "cost_change_event": 0
   },
   {
@@ -11445,9 +11445,9 @@
     "status": "u",
     "news": "Has joined Konyaspor permanently",
     "transfers_in_event": 0,
-    "transfers_out_event": 1368,
+    "transfers_out_event": 1370,
     "transfers_in": 0,
-    "transfers_out": 22321,
+    "transfers_out": 22323,
     "cost_change_event": 0
   },
   {
@@ -11544,9 +11544,9 @@
     "status": "d",
     "news": "Ankle injury - 75% chance of playing",
     "transfers_in_event": 113,
-    "transfers_out_event": 10065,
+    "transfers_out_event": 10080,
     "transfers_in": 24837,
-    "transfers_out": 87341,
+    "transfers_out": 87356,
     "cost_change_event": 0
   },
   {
@@ -11609,10 +11609,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 127017,
-    "transfers_out_event": 22575,
-    "transfers_in": 998345,
-    "transfers_out": 218225,
+    "transfers_in_event": 127280,
+    "transfers_out_event": 22670,
+    "transfers_in": 998608,
+    "transfers_out": 218320,
     "cost_change_event": 1
   },
   {
@@ -11642,9 +11642,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 77,
+    "transfers_in_event": 78,
     "transfers_out_event": 328,
-    "transfers_in": 1438,
+    "transfers_in": 1439,
     "transfers_out": 4448,
     "cost_change_event": 0
   },
@@ -11675,9 +11675,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 146,
+    "transfers_in_event": 147,
     "transfers_out_event": 468,
-    "transfers_in": 3668,
+    "transfers_in": 3669,
     "transfers_out": 4691,
     "cost_change_event": 0
   },
@@ -11708,10 +11708,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1052,
-    "transfers_out_event": 1707,
-    "transfers_in": 12851,
-    "transfers_out": 18594,
+    "transfers_in_event": 1055,
+    "transfers_out_event": 1713,
+    "transfers_in": 12854,
+    "transfers_out": 18600,
     "cost_change_event": 0
   },
   {
@@ -11741,10 +11741,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 7215,
-    "transfers_out_event": 33831,
-    "transfers_in": 683507,
-    "transfers_out": 358814,
+    "transfers_in_event": 7239,
+    "transfers_out_event": 33863,
+    "transfers_in": 683531,
+    "transfers_out": 358846,
     "cost_change_event": 0
   },
   {
@@ -11808,9 +11808,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 355,
-    "transfers_out_event": 153,
+    "transfers_out_event": 154,
     "transfers_in": 1791,
-    "transfers_out": 765,
+    "transfers_out": 766,
     "cost_change_event": 0
   },
   {
@@ -11840,10 +11840,10 @@
     "last_season_starts": 0,
     "status": "i",
     "news": "Back injury - Unknown return date",
-    "transfers_in_event": 75,
-    "transfers_out_event": 423,
-    "transfers_in": 5122,
-    "transfers_out": 3503,
+    "transfers_in_event": 76,
+    "transfers_out_event": 426,
+    "transfers_in": 5123,
+    "transfers_out": 3506,
     "cost_change_event": 0
   },
   {
@@ -11873,10 +11873,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1875,
-    "transfers_out_event": 1172,
-    "transfers_in": 12380,
-    "transfers_out": 3993,
+    "transfers_in_event": 1880,
+    "transfers_out_event": 1175,
+    "transfers_in": 12385,
+    "transfers_out": 3996,
     "cost_change_event": 0
   },
   {
@@ -11907,9 +11907,9 @@
     "status": "d",
     "news": "Hamstring injury - 75% chance of playing",
     "transfers_in_event": 455,
-    "transfers_out_event": 2615,
+    "transfers_out_event": 2618,
     "transfers_in": 26071,
-    "transfers_out": 10441,
+    "transfers_out": 10444,
     "cost_change_event": 0
   },
   {
@@ -11940,9 +11940,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 491,
-    "transfers_out_event": 356,
+    "transfers_out_event": 357,
     "transfers_in": 3095,
-    "transfers_out": 1205,
+    "transfers_out": 1206,
     "cost_change_event": 0
   },
   {
@@ -12005,10 +12005,10 @@
     "last_season_starts": 8,
     "status": "a",
     "news": "",
-    "transfers_in_event": 7196,
-    "transfers_out_event": 56234,
-    "transfers_in": 136233,
-    "transfers_out": 508856,
+    "transfers_in_event": 7220,
+    "transfers_out_event": 56389,
+    "transfers_in": 136257,
+    "transfers_out": 509011,
     "cost_change_event": 0
   },
   {
@@ -12038,10 +12038,10 @@
     "last_season_starts": 20,
     "status": "a",
     "news": "",
-    "transfers_in_event": 199,
-    "transfers_out_event": 534,
-    "transfers_in": 3427,
-    "transfers_out": 6487,
+    "transfers_in_event": 201,
+    "transfers_out_event": 537,
+    "transfers_in": 3429,
+    "transfers_out": 6490,
     "cost_change_event": -1
   },
   {
@@ -12071,10 +12071,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1728,
-    "transfers_out_event": 1072,
-    "transfers_in": 3413,
-    "transfers_out": 14985,
+    "transfers_in_event": 1736,
+    "transfers_out_event": 1076,
+    "transfers_in": 3421,
+    "transfers_out": 14989,
     "cost_change_event": 0
   },
   {
@@ -12104,10 +12104,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 4051,
-    "transfers_out_event": 12105,
-    "transfers_in": 74647,
-    "transfers_out": 113344,
+    "transfers_in_event": 4063,
+    "transfers_out_event": 12137,
+    "transfers_in": 74659,
+    "transfers_out": 113376,
     "cost_change_event": 0
   },
   {
@@ -12137,10 +12137,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1493,
-    "transfers_out_event": 1348,
-    "transfers_in": 31503,
-    "transfers_out": 15200,
+    "transfers_in_event": 1497,
+    "transfers_out_event": 1355,
+    "transfers_in": 31507,
+    "transfers_out": 15207,
     "cost_change_event": 0
   },
   {
@@ -12170,10 +12170,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 4564,
-    "transfers_out_event": 4461,
-    "transfers_in": 49185,
-    "transfers_out": 29208,
+    "transfers_in_event": 4578,
+    "transfers_out_event": 4476,
+    "transfers_in": 49199,
+    "transfers_out": 29223,
     "cost_change_event": 0
   },
   {
@@ -12203,10 +12203,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2022,
-    "transfers_out_event": 14919,
-    "transfers_in": 65441,
-    "transfers_out": 128262,
+    "transfers_in_event": 2031,
+    "transfers_out_event": 14959,
+    "transfers_in": 65450,
+    "transfers_out": 128302,
     "cost_change_event": 0
   },
   {
@@ -12236,10 +12236,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 51619,
-    "transfers_out_event": 28412,
-    "transfers_in": 371822,
-    "transfers_out": 186028,
+    "transfers_in_event": 51823,
+    "transfers_out_event": 28498,
+    "transfers_in": 372026,
+    "transfers_out": 186114,
     "cost_change_event": 0
   },
   {
@@ -12269,10 +12269,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 485,
-    "transfers_out_event": 3540,
-    "transfers_in": 8221,
-    "transfers_out": 38281,
+    "transfers_in_event": 487,
+    "transfers_out_event": 3551,
+    "transfers_in": 8223,
+    "transfers_out": 38292,
     "cost_change_event": 0
   },
   {
@@ -12335,10 +12335,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 6484,
-    "transfers_out_event": 2975,
-    "transfers_in": 19121,
-    "transfers_out": 19752,
+    "transfers_in_event": 6501,
+    "transfers_out_event": 2988,
+    "transfers_in": 19138,
+    "transfers_out": 19765,
     "cost_change_event": 0
   },
   {
@@ -12369,9 +12369,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 100,
-    "transfers_out_event": 646,
+    "transfers_out_event": 649,
     "transfers_in": 3117,
-    "transfers_out": 7653,
+    "transfers_out": 7656,
     "cost_change_event": 0
   },
   {
@@ -12468,9 +12468,9 @@
     "status": "i",
     "news": "Knee injury - Unknown return date",
     "transfers_in_event": 388,
-    "transfers_out_event": 278,
+    "transfers_out_event": 279,
     "transfers_in": 964,
-    "transfers_out": 2659,
+    "transfers_out": 2660,
     "cost_change_event": -1
   },
   {
@@ -12501,9 +12501,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 151,
-    "transfers_out_event": 947,
+    "transfers_out_event": 948,
     "transfers_in": 5502,
-    "transfers_out": 15741,
+    "transfers_out": 15742,
     "cost_change_event": 0
   },
   {
@@ -12567,9 +12567,9 @@
     "status": "s",
     "news": "Suspended until 17 Oct",
     "transfers_in_event": 58,
-    "transfers_out_event": 2568,
+    "transfers_out_event": 2573,
     "transfers_in": 5360,
-    "transfers_out": 13412,
+    "transfers_out": 13417,
     "cost_change_event": 0
   },
   {
@@ -12599,10 +12599,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 35632,
-    "transfers_out_event": 23457,
-    "transfers_in": 319330,
-    "transfers_out": 142731,
+    "transfers_in_event": 35805,
+    "transfers_out_event": 23518,
+    "transfers_in": 319503,
+    "transfers_out": 142792,
     "cost_change_event": 0
   },
   {
@@ -12665,10 +12665,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 33,
-    "transfers_out_event": 162,
-    "transfers_in": 301,
-    "transfers_out": 9286,
+    "transfers_in_event": 34,
+    "transfers_out_event": 163,
+    "transfers_in": 302,
+    "transfers_out": 9287,
     "cost_change_event": 0
   },
   {
@@ -12731,10 +12731,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 5093,
-    "transfers_out_event": 9736,
-    "transfers_in": 131049,
-    "transfers_out": 74169,
+    "transfers_in_event": 5101,
+    "transfers_out_event": 9757,
+    "transfers_in": 131057,
+    "transfers_out": 74190,
     "cost_change_event": 0
   },
   {
@@ -12764,10 +12764,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 18449,
-    "transfers_out_event": 27150,
-    "transfers_in": 331070,
-    "transfers_out": 211637,
+    "transfers_in_event": 18507,
+    "transfers_out_event": 27216,
+    "transfers_in": 331128,
+    "transfers_out": 211703,
     "cost_change_event": 0
   },
   {
@@ -12830,10 +12830,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1550,
-    "transfers_out_event": 6537,
-    "transfers_in": 28294,
-    "transfers_out": 62384,
+    "transfers_in_event": 1556,
+    "transfers_out_event": 6546,
+    "transfers_in": 28300,
+    "transfers_out": 62393,
     "cost_change_event": -1
   },
   {
@@ -12930,9 +12930,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 141,
-    "transfers_out_event": 1485,
+    "transfers_out_event": 1488,
     "transfers_in": 2869,
-    "transfers_out": 20255,
+    "transfers_out": 20258,
     "cost_change_event": -1
   },
   {
@@ -12962,10 +12962,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 655,
-    "transfers_out_event": 2830,
-    "transfers_in": 15222,
-    "transfers_out": 23407,
+    "transfers_in_event": 658,
+    "transfers_out_event": 2833,
+    "transfers_in": 15225,
+    "transfers_out": 23410,
     "cost_change_event": 0
   },
   {
@@ -13028,10 +13028,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2306,
-    "transfers_out_event": 6178,
-    "transfers_in": 93869,
-    "transfers_out": 52467,
+    "transfers_in_event": 2313,
+    "transfers_out_event": 6187,
+    "transfers_in": 93876,
+    "transfers_out": 52476,
     "cost_change_event": 0
   },
   {
@@ -13061,10 +13061,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 696,
-    "transfers_out_event": 2102,
-    "transfers_in": 13481,
-    "transfers_out": 26238,
+    "transfers_in_event": 701,
+    "transfers_out_event": 2105,
+    "transfers_in": 13486,
+    "transfers_out": 26241,
     "cost_change_event": 0
   },
   {
@@ -13127,10 +13127,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 526,
-    "transfers_out_event": 850,
-    "transfers_in": 9014,
-    "transfers_out": 3460,
+    "transfers_in_event": 527,
+    "transfers_out_event": 854,
+    "transfers_in": 9015,
+    "transfers_out": 3464,
     "cost_change_event": 0
   },
   {
@@ -13160,10 +13160,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 942,
-    "transfers_out_event": 1002,
-    "transfers_in": 9304,
-    "transfers_out": 3224,
+    "transfers_in_event": 948,
+    "transfers_out_event": 1004,
+    "transfers_in": 9310,
+    "transfers_out": 3226,
     "cost_change_event": 0
   },
   {
@@ -13194,9 +13194,9 @@
     "status": "i",
     "news": "Thigh injury - Unknown return date",
     "transfers_in_event": 75,
-    "transfers_out_event": 41010,
+    "transfers_out_event": 41099,
     "transfers_in": 29046,
-    "transfers_out": 457712,
+    "transfers_out": 457801,
     "cost_change_event": 0
   },
   {
@@ -13227,9 +13227,9 @@
     "status": "u",
     "news": "Has joined Torino on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 1321,
+    "transfers_out_event": 1322,
     "transfers_in": 532,
-    "transfers_out": 26521,
+    "transfers_out": 26522,
     "cost_change_event": 0
   },
   {
@@ -13259,10 +13259,10 @@
     "last_season_starts": 21,
     "status": "a",
     "news": "",
-    "transfers_in_event": 807,
-    "transfers_out_event": 5609,
-    "transfers_in": 69109,
-    "transfers_out": 59224,
+    "transfers_in_event": 809,
+    "transfers_out_event": 5618,
+    "transfers_in": 69111,
+    "transfers_out": 59233,
     "cost_change_event": 0
   },
   {
@@ -13292,10 +13292,10 @@
     "last_season_starts": 33,
     "status": "i",
     "news": "Hamstring injury - Expected back 21 Nov",
-    "transfers_in_event": 47,
-    "transfers_out_event": 8922,
-    "transfers_in": 26941,
-    "transfers_out": 296927,
+    "transfers_in_event": 48,
+    "transfers_out_event": 8940,
+    "transfers_in": 26942,
+    "transfers_out": 296945,
     "cost_change_event": -1
   },
   {
@@ -13325,10 +13325,10 @@
     "last_season_starts": 32,
     "status": "a",
     "news": "",
-    "transfers_in_event": 127564,
-    "transfers_out_event": 26329,
-    "transfers_in": 654137,
-    "transfers_out": 85537,
+    "transfers_in_event": 127947,
+    "transfers_out_event": 26427,
+    "transfers_in": 654520,
+    "transfers_out": 85635,
     "cost_change_event": 0
   },
   {
@@ -13358,9 +13358,9 @@
     "last_season_starts": 31,
     "status": "a",
     "news": "",
-    "transfers_in_event": 544,
+    "transfers_in_event": 547,
     "transfers_out_event": 340,
-    "transfers_in": 4142,
+    "transfers_in": 4145,
     "transfers_out": 2770,
     "cost_change_event": 0
   },
@@ -13391,10 +13391,10 @@
     "last_season_starts": 21,
     "status": "a",
     "news": "",
-    "transfers_in_event": 4311,
-    "transfers_out_event": 5953,
-    "transfers_in": 121583,
-    "transfers_out": 70866,
+    "transfers_in_event": 4326,
+    "transfers_out_event": 5975,
+    "transfers_in": 121598,
+    "transfers_out": 70888,
     "cost_change_event": 0
   },
   {
@@ -13457,10 +13457,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 28573,
-    "transfers_out_event": 24561,
-    "transfers_in": 299858,
-    "transfers_out": 173445,
+    "transfers_in_event": 28680,
+    "transfers_out_event": 24636,
+    "transfers_in": 299965,
+    "transfers_out": 173520,
     "cost_change_event": 0
   },
   {
@@ -13490,10 +13490,10 @@
     "last_season_starts": 28,
     "status": "a",
     "news": "",
-    "transfers_in_event": 4913,
-    "transfers_out_event": 19770,
-    "transfers_in": 202256,
-    "transfers_out": 164503,
+    "transfers_in_event": 4923,
+    "transfers_out_event": 19810,
+    "transfers_in": 202266,
+    "transfers_out": 164543,
     "cost_change_event": 0
   },
   {
@@ -13523,10 +13523,10 @@
     "last_season_starts": 19,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1798,
-    "transfers_out_event": 3431,
-    "transfers_in": 26905,
-    "transfers_out": 35217,
+    "transfers_in_event": 1804,
+    "transfers_out_event": 3436,
+    "transfers_in": 26911,
+    "transfers_out": 35222,
     "cost_change_event": 0
   },
   {
@@ -13557,9 +13557,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 214,
-    "transfers_out_event": 3433,
+    "transfers_out_event": 3438,
     "transfers_in": 6777,
-    "transfers_out": 48162,
+    "transfers_out": 48167,
     "cost_change_event": -1
   },
   {
@@ -13589,10 +13589,10 @@
     "last_season_starts": 35,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1645,
-    "transfers_out_event": 5001,
-    "transfers_in": 18078,
-    "transfers_out": 60680,
+    "transfers_in_event": 1651,
+    "transfers_out_event": 5015,
+    "transfers_in": 18084,
+    "transfers_out": 60694,
     "cost_change_event": 0
   },
   {
@@ -13601,7 +13601,7 @@
     "full_name": "Sean Longstaff",
     "team": "Leeds",
     "position": "MID",
-    "price": 4.9,
+    "price": 4.8,
     "total_points": 2,
     "points_per_game": 1.0,
     "form": 0.3,
@@ -13623,10 +13623,10 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 137,
-    "transfers_out_event": 638,
+    "transfers_out_event": 639,
     "transfers_in": 2510,
-    "transfers_out": 8122,
-    "cost_change_event": 0
+    "transfers_out": 8123,
+    "cost_change_event": -1
   },
   {
     "id": 341,
@@ -13656,9 +13656,9 @@
     "status": "u",
     "news": "Has joined ACF Fiorentina on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 53,
+    "transfers_out_event": 54,
     "transfers_in": 244,
-    "transfers_out": 1811,
+    "transfers_out": 1812,
     "cost_change_event": 0
   },
   {
@@ -13722,9 +13722,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 190,
-    "transfers_out_event": 561,
+    "transfers_out_event": 562,
     "transfers_in": 4159,
-    "transfers_out": 8011,
+    "transfers_out": 8012,
     "cost_change_event": 0
   },
   {
@@ -13787,10 +13787,10 @@
     "last_season_starts": 14,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2275,
-    "transfers_out_event": 2303,
-    "transfers_in": 22793,
-    "transfers_out": 17538,
+    "transfers_in_event": 2282,
+    "transfers_out_event": 2306,
+    "transfers_in": 22800,
+    "transfers_out": 17541,
     "cost_change_event": 0
   },
   {
@@ -13820,10 +13820,10 @@
     "last_season_starts": 30,
     "status": "a",
     "news": "",
-    "transfers_in_event": 95781,
-    "transfers_out_event": 171315,
-    "transfers_in": 1012410,
-    "transfers_out": 1324257,
+    "transfers_in_event": 96004,
+    "transfers_out_event": 171721,
+    "transfers_in": 1012633,
+    "transfers_out": 1324663,
     "cost_change_event": 0
   },
   {
@@ -13853,10 +13853,10 @@
     "last_season_starts": 10,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2048,
-    "transfers_out_event": 3765,
-    "transfers_in": 22242,
-    "transfers_out": 37186,
+    "transfers_in_event": 2053,
+    "transfers_out_event": 3776,
+    "transfers_in": 22247,
+    "transfers_out": 37197,
     "cost_change_event": 0
   },
   {
@@ -13887,9 +13887,9 @@
     "status": "u",
     "news": "Has joined West Ham United on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 431,
+    "transfers_out_event": 433,
     "transfers_in": 0,
-    "transfers_out": 11226,
+    "transfers_out": 11228,
     "cost_change_event": 0
   },
   {
@@ -13919,9 +13919,9 @@
     "last_season_starts": 0,
     "status": "i",
     "news": "Knee injury - Unknown return date",
-    "transfers_in_event": 322,
+    "transfers_in_event": 323,
     "transfers_out_event": 488,
-    "transfers_in": 3108,
+    "transfers_in": 3109,
     "transfers_out": 4462,
     "cost_change_event": 0
   },
@@ -13952,10 +13952,10 @@
     "last_season_starts": 4,
     "status": "a",
     "news": "",
-    "transfers_in_event": 23020,
-    "transfers_out_event": 15327,
-    "transfers_in": 264991,
-    "transfers_out": 159672,
+    "transfers_in_event": 23117,
+    "transfers_out_event": 15382,
+    "transfers_in": 265088,
+    "transfers_out": 159727,
     "cost_change_event": 0
   },
   {
@@ -13985,10 +13985,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 236,
-    "transfers_out_event": 243,
-    "transfers_in": 5351,
-    "transfers_out": 2802,
+    "transfers_in_event": 237,
+    "transfers_out_event": 244,
+    "transfers_in": 5352,
+    "transfers_out": 2803,
     "cost_change_event": 0
   },
   {
@@ -14084,9 +14084,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 852,
+    "transfers_in_event": 853,
     "transfers_out_event": 791,
-    "transfers_in": 19811,
+    "transfers_in": 19812,
     "transfers_out": 5949,
     "cost_change_event": 0
   },
@@ -14117,10 +14117,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3077,
-    "transfers_out_event": 2822,
-    "transfers_in": 58517,
-    "transfers_out": 14197,
+    "transfers_in_event": 3085,
+    "transfers_out_event": 2826,
+    "transfers_in": 58525,
+    "transfers_out": 14201,
     "cost_change_event": 0
   },
   {
@@ -14183,9 +14183,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 111,
+    "transfers_in_event": 112,
     "transfers_out_event": 177,
-    "transfers_in": 2243,
+    "transfers_in": 2244,
     "transfers_out": 1145,
     "cost_change_event": 0
   },
@@ -14216,10 +14216,10 @@
     "last_season_starts": 26,
     "status": "a",
     "news": "",
-    "transfers_in_event": 13720,
-    "transfers_out_event": 12008,
-    "transfers_in": 147038,
-    "transfers_out": 145532,
+    "transfers_in_event": 13784,
+    "transfers_out_event": 12037,
+    "transfers_in": 147102,
+    "transfers_out": 145561,
     "cost_change_event": 0
   },
   {
@@ -14228,7 +14228,7 @@
     "full_name": "Giorgi Mamardashvili",
     "team": "Liverpool",
     "position": "GKP",
-    "price": 4.9,
+    "price": 4.8,
     "total_points": 0,
     "points_per_game": 0.0,
     "form": 0.0,
@@ -14250,10 +14250,10 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 258,
-    "transfers_out_event": 633,
+    "transfers_out_event": 634,
     "transfers_in": 2870,
-    "transfers_out": 8651,
-    "cost_change_event": 0
+    "transfers_out": 8652,
+    "cost_change_event": -1
   },
   {
     "id": 352,
@@ -14282,10 +14282,10 @@
     "last_season_starts": 2,
     "status": "a",
     "news": "",
-    "transfers_in_event": 797,
-    "transfers_out_event": 2387,
-    "transfers_in": 18291,
-    "transfers_out": 27245,
+    "transfers_in_event": 799,
+    "transfers_out_event": 2394,
+    "transfers_in": 18293,
+    "transfers_out": 27252,
     "cost_change_event": 0
   },
   {
@@ -14381,10 +14381,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 296,
-    "transfers_out_event": 472,
-    "transfers_in": 4748,
-    "transfers_out": 4252,
+    "transfers_in_event": 298,
+    "transfers_out_event": 475,
+    "transfers_in": 4750,
+    "transfers_out": 4255,
     "cost_change_event": 0
   },
   {
@@ -14414,10 +14414,10 @@
     "last_season_starts": 38,
     "status": "a",
     "news": "",
-    "transfers_in_event": 22266,
-    "transfers_out_event": 44504,
-    "transfers_in": 279282,
-    "transfers_out": 617137,
+    "transfers_in_event": 22354,
+    "transfers_out_event": 44620,
+    "transfers_in": 279370,
+    "transfers_out": 617253,
     "cost_change_event": 0
   },
   {
@@ -14447,10 +14447,10 @@
     "last_season_starts": 12,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1645,
-    "transfers_out_event": 12892,
-    "transfers_in": 58988,
-    "transfers_out": 246277,
+    "transfers_in_event": 1652,
+    "transfers_out_event": 12915,
+    "transfers_in": 58995,
+    "transfers_out": 246300,
     "cost_change_event": 0
   },
   {
@@ -14480,10 +14480,10 @@
     "last_season_starts": 27,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2670,
-    "transfers_out_event": 10666,
-    "transfers_in": 47687,
-    "transfers_out": 188038,
+    "transfers_in_event": 2675,
+    "transfers_out_event": 10687,
+    "transfers_in": 47692,
+    "transfers_out": 188059,
     "cost_change_event": -1
   },
   {
@@ -14513,9 +14513,9 @@
     "last_season_starts": 7,
     "status": "a",
     "news": "",
-    "transfers_in_event": 329,
+    "transfers_in_event": 331,
     "transfers_out_event": 117,
-    "transfers_in": 749,
+    "transfers_in": 751,
     "transfers_out": 1181,
     "cost_change_event": 0
   },
@@ -14546,9 +14546,9 @@
     "last_season_starts": 12,
     "status": "i",
     "news": "Knee injury - Unknown return date",
-    "transfers_in_event": 57,
+    "transfers_in_event": 58,
     "transfers_out_event": 86,
-    "transfers_in": 374,
+    "transfers_in": 375,
     "transfers_out": 798,
     "cost_change_event": 0
   },
@@ -14580,9 +14580,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 300,
-    "transfers_out_event": 588,
+    "transfers_out_event": 591,
     "transfers_in": 3877,
-    "transfers_out": 5813,
+    "transfers_out": 5816,
     "cost_change_event": 0
   },
   {
@@ -14612,10 +14612,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 34406,
-    "transfers_out_event": 13634,
-    "transfers_in": 232288,
-    "transfers_out": 123667,
+    "transfers_in_event": 34514,
+    "transfers_out_event": 13682,
+    "transfers_in": 232396,
+    "transfers_out": 123715,
     "cost_change_event": 0
   },
   {
@@ -14744,10 +14744,10 @@
     "last_season_starts": 27,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3865,
-    "transfers_out_event": 42454,
-    "transfers_in": 134133,
-    "transfers_out": 765851,
+    "transfers_in_event": 3914,
+    "transfers_out_event": 42534,
+    "transfers_in": 134182,
+    "transfers_out": 765931,
     "cost_change_event": 0
   },
   {
@@ -14777,10 +14777,10 @@
     "last_season_starts": 32,
     "status": "d",
     "news": "Ankle injury - 75% chance of playing",
-    "transfers_in_event": 51443,
-    "transfers_out_event": 95563,
-    "transfers_in": 1337855,
-    "transfers_out": 723160,
+    "transfers_in_event": 51473,
+    "transfers_out_event": 96086,
+    "transfers_in": 1337885,
+    "transfers_out": 723683,
     "cost_change_event": 0
   },
   {
@@ -14789,7 +14789,7 @@
     "full_name": "Dominik Szoboszlai",
     "team": "Liverpool",
     "position": "MID",
-    "price": 7.0,
+    "price": 6.9,
     "total_points": 20,
     "points_per_game": 4.0,
     "form": 2.7,
@@ -14810,11 +14810,11 @@
     "last_season_starts": 36,
     "status": "a",
     "news": "",
-    "transfers_in_event": 37043,
-    "transfers_out_event": 219160,
-    "transfers_in": 929402,
-    "transfers_out": 1687318,
-    "cost_change_event": 0
+    "transfers_in_event": 37157,
+    "transfers_out_event": 220548,
+    "transfers_in": 929516,
+    "transfers_out": 1688706,
+    "cost_change_event": -1
   },
   {
     "id": 369,
@@ -14843,10 +14843,10 @@
     "last_season_starts": 5,
     "status": "a",
     "news": "",
-    "transfers_in_event": 800,
-    "transfers_out_event": 4299,
-    "transfers_in": 14578,
-    "transfers_out": 89325,
+    "transfers_in_event": 803,
+    "transfers_out_event": 4308,
+    "transfers_in": 14581,
+    "transfers_out": 89334,
     "cost_change_event": -1
   },
   {
@@ -14909,10 +14909,10 @@
     "last_season_starts": 34,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1247,
-    "transfers_out_event": 9225,
-    "transfers_in": 35785,
-    "transfers_out": 130578,
+    "transfers_in_event": 1251,
+    "transfers_out_event": 9239,
+    "transfers_in": 35789,
+    "transfers_out": 130592,
     "cost_change_event": -1
   },
   {
@@ -14942,10 +14942,10 @@
     "last_season_starts": 31,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3904,
-    "transfers_out_event": 6959,
-    "transfers_in": 45524,
-    "transfers_out": 96673,
+    "transfers_in_event": 3910,
+    "transfers_out_event": 6971,
+    "transfers_in": 45530,
+    "transfers_out": 96685,
     "cost_change_event": 0
   },
   {
@@ -15009,9 +15009,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 169,
-    "transfers_out_event": 450,
+    "transfers_out_event": 451,
     "transfers_in": 2332,
-    "transfers_out": 4816,
+    "transfers_out": 4817,
     "cost_change_event": 0
   },
   {
@@ -15042,9 +15042,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 94,
-    "transfers_out_event": 313,
+    "transfers_out_event": 314,
     "transfers_in": 1351,
-    "transfers_out": 3058,
+    "transfers_out": 3059,
     "cost_change_event": 0
   },
   {
@@ -15107,10 +15107,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1512,
-    "transfers_out_event": 11627,
-    "transfers_in": 117495,
-    "transfers_out": 101969,
+    "transfers_in_event": 1514,
+    "transfers_out_event": 11642,
+    "transfers_in": 117497,
+    "transfers_out": 101984,
     "cost_change_event": 0
   },
   {
@@ -15140,10 +15140,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1067,
-    "transfers_out_event": 1526,
-    "transfers_in": 6942,
-    "transfers_out": 12983,
+    "transfers_in_event": 1068,
+    "transfers_out_event": 1527,
+    "transfers_in": 6943,
+    "transfers_out": 12984,
     "cost_change_event": 0
   },
   {
@@ -15173,10 +15173,10 @@
     "last_season_starts": 8,
     "status": "d",
     "news": "Thigh injury - 75% chance of playing",
-    "transfers_in_event": 116491,
-    "transfers_out_event": 89082,
-    "transfers_in": 1243653,
-    "transfers_out": 749051,
+    "transfers_in_event": 116627,
+    "transfers_out_event": 89693,
+    "transfers_in": 1243789,
+    "transfers_out": 749662,
     "cost_change_event": 0
   },
   {
@@ -15206,10 +15206,10 @@
     "last_season_starts": 21,
     "status": "i",
     "news": "Achilles injury - Unknown return date",
-    "transfers_in_event": 390,
-    "transfers_out_event": 847,
-    "transfers_in": 2662,
-    "transfers_out": 11310,
+    "transfers_in_event": 397,
+    "transfers_out_event": 851,
+    "transfers_in": 2669,
+    "transfers_out": 11314,
     "cost_change_event": 0
   },
   {
@@ -15272,10 +15272,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3561,
-    "transfers_out_event": 2448,
-    "transfers_in": 23368,
-    "transfers_out": 9727,
+    "transfers_in_event": 3567,
+    "transfers_out_event": 2449,
+    "transfers_in": 23374,
+    "transfers_out": 9728,
     "cost_change_event": 0
   },
   {
@@ -15338,10 +15338,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 17364,
-    "transfers_out_event": 10629,
-    "transfers_in": 149280,
-    "transfers_out": 160318,
+    "transfers_in_event": 17422,
+    "transfers_out_event": 10651,
+    "transfers_in": 149338,
+    "transfers_out": 160340,
     "cost_change_event": 0
   },
   {
@@ -15371,10 +15371,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 11472,
-    "transfers_out_event": 19186,
-    "transfers_in": 288934,
-    "transfers_out": 130432,
+    "transfers_in_event": 11535,
+    "transfers_out_event": 19223,
+    "transfers_in": 288997,
+    "transfers_out": 130469,
     "cost_change_event": 0
   },
   {
@@ -15404,10 +15404,10 @@
     "last_season_starts": 35,
     "status": "a",
     "news": "",
-    "transfers_in_event": 31521,
-    "transfers_out_event": 14964,
-    "transfers_in": 173188,
-    "transfers_out": 321873,
+    "transfers_in_event": 31581,
+    "transfers_out_event": 15021,
+    "transfers_in": 173248,
+    "transfers_out": 321930,
     "cost_change_event": 0
   },
   {
@@ -15437,10 +15437,10 @@
     "last_season_starts": 32,
     "status": "a",
     "news": "",
-    "transfers_in_event": 7129,
-    "transfers_out_event": 69437,
-    "transfers_in": 297998,
-    "transfers_out": 1137440,
+    "transfers_in_event": 7144,
+    "transfers_out_event": 69566,
+    "transfers_in": 298013,
+    "transfers_out": 1137569,
     "cost_change_event": -1
   },
   {
@@ -15470,10 +15470,10 @@
     "last_season_starts": 34,
     "status": "a",
     "news": "",
-    "transfers_in_event": 10848,
-    "transfers_out_event": 30949,
-    "transfers_in": 207039,
-    "transfers_out": 316865,
+    "transfers_in_event": 10884,
+    "transfers_out_event": 31031,
+    "transfers_in": 207075,
+    "transfers_out": 316947,
     "cost_change_event": 0
   },
   {
@@ -15503,9 +15503,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 51,
+    "transfers_in_event": 52,
     "transfers_out_event": 90,
-    "transfers_in": 566,
+    "transfers_in": 567,
     "transfers_out": 1126,
     "cost_change_event": 0
   },
@@ -15536,10 +15536,10 @@
     "last_season_starts": 29,
     "status": "d",
     "news": "Unspecified injury - 75% chance of playing",
-    "transfers_in_event": 5359,
-    "transfers_out_event": 73176,
-    "transfers_in": 192703,
-    "transfers_out": 1209687,
+    "transfers_in_event": 5362,
+    "transfers_out_event": 73462,
+    "transfers_in": 192706,
+    "transfers_out": 1209973,
     "cost_change_event": -1
   },
   {
@@ -15569,10 +15569,10 @@
     "last_season_starts": 35,
     "status": "a",
     "news": "",
-    "transfers_in_event": 23956,
-    "transfers_out_event": 52400,
-    "transfers_in": 505876,
-    "transfers_out": 464376,
+    "transfers_in_event": 24015,
+    "transfers_out_event": 52530,
+    "transfers_in": 505935,
+    "transfers_out": 464506,
     "cost_change_event": 0
   },
   {
@@ -15602,10 +15602,10 @@
     "last_season_starts": 32,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1688,
-    "transfers_out_event": 2985,
-    "transfers_in": 14843,
-    "transfers_out": 74126,
+    "transfers_in_event": 1691,
+    "transfers_out_event": 2991,
+    "transfers_in": 14846,
+    "transfers_out": 74132,
     "cost_change_event": 0
   },
   {
@@ -15635,10 +15635,10 @@
     "last_season_starts": 24,
     "status": "a",
     "news": "",
-    "transfers_in_event": 4763,
-    "transfers_out_event": 9203,
-    "transfers_in": 67351,
-    "transfers_out": 74005,
+    "transfers_in_event": 4772,
+    "transfers_out_event": 9219,
+    "transfers_in": 67360,
+    "transfers_out": 74021,
     "cost_change_event": 0
   },
   {
@@ -15668,10 +15668,10 @@
     "last_season_starts": 16,
     "status": "a",
     "news": "",
-    "transfers_in_event": 149676,
-    "transfers_out_event": 56040,
-    "transfers_in": 1831708,
-    "transfers_out": 416256,
+    "transfers_in_event": 150064,
+    "transfers_out_event": 56255,
+    "transfers_in": 1832096,
+    "transfers_out": 416471,
     "cost_change_event": 0
   },
   {
@@ -15680,7 +15680,7 @@
     "full_name": "Rayan A\u00eft-Nouri",
     "team": "Man City",
     "position": "DEF",
-    "price": 5.3,
+    "price": 5.2,
     "total_points": 0,
     "points_per_game": 0.0,
     "form": 0.0,
@@ -15702,10 +15702,10 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 537,
-    "transfers_out_event": 2222,
+    "transfers_out_event": 2225,
     "transfers_in": 7889,
-    "transfers_out": 61631,
-    "cost_change_event": 0
+    "transfers_out": 61634,
+    "cost_change_event": -1
   },
   {
     "id": 393,
@@ -15734,10 +15734,10 @@
     "last_season_starts": 15,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1436,
-    "transfers_out_event": 9116,
-    "transfers_in": 26872,
-    "transfers_out": 80762,
+    "transfers_in_event": 1442,
+    "transfers_out_event": 9127,
+    "transfers_in": 26878,
+    "transfers_out": 80773,
     "cost_change_event": 0
   },
   {
@@ -15800,10 +15800,10 @@
     "last_season_starts": 4,
     "status": "a",
     "news": "",
-    "transfers_in_event": 310,
-    "transfers_out_event": 1218,
-    "transfers_in": 8266,
-    "transfers_out": 16284,
+    "transfers_in_event": 311,
+    "transfers_out_event": 1219,
+    "transfers_in": 8267,
+    "transfers_out": 16285,
     "cost_change_event": 0
   },
   {
@@ -15834,9 +15834,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 75,
-    "transfers_out_event": 154,
+    "transfers_out_event": 155,
     "transfers_in": 555,
-    "transfers_out": 1177,
+    "transfers_out": 1178,
     "cost_change_event": 0
   },
   {
@@ -15866,10 +15866,10 @@
     "last_season_starts": 37,
     "status": "d",
     "news": "Ankle injury - 75% chance of playing",
-    "transfers_in_event": 126233,
-    "transfers_out_event": 70940,
-    "transfers_in": 317136,
-    "transfers_out": 1213640,
+    "transfers_in_event": 126334,
+    "transfers_out_event": 71377,
+    "transfers_in": 317237,
+    "transfers_out": 1214077,
     "cost_change_event": 0
   },
   {
@@ -15899,10 +15899,10 @@
     "last_season_starts": 23,
     "status": "s",
     "news": "Suspended until 17 Oct",
-    "transfers_in_event": 216,
-    "transfers_out_event": 28858,
-    "transfers_in": 303462,
-    "transfers_out": 566580,
+    "transfers_in_event": 218,
+    "transfers_out_event": 28927,
+    "transfers_in": 303464,
+    "transfers_out": 566649,
     "cost_change_event": 0
   },
   {
@@ -15932,10 +15932,10 @@
     "last_season_starts": 19,
     "status": "a",
     "news": "",
-    "transfers_in_event": 126120,
-    "transfers_out_event": 91004,
-    "transfers_in": 2673281,
-    "transfers_out": 957949,
+    "transfers_in_event": 126512,
+    "transfers_out_event": 91265,
+    "transfers_in": 2673673,
+    "transfers_out": 958210,
     "cost_change_event": 0
   },
   {
@@ -15965,10 +15965,10 @@
     "last_season_starts": 19,
     "status": "a",
     "news": "",
-    "transfers_in_event": 4547,
-    "transfers_out_event": 2125,
-    "transfers_in": 6014,
-    "transfers_out": 128211,
+    "transfers_in_event": 4564,
+    "transfers_out_event": 2131,
+    "transfers_in": 6031,
+    "transfers_out": 128217,
     "cost_change_event": 0
   },
   {
@@ -16065,9 +16065,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 113,
-    "transfers_out_event": 468,
+    "transfers_out_event": 469,
     "transfers_in": 2255,
-    "transfers_out": 6297,
+    "transfers_out": 6298,
     "cost_change_event": 0
   },
   {
@@ -16098,9 +16098,9 @@
     "status": "u",
     "news": "Has joined Benfica on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 55,
+    "transfers_out_event": 56,
     "transfers_in": 250,
-    "transfers_out": 1344,
+    "transfers_out": 1345,
     "cost_change_event": 0
   },
   {
@@ -16131,9 +16131,9 @@
     "status": "u",
     "news": "Has joined Sheffield United on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 12,
+    "transfers_out_event": 13,
     "transfers_in": 0,
-    "transfers_out": 571,
+    "transfers_out": 572,
     "cost_change_event": 0
   },
   {
@@ -16164,9 +16164,9 @@
     "status": "u",
     "news": "has joined West Ham on loan for the rest of the seaon.",
     "transfers_in_event": 0,
-    "transfers_out_event": 612,
+    "transfers_out_event": 613,
     "transfers_in": 1621,
-    "transfers_out": 12179,
+    "transfers_out": 12180,
     "cost_change_event": 0
   },
   {
@@ -16229,10 +16229,10 @@
     "last_season_starts": 34,
     "status": "a",
     "news": "",
-    "transfers_in_event": 80454,
-    "transfers_out_event": 20986,
-    "transfers_in": 925731,
-    "transfers_out": 322644,
+    "transfers_in_event": 80670,
+    "transfers_out_event": 21087,
+    "transfers_in": 925947,
+    "transfers_out": 322745,
     "cost_change_event": 0
   },
   {
@@ -16262,10 +16262,10 @@
     "last_season_starts": 37,
     "status": "a",
     "news": "",
-    "transfers_in_event": 7978,
-    "transfers_out_event": 28203,
-    "transfers_in": 105417,
-    "transfers_out": 446043,
+    "transfers_in_event": 8002,
+    "transfers_out_event": 28272,
+    "transfers_in": 105441,
+    "transfers_out": 446112,
     "cost_change_event": 0
   },
   {
@@ -16295,9 +16295,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 72,
+    "transfers_in_event": 73,
     "transfers_out_event": 103,
-    "transfers_in": 604,
+    "transfers_in": 605,
     "transfers_out": 1114,
     "cost_change_event": 0
   },
@@ -16328,10 +16328,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 848,
-    "transfers_out_event": 2135,
-    "transfers_in": 21047,
-    "transfers_out": 13574,
+    "transfers_in_event": 849,
+    "transfers_out_event": 2139,
+    "transfers_in": 21048,
+    "transfers_out": 13578,
     "cost_change_event": 0
   },
   {
@@ -16362,9 +16362,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 196,
-    "transfers_out_event": 1103,
+    "transfers_out_event": 1106,
     "transfers_in": 11365,
-    "transfers_out": 7126,
+    "transfers_out": 7129,
     "cost_change_event": 0
   },
   {
@@ -16395,9 +16395,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 590,
-    "transfers_out_event": 1664,
+    "transfers_out_event": 1667,
     "transfers_in": 16797,
-    "transfers_out": 9215,
+    "transfers_out": 9218,
     "cost_change_event": 0
   },
   {
@@ -16427,10 +16427,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 226,
-    "transfers_out_event": 169,
-    "transfers_in": 1189,
-    "transfers_out": 690,
+    "transfers_in_event": 227,
+    "transfers_out_event": 170,
+    "transfers_in": 1190,
+    "transfers_out": 691,
     "cost_change_event": 0
   },
   {
@@ -16460,9 +16460,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 250,
+    "transfers_in_event": 251,
     "transfers_out_event": 496,
-    "transfers_in": 3899,
+    "transfers_in": 3900,
     "transfers_out": 2179,
     "cost_change_event": 0
   },
@@ -16493,10 +16493,10 @@
     "last_season_starts": 21,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3200,
-    "transfers_out_event": 10850,
-    "transfers_in": 44647,
-    "transfers_out": 161474,
+    "transfers_in_event": 3210,
+    "transfers_out_event": 10865,
+    "transfers_in": 44657,
+    "transfers_out": 161489,
     "cost_change_event": 0
   },
   {
@@ -16526,9 +16526,9 @@
     "last_season_starts": 23,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1310,
+    "transfers_in_event": 1313,
     "transfers_out_event": 741,
-    "transfers_in": 6749,
+    "transfers_in": 6752,
     "transfers_out": 14382,
     "cost_change_event": 0
   },
@@ -16559,10 +16559,10 @@
     "last_season_starts": 13,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1052,
-    "transfers_out_event": 5013,
-    "transfers_in": 22249,
-    "transfers_out": 73632,
+    "transfers_in_event": 1054,
+    "transfers_out_event": 5027,
+    "transfers_in": 22251,
+    "transfers_out": 73646,
     "cost_change_event": 0
   },
   {
@@ -16593,9 +16593,9 @@
     "status": "d",
     "news": "Unspecified injury - 75% chance of playing",
     "transfers_in_event": 60,
-    "transfers_out_event": 218,
+    "transfers_out_event": 220,
     "transfers_in": 1067,
-    "transfers_out": 1599,
+    "transfers_out": 1601,
     "cost_change_event": 0
   },
   {
@@ -16625,10 +16625,10 @@
     "last_season_starts": 32,
     "status": "a",
     "news": "",
-    "transfers_in_event": 6876,
-    "transfers_out_event": 49295,
-    "transfers_in": 99084,
-    "transfers_out": 687726,
+    "transfers_in_event": 6897,
+    "transfers_out_event": 49411,
+    "transfers_in": 99105,
+    "transfers_out": 687842,
     "cost_change_event": 0
   },
   {
@@ -16725,9 +16725,9 @@
     "status": "d",
     "news": "Hamstring injury - 75% chance of playing",
     "transfers_in_event": 1030,
-    "transfers_out_event": 4280,
+    "transfers_out_event": 4296,
     "transfers_in": 14000,
-    "transfers_out": 97817,
+    "transfers_out": 97833,
     "cost_change_event": 0
   },
   {
@@ -16758,9 +16758,9 @@
     "status": "i",
     "news": "Back injury - Unknown return date",
     "transfers_in_event": 79,
-    "transfers_out_event": 133,
+    "transfers_out_event": 134,
     "transfers_in": 458,
-    "transfers_out": 1556,
+    "transfers_out": 1557,
     "cost_change_event": 0
   },
   {
@@ -16790,10 +16790,10 @@
     "last_season_starts": 29,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1304,
-    "transfers_out_event": 7650,
-    "transfers_in": 26083,
-    "transfers_out": 136145,
+    "transfers_in_event": 1312,
+    "transfers_out_event": 7664,
+    "transfers_in": 26091,
+    "transfers_out": 136159,
     "cost_change_event": 0
   },
   {
@@ -16823,10 +16823,10 @@
     "last_season_starts": 19,
     "status": "a",
     "news": "",
-    "transfers_in_event": 4464,
-    "transfers_out_event": 75671,
-    "transfers_in": 138422,
-    "transfers_out": 1005362,
+    "transfers_in_event": 4473,
+    "transfers_out_event": 75801,
+    "transfers_in": 138431,
+    "transfers_out": 1005492,
     "cost_change_event": -1
   },
   {
@@ -16856,10 +16856,10 @@
     "last_season_starts": 13,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3762,
-    "transfers_out_event": 6531,
-    "transfers_in": 36688,
-    "transfers_out": 67384,
+    "transfers_in_event": 3766,
+    "transfers_out_event": 6540,
+    "transfers_in": 36692,
+    "transfers_out": 67393,
     "cost_change_event": 0
   },
   {
@@ -16890,9 +16890,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 469,
-    "transfers_out_event": 2208,
+    "transfers_out_event": 2213,
     "transfers_in": 5251,
-    "transfers_out": 36050,
+    "transfers_out": 36055,
     "cost_change_event": -1
   },
   {
@@ -16956,9 +16956,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 597,
-    "transfers_out_event": 2902,
+    "transfers_out_event": 2905,
     "transfers_in": 14381,
-    "transfers_out": 40989,
+    "transfers_out": 40992,
     "cost_change_event": 0
   },
   {
@@ -16988,10 +16988,10 @@
     "last_season_starts": 38,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3745,
-    "transfers_out_event": 77350,
-    "transfers_in": 101229,
-    "transfers_out": 1309279,
+    "transfers_in_event": 3756,
+    "transfers_out_event": 77488,
+    "transfers_in": 101240,
+    "transfers_out": 1309417,
     "cost_change_event": -1
   },
   {
@@ -17021,10 +17021,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 425,
-    "transfers_out_event": 796,
-    "transfers_in": 6327,
-    "transfers_out": 8826,
+    "transfers_in_event": 427,
+    "transfers_out_event": 797,
+    "transfers_in": 6329,
+    "transfers_out": 8827,
     "cost_change_event": 0
   },
   {
@@ -17087,10 +17087,10 @@
     "last_season_starts": 35,
     "status": "a",
     "news": "",
-    "transfers_in_event": 45648,
-    "transfers_out_event": 199028,
-    "transfers_in": 657248,
-    "transfers_out": 1851978,
+    "transfers_in_event": 45885,
+    "transfers_out_event": 199433,
+    "transfers_in": 657485,
+    "transfers_out": 1852383,
     "cost_change_event": -1
   },
   {
@@ -17120,10 +17120,10 @@
     "last_season_starts": 31,
     "status": "a",
     "news": "",
-    "transfers_in_event": 38096,
-    "transfers_out_event": 131617,
-    "transfers_in": 465075,
-    "transfers_out": 2018116,
+    "transfers_in_event": 38295,
+    "transfers_out_event": 131945,
+    "transfers_in": 465274,
+    "transfers_out": 2018444,
     "cost_change_event": 0
   },
   {
@@ -17153,10 +17153,10 @@
     "last_season_starts": 29,
     "status": "a",
     "news": "",
-    "transfers_in_event": 22781,
-    "transfers_out_event": 21972,
-    "transfers_in": 96527,
-    "transfers_out": 510003,
+    "transfers_in_event": 22871,
+    "transfers_out_event": 22035,
+    "transfers_in": 96617,
+    "transfers_out": 510066,
     "cost_change_event": 0
   },
   {
@@ -17186,10 +17186,10 @@
     "last_season_starts": 0,
     "status": "d",
     "news": "Unspecified injury - 75% chance of playing",
-    "transfers_in_event": 4197,
-    "transfers_out_event": 18037,
-    "transfers_in": 85226,
-    "transfers_out": 129118,
+    "transfers_in_event": 4202,
+    "transfers_out_event": 18063,
+    "transfers_in": 85231,
+    "transfers_out": 129144,
     "cost_change_event": 0
   },
   {
@@ -17219,9 +17219,9 @@
     "last_season_starts": 12,
     "status": "a",
     "news": "",
-    "transfers_in_event": 188,
+    "transfers_in_event": 189,
     "transfers_out_event": 202,
-    "transfers_in": 916,
+    "transfers_in": 917,
     "transfers_out": 1978,
     "cost_change_event": 0
   },
@@ -17253,9 +17253,9 @@
     "status": "i",
     "news": "Unspecified injury - Unknown return date",
     "transfers_in_event": 136,
-    "transfers_out_event": 1874,
+    "transfers_out_event": 1880,
     "transfers_in": 2178,
-    "transfers_out": 123595,
+    "transfers_out": 123601,
     "cost_change_event": 0
   },
   {
@@ -17285,10 +17285,10 @@
     "last_season_starts": 16,
     "status": "d",
     "news": "Unspecified injury - 75% chance of playing",
-    "transfers_in_event": 7729,
-    "transfers_out_event": 15458,
-    "transfers_in": 94823,
-    "transfers_out": 67735,
+    "transfers_in_event": 7745,
+    "transfers_out_event": 15494,
+    "transfers_in": 94839,
+    "transfers_out": 67771,
     "cost_change_event": 0
   },
   {
@@ -17352,9 +17352,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 44,
-    "transfers_out_event": 58,
+    "transfers_out_event": 59,
     "transfers_in": 324,
-    "transfers_out": 706,
+    "transfers_out": 707,
     "cost_change_event": 0
   },
   {
@@ -17384,9 +17384,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 378,
+    "transfers_in_event": 380,
     "transfers_out_event": 368,
-    "transfers_in": 1731,
+    "transfers_in": 1733,
     "transfers_out": 3333,
     "cost_change_event": 0
   },
@@ -17450,10 +17450,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 440,
-    "transfers_out_event": 880,
-    "transfers_in": 5104,
-    "transfers_out": 9661,
+    "transfers_in_event": 444,
+    "transfers_out_event": 886,
+    "transfers_in": 5108,
+    "transfers_out": 9667,
     "cost_change_event": -1
   },
   {
@@ -17483,10 +17483,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2589,
-    "transfers_out_event": 2149,
-    "transfers_in": 10658,
-    "transfers_out": 16918,
+    "transfers_in_event": 2591,
+    "transfers_out_event": 2152,
+    "transfers_in": 10660,
+    "transfers_out": 16921,
     "cost_change_event": 0
   },
   {
@@ -17516,10 +17516,10 @@
     "last_season_starts": 17,
     "status": "d",
     "news": "Shin injury - 75% chance of playing",
-    "transfers_in_event": 6661,
-    "transfers_out_event": 24490,
-    "transfers_in": 104100,
-    "transfers_out": 134163,
+    "transfers_in_event": 6665,
+    "transfers_out_event": 24530,
+    "transfers_in": 104104,
+    "transfers_out": 134203,
     "cost_change_event": 0
   },
   {
@@ -17549,10 +17549,10 @@
     "last_season_starts": 5,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1985,
-    "transfers_out_event": 3176,
-    "transfers_in": 15865,
-    "transfers_out": 43729,
+    "transfers_in_event": 1992,
+    "transfers_out_event": 3181,
+    "transfers_in": 15872,
+    "transfers_out": 43734,
     "cost_change_event": -1
   },
   {
@@ -17583,9 +17583,9 @@
     "status": "u",
     "news": "Has joined Willem II on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 11454,
+    "transfers_out_event": 11476,
     "transfers_in": 45543,
-    "transfers_out": 74396,
+    "transfers_out": 74418,
     "cost_change_event": 0
   },
   {
@@ -17615,9 +17615,9 @@
     "last_season_starts": 17,
     "status": "a",
     "news": "",
-    "transfers_in_event": 622,
+    "transfers_in_event": 624,
     "transfers_out_event": 1854,
-    "transfers_in": 18085,
+    "transfers_in": 18087,
     "transfers_out": 17023,
     "cost_change_event": 0
   },
@@ -17648,10 +17648,10 @@
     "last_season_starts": 27,
     "status": "a",
     "news": "",
-    "transfers_in_event": 879,
-    "transfers_out_event": 3194,
-    "transfers_in": 13372,
-    "transfers_out": 53917,
+    "transfers_in_event": 880,
+    "transfers_out_event": 3195,
+    "transfers_in": 13373,
+    "transfers_out": 53918,
     "cost_change_event": 0
   },
   {
@@ -17747,10 +17747,10 @@
     "last_season_starts": 33,
     "status": "a",
     "news": "",
-    "transfers_in_event": 8790,
-    "transfers_out_event": 10228,
-    "transfers_in": 178091,
-    "transfers_out": 123239,
+    "transfers_in_event": 8815,
+    "transfers_out_event": 10262,
+    "transfers_in": 178116,
+    "transfers_out": 123273,
     "cost_change_event": 0
   },
   {
@@ -17780,10 +17780,10 @@
     "last_season_starts": 11,
     "status": "a",
     "news": "",
-    "transfers_in_event": 573,
-    "transfers_out_event": 915,
-    "transfers_in": 7084,
-    "transfers_out": 13861,
+    "transfers_in_event": 574,
+    "transfers_out_event": 917,
+    "transfers_in": 7085,
+    "transfers_out": 13863,
     "cost_change_event": 0
   },
   {
@@ -17813,10 +17813,10 @@
     "last_season_starts": 21,
     "status": "a",
     "news": "",
-    "transfers_in_event": 4907,
-    "transfers_out_event": 3092,
-    "transfers_in": 47581,
-    "transfers_out": 28386,
+    "transfers_in_event": 4930,
+    "transfers_out_event": 3106,
+    "transfers_in": 47604,
+    "transfers_out": 28400,
     "cost_change_event": 0
   },
   {
@@ -17847,9 +17847,9 @@
     "status": "i",
     "news": "Ankle injury - Expected back 12 Oct",
     "transfers_in_event": 114,
-    "transfers_out_event": 5892,
+    "transfers_out_event": 5903,
     "transfers_in": 7329,
-    "transfers_out": 160800,
+    "transfers_out": 160811,
     "cost_change_event": -1
   },
   {
@@ -17879,10 +17879,10 @@
     "last_season_starts": 24,
     "status": "a",
     "news": "",
-    "transfers_in_event": 250097,
-    "transfers_out_event": 21218,
-    "transfers_in": 1663599,
-    "transfers_out": 349051,
+    "transfers_in_event": 250686,
+    "transfers_out_event": 21334,
+    "transfers_in": 1664188,
+    "transfers_out": 349167,
     "cost_change_event": 1
   },
   {
@@ -17912,10 +17912,10 @@
     "last_season_starts": 14,
     "status": "d",
     "news": "Unspecified injury - 75% chance of playing",
-    "transfers_in_event": 451,
-    "transfers_out_event": 1519,
-    "transfers_in": 10247,
-    "transfers_out": 5959,
+    "transfers_in_event": 452,
+    "transfers_out_event": 1527,
+    "transfers_in": 10248,
+    "transfers_out": 5967,
     "cost_change_event": 0
   },
   {
@@ -17946,9 +17946,9 @@
     "status": "u",
     "news": "Has joined FC Kaiserslautern on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 296,
+    "transfers_out_event": 297,
     "transfers_in": 0,
-    "transfers_out": 6947,
+    "transfers_out": 6948,
     "cost_change_event": 0
   },
   {
@@ -17978,10 +17978,10 @@
     "last_season_starts": 19,
     "status": "a",
     "news": "",
-    "transfers_in_event": 163759,
-    "transfers_out_event": 18824,
-    "transfers_in": 634862,
-    "transfers_out": 150732,
+    "transfers_in_event": 164361,
+    "transfers_out_event": 18958,
+    "transfers_in": 635464,
+    "transfers_out": 150866,
     "cost_change_event": 1
   },
   {
@@ -18011,10 +18011,10 @@
     "last_season_starts": 14,
     "status": "i",
     "news": "Unspecified injury - Unknown return date",
-    "transfers_in_event": 334,
-    "transfers_out_event": 168354,
-    "transfers_in": 1286171,
-    "transfers_out": 1088315,
+    "transfers_in_event": 335,
+    "transfers_out_event": 168646,
+    "transfers_in": 1286172,
+    "transfers_out": 1088607,
     "cost_change_event": -1
   },
   {
@@ -18044,10 +18044,10 @@
     "last_season_starts": 15,
     "status": "i",
     "news": "Thigh injury - Unknown return date",
-    "transfers_in_event": 66,
-    "transfers_out_event": 4790,
-    "transfers_in": 16612,
-    "transfers_out": 30993,
+    "transfers_in_event": 67,
+    "transfers_out_event": 4800,
+    "transfers_in": 16613,
+    "transfers_out": 31003,
     "cost_change_event": 0
   },
   {
@@ -18077,10 +18077,10 @@
     "last_season_starts": 19,
     "status": "a",
     "news": "",
-    "transfers_in_event": 978,
-    "transfers_out_event": 796,
-    "transfers_in": 6081,
-    "transfers_out": 10975,
+    "transfers_in_event": 980,
+    "transfers_out_event": 801,
+    "transfers_in": 6083,
+    "transfers_out": 10980,
     "cost_change_event": 0
   },
   {
@@ -18144,9 +18144,9 @@
     "status": "d",
     "news": "Unspecified injury - 75% chance of playing",
     "transfers_in_event": 486,
-    "transfers_out_event": 507,
+    "transfers_out_event": 508,
     "transfers_in": 6350,
-    "transfers_out": 5514,
+    "transfers_out": 5515,
     "cost_change_event": 0
   },
   {
@@ -18176,10 +18176,10 @@
     "last_season_starts": 10,
     "status": "a",
     "news": "",
-    "transfers_in_event": 9832,
-    "transfers_out_event": 2794,
-    "transfers_in": 64652,
-    "transfers_out": 30779,
+    "transfers_in_event": 9853,
+    "transfers_out_event": 2801,
+    "transfers_in": 64673,
+    "transfers_out": 30786,
     "cost_change_event": 0
   },
   {
@@ -18209,10 +18209,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 331,
-    "transfers_out_event": 871,
-    "transfers_in": 3714,
-    "transfers_out": 16478,
+    "transfers_in_event": 332,
+    "transfers_out_event": 872,
+    "transfers_in": 3715,
+    "transfers_out": 16479,
     "cost_change_event": 0
   },
   {
@@ -18242,9 +18242,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 268,
+    "transfers_in_event": 269,
     "transfers_out_event": 390,
-    "transfers_in": 2424,
+    "transfers_in": 2425,
     "transfers_out": 6187,
     "cost_change_event": 0
   },
@@ -18276,9 +18276,9 @@
     "status": "u",
     "news": "Has joined Juventus on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 3801,
+    "transfers_out_event": 3816,
     "transfers_in": 14520,
-    "transfers_out": 142236,
+    "transfers_out": 142251,
     "cost_change_event": 0
   },
   {
@@ -18308,10 +18308,10 @@
     "last_season_starts": 4,
     "status": "a",
     "news": "",
-    "transfers_in_event": 89808,
-    "transfers_out_event": 142549,
-    "transfers_in": 2285320,
-    "transfers_out": 729559,
+    "transfers_in_event": 90125,
+    "transfers_out_event": 142811,
+    "transfers_in": 2285637,
+    "transfers_out": 729821,
     "cost_change_event": 0
   },
   {
@@ -18342,9 +18342,9 @@
     "status": "i",
     "news": "Foot injury - Unknown return date",
     "transfers_in_event": 130,
-    "transfers_out_event": 2420,
+    "transfers_out_event": 2427,
     "transfers_in": 21453,
-    "transfers_out": 86725,
+    "transfers_out": 86732,
     "cost_change_event": -1
   },
   {
@@ -18375,9 +18375,9 @@
     "status": "u",
     "news": "Has joined Wolves on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 3949,
+    "transfers_out_event": 3955,
     "transfers_in": 23805,
-    "transfers_out": 52571,
+    "transfers_out": 52577,
     "cost_change_event": 0
   },
   {
@@ -18407,9 +18407,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 130,
+    "transfers_in_event": 131,
     "transfers_out_event": 499,
-    "transfers_in": 2570,
+    "transfers_in": 2571,
     "transfers_out": 7583,
     "cost_change_event": 0
   },
@@ -18440,10 +18440,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 7314,
-    "transfers_out_event": 5073,
-    "transfers_in": 151964,
-    "transfers_out": 71626,
+    "transfers_in_event": 7331,
+    "transfers_out_event": 5093,
+    "transfers_in": 151981,
+    "transfers_out": 71646,
     "cost_change_event": 0
   },
   {
@@ -18473,10 +18473,10 @@
     "last_season_starts": 0,
     "status": "i",
     "news": "Unspecified injury - Unknown return date",
-    "transfers_in_event": 264,
-    "transfers_out_event": 37994,
-    "transfers_in": 447886,
-    "transfers_out": 308044,
+    "transfers_in_event": 266,
+    "transfers_out_event": 38082,
+    "transfers_in": 447888,
+    "transfers_out": 308132,
     "cost_change_event": 0
   },
   {
@@ -18507,9 +18507,9 @@
     "status": "u",
     "news": "has joined Arouca on loan for the rest of the seaon.",
     "transfers_in_event": 0,
-    "transfers_out_event": 1882,
+    "transfers_out_event": 1885,
     "transfers_in": 18236,
-    "transfers_out": 15780,
+    "transfers_out": 15783,
     "cost_change_event": 0
   },
   {
@@ -18539,9 +18539,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2083,
+    "transfers_in_event": 2095,
     "transfers_out_event": 1442,
-    "transfers_in": 17154,
+    "transfers_in": 17166,
     "transfers_out": 6342,
     "cost_change_event": 0
   },
@@ -18572,10 +18572,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1424,
-    "transfers_out_event": 651,
-    "transfers_in": 4862,
-    "transfers_out": 1253,
+    "transfers_in_event": 1427,
+    "transfers_out_event": 652,
+    "transfers_in": 4865,
+    "transfers_out": 1254,
     "cost_change_event": 0
   },
   {
@@ -18638,10 +18638,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 9896,
-    "transfers_out_event": 1622,
-    "transfers_in": 9896,
-    "transfers_out": 1622,
+    "transfers_in_event": 9918,
+    "transfers_out_event": 1629,
+    "transfers_in": 9918,
+    "transfers_out": 1629,
     "cost_change_event": 0
   },
   {
@@ -18737,10 +18737,10 @@
     "last_season_starts": 12,
     "status": "a",
     "news": "",
-    "transfers_in_event": 25226,
-    "transfers_out_event": 29041,
-    "transfers_in": 312402,
-    "transfers_out": 82613,
+    "transfers_in_event": 25245,
+    "transfers_out_event": 29101,
+    "transfers_in": 312421,
+    "transfers_out": 82673,
     "cost_change_event": 1
   },
   {
@@ -18770,10 +18770,10 @@
     "last_season_starts": 29,
     "status": "a",
     "news": "",
-    "transfers_in_event": 7985,
-    "transfers_out_event": 30467,
-    "transfers_in": 158543,
-    "transfers_out": 484643,
+    "transfers_in_event": 8005,
+    "transfers_out_event": 30531,
+    "transfers_in": 158563,
+    "transfers_out": 484707,
     "cost_change_event": 0
   },
   {
@@ -18803,10 +18803,10 @@
     "last_season_starts": 30,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2042,
-    "transfers_out_event": 6206,
-    "transfers_in": 68295,
-    "transfers_out": 62268,
+    "transfers_in_event": 2048,
+    "transfers_out_event": 6227,
+    "transfers_in": 68301,
+    "transfers_out": 62289,
     "cost_change_event": 0
   },
   {
@@ -18836,9 +18836,9 @@
     "last_season_starts": 5,
     "status": "a",
     "news": "",
-    "transfers_in_event": 63,
+    "transfers_in_event": 64,
     "transfers_out_event": 157,
-    "transfers_in": 870,
+    "transfers_in": 871,
     "transfers_out": 2017,
     "cost_change_event": 0
   },
@@ -18869,10 +18869,10 @@
     "last_season_starts": 36,
     "status": "a",
     "news": "",
-    "transfers_in_event": 11265,
-    "transfers_out_event": 47506,
-    "transfers_in": 325751,
-    "transfers_out": 352764,
+    "transfers_in_event": 11302,
+    "transfers_out_event": 47638,
+    "transfers_in": 325788,
+    "transfers_out": 352896,
     "cost_change_event": 0
   },
   {
@@ -18936,9 +18936,9 @@
     "status": "i",
     "news": "Hamstring injury - Expected back 11 Oct",
     "transfers_in_event": 67,
-    "transfers_out_event": 12370,
+    "transfers_out_event": 12399,
     "transfers_in": 17999,
-    "transfers_out": 107527,
+    "transfers_out": 107556,
     "cost_change_event": -1
   },
   {
@@ -18968,10 +18968,10 @@
     "last_season_starts": 25,
     "status": "a",
     "news": "",
-    "transfers_in_event": 8647,
-    "transfers_out_event": 8302,
-    "transfers_in": 104144,
-    "transfers_out": 61563,
+    "transfers_in_event": 8681,
+    "transfers_out_event": 8329,
+    "transfers_in": 104178,
+    "transfers_out": 61590,
     "cost_change_event": 0
   },
   {
@@ -19001,10 +19001,10 @@
     "last_season_starts": 18,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1089,
-    "transfers_out_event": 20631,
-    "transfers_in": 69202,
-    "transfers_out": 170418,
+    "transfers_in_event": 1091,
+    "transfers_out_event": 20680,
+    "transfers_in": 69204,
+    "transfers_out": 170467,
     "cost_change_event": -1
   },
   {
@@ -19034,10 +19034,10 @@
     "last_season_starts": 6,
     "status": "a",
     "news": "",
-    "transfers_in_event": 264,
-    "transfers_out_event": 648,
-    "transfers_in": 9770,
-    "transfers_out": 13174,
+    "transfers_in_event": 265,
+    "transfers_out_event": 650,
+    "transfers_in": 9771,
+    "transfers_out": 13176,
     "cost_change_event": 0
   },
   {
@@ -19101,9 +19101,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 305,
-    "transfers_out_event": 744,
+    "transfers_out_event": 747,
     "transfers_in": 4005,
-    "transfers_out": 8295,
+    "transfers_out": 8298,
     "cost_change_event": 0
   },
   {
@@ -19134,9 +19134,9 @@
     "status": "u",
     "news": "Has joined Southampton on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 830,
+    "transfers_out_event": 831,
     "transfers_in": 2459,
-    "transfers_out": 13903,
+    "transfers_out": 13904,
     "cost_change_event": 0
   },
   {
@@ -19232,10 +19232,10 @@
     "last_season_starts": 35,
     "status": "a",
     "news": "",
-    "transfers_in_event": 67486,
-    "transfers_out_event": 83701,
-    "transfers_in": 1211168,
-    "transfers_out": 666395,
+    "transfers_in_event": 67693,
+    "transfers_out_event": 83957,
+    "transfers_in": 1211375,
+    "transfers_out": 666651,
     "cost_change_event": 0
   },
   {
@@ -19266,9 +19266,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 267,
-    "transfers_out_event": 1173,
+    "transfers_out_event": 1176,
     "transfers_in": 5278,
-    "transfers_out": 17573,
+    "transfers_out": 17576,
     "cost_change_event": 0
   },
   {
@@ -19299,9 +19299,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 778,
-    "transfers_out_event": 8181,
+    "transfers_out_event": 8195,
     "transfers_in": 72374,
-    "transfers_out": 49344,
+    "transfers_out": 49358,
     "cost_change_event": 0
   },
   {
@@ -19365,9 +19365,9 @@
     "status": "u",
     "news": "Has joined Lille on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 34,
+    "transfers_out_event": 35,
     "transfers_in": 107,
-    "transfers_out": 1176,
+    "transfers_out": 1177,
     "cost_change_event": 0
   },
   {
@@ -19397,10 +19397,10 @@
     "last_season_starts": 2,
     "status": "a",
     "news": "",
-    "transfers_in_event": 351,
-    "transfers_out_event": 921,
-    "transfers_in": 9996,
-    "transfers_out": 5967,
+    "transfers_in_event": 354,
+    "transfers_out_event": 922,
+    "transfers_in": 9999,
+    "transfers_out": 5968,
     "cost_change_event": 0
   },
   {
@@ -19442,7 +19442,7 @@
     "full_name": "Ibrahim Sangar\u00e9",
     "team": "Nott'm Forest",
     "position": "MID",
-    "price": 4.9,
+    "price": 4.8,
     "total_points": 4,
     "points_per_game": 1.3,
     "form": 0.7,
@@ -19463,11 +19463,11 @@
     "last_season_starts": 25,
     "status": "a",
     "news": "",
-    "transfers_in_event": 308,
-    "transfers_out_event": 3129,
-    "transfers_in": 9207,
-    "transfers_out": 68708,
-    "cost_change_event": 0
+    "transfers_in_event": 309,
+    "transfers_out_event": 3144,
+    "transfers_in": 9208,
+    "transfers_out": 68723,
+    "cost_change_event": -1
   },
   {
     "id": 489,
@@ -19497,9 +19497,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 602,
-    "transfers_out_event": 7459,
+    "transfers_out_event": 7479,
     "transfers_in": 30248,
-    "transfers_out": 93814,
+    "transfers_out": 93834,
     "cost_change_event": 0
   },
   {
@@ -19529,10 +19529,10 @@
     "last_season_starts": 11,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2067,
-    "transfers_out_event": 6602,
-    "transfers_in": 24646,
-    "transfers_out": 116449,
+    "transfers_in_event": 2073,
+    "transfers_out_event": 6618,
+    "transfers_in": 24652,
+    "transfers_out": 116465,
     "cost_change_event": 0
   },
   {
@@ -19562,10 +19562,10 @@
     "last_season_starts": 28,
     "status": "a",
     "news": "",
-    "transfers_in_event": 7501,
-    "transfers_out_event": 23462,
-    "transfers_in": 126501,
-    "transfers_out": 270807,
+    "transfers_in_event": 7525,
+    "transfers_out_event": 23505,
+    "transfers_in": 126525,
+    "transfers_out": 270850,
     "cost_change_event": 0
   },
   {
@@ -19629,9 +19629,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 225,
-    "transfers_out_event": 795,
+    "transfers_out_event": 797,
     "transfers_in": 5905,
-    "transfers_out": 5812,
+    "transfers_out": 5814,
     "cost_change_event": 0
   },
   {
@@ -19661,10 +19661,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1558,
-    "transfers_out_event": 2298,
-    "transfers_in": 13680,
-    "transfers_out": 41763,
+    "transfers_in_event": 1563,
+    "transfers_out_event": 2303,
+    "transfers_in": 13685,
+    "transfers_out": 41768,
     "cost_change_event": 0
   },
   {
@@ -19727,10 +19727,10 @@
     "last_season_starts": 36,
     "status": "d",
     "news": "Foot injury - 75% chance of playing",
-    "transfers_in_event": 18725,
-    "transfers_out_event": 31335,
-    "transfers_in": 154894,
-    "transfers_out": 476730,
+    "transfers_in_event": 18754,
+    "transfers_out_event": 31573,
+    "transfers_in": 154923,
+    "transfers_out": 476968,
     "cost_change_event": 0
   },
   {
@@ -19761,9 +19761,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 106,
-    "transfers_out_event": 570,
+    "transfers_out_event": 572,
     "transfers_in": 1998,
-    "transfers_out": 7922,
+    "transfers_out": 7924,
     "cost_change_event": 0
   },
   {
@@ -19793,10 +19793,10 @@
     "last_season_starts": 8,
     "status": "a",
     "news": "",
-    "transfers_in_event": 12021,
-    "transfers_out_event": 21971,
-    "transfers_in": 234500,
-    "transfers_out": 163104,
+    "transfers_in_event": 12081,
+    "transfers_out_event": 22031,
+    "transfers_in": 234560,
+    "transfers_out": 163164,
     "cost_change_event": 0
   },
   {
@@ -19826,10 +19826,10 @@
     "last_season_starts": 7,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2987,
-    "transfers_out_event": 6989,
-    "transfers_in": 99899,
-    "transfers_out": 79752,
+    "transfers_in_event": 3000,
+    "transfers_out_event": 7012,
+    "transfers_in": 99912,
+    "transfers_out": 79775,
     "cost_change_event": 0
   },
   {
@@ -19859,10 +19859,10 @@
     "last_season_starts": 31,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2352,
-    "transfers_out_event": 15271,
-    "transfers_in": 47941,
-    "transfers_out": 269878,
+    "transfers_in_event": 2358,
+    "transfers_out_event": 15300,
+    "transfers_in": 47947,
+    "transfers_out": 269907,
     "cost_change_event": -1
   },
   {
@@ -19925,10 +19925,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1959,
-    "transfers_out_event": 2202,
-    "transfers_in": 29610,
-    "transfers_out": 21887,
+    "transfers_in_event": 1962,
+    "transfers_out_event": 2207,
+    "transfers_in": 29613,
+    "transfers_out": 21892,
     "cost_change_event": 0
   },
   {
@@ -19958,10 +19958,10 @@
     "last_season_starts": 7,
     "status": "a",
     "news": "",
-    "transfers_in_event": 18475,
-    "transfers_out_event": 112490,
-    "transfers_in": 347629,
-    "transfers_out": 794717,
+    "transfers_in_event": 18561,
+    "transfers_out_event": 112749,
+    "transfers_in": 347715,
+    "transfers_out": 794976,
     "cost_change_event": 0
   },
   {
@@ -19991,10 +19991,10 @@
     "last_season_starts": 35,
     "status": "a",
     "news": "",
-    "transfers_in_event": 27092,
-    "transfers_out_event": 48877,
-    "transfers_in": 397731,
-    "transfers_out": 441527,
+    "transfers_in_event": 27173,
+    "transfers_out_event": 49020,
+    "transfers_in": 397812,
+    "transfers_out": 441670,
     "cost_change_event": 0
   },
   {
@@ -20024,10 +20024,10 @@
     "last_season_starts": 37,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1230,
-    "transfers_out_event": 21855,
-    "transfers_in": 29374,
-    "transfers_out": 458318,
+    "transfers_in_event": 1233,
+    "transfers_out_event": 21901,
+    "transfers_in": 29377,
+    "transfers_out": 458364,
     "cost_change_event": 0
   },
   {
@@ -20057,10 +20057,10 @@
     "last_season_starts": 32,
     "status": "d",
     "news": "Hamstring injury - 75% chance of playing",
-    "transfers_in_event": 1719,
-    "transfers_out_event": 76259,
-    "transfers_in": 124493,
-    "transfers_out": 994007,
+    "transfers_in_event": 1722,
+    "transfers_out_event": 76408,
+    "transfers_in": 124496,
+    "transfers_out": 994156,
     "cost_change_event": 0
   },
   {
@@ -20091,9 +20091,9 @@
     "status": "u",
     "news": "Has joined Atletico Madrid permanently",
     "transfers_in_event": 0,
-    "transfers_out_event": 301,
+    "transfers_out_event": 302,
     "transfers_in": 0,
-    "transfers_out": 16815,
+    "transfers_out": 16816,
     "cost_change_event": 0
   },
   {
@@ -20123,10 +20123,10 @@
     "last_season_starts": 11,
     "status": "a",
     "news": "",
-    "transfers_in_event": 5713,
-    "transfers_out_event": 13015,
-    "transfers_in": 67385,
-    "transfers_out": 183691,
+    "transfers_in_event": 5736,
+    "transfers_out_event": 13059,
+    "transfers_in": 67408,
+    "transfers_out": 183735,
     "cost_change_event": 0
   },
   {
@@ -20156,10 +20156,10 @@
     "last_season_starts": 35,
     "status": "a",
     "news": "",
-    "transfers_in_event": 6013,
-    "transfers_out_event": 20054,
-    "transfers_in": 94469,
-    "transfers_out": 267295,
+    "transfers_in_event": 6026,
+    "transfers_out_event": 20102,
+    "transfers_in": 94482,
+    "transfers_out": 267343,
     "cost_change_event": 0
   },
   {
@@ -20190,9 +20190,9 @@
     "status": "u",
     "news": "Has joined Internazionale permanently",
     "transfers_in_event": 0,
-    "transfers_out_event": 1224,
+    "transfers_out_event": 1226,
     "transfers_in": 0,
-    "transfers_out": 69310,
+    "transfers_out": 69312,
     "cost_change_event": 0
   },
   {
@@ -20222,10 +20222,10 @@
     "last_season_starts": 14,
     "status": "a",
     "news": "",
-    "transfers_in_event": 347,
-    "transfers_out_event": 1640,
-    "transfers_in": 5586,
-    "transfers_out": 22470,
+    "transfers_in_event": 348,
+    "transfers_out_event": 1643,
+    "transfers_in": 5587,
+    "transfers_out": 22473,
     "cost_change_event": 0
   },
   {
@@ -20288,10 +20288,10 @@
     "last_season_starts": 2,
     "status": "a",
     "news": "",
-    "transfers_in_event": 7578,
-    "transfers_out_event": 3977,
-    "transfers_in": 19374,
-    "transfers_out": 41420,
+    "transfers_in_event": 7596,
+    "transfers_out_event": 3982,
+    "transfers_in": 19392,
+    "transfers_out": 41425,
     "cost_change_event": -1
   },
   {
@@ -20354,9 +20354,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 158,
+    "transfers_in_event": 160,
     "transfers_out_event": 342,
-    "transfers_in": 2887,
+    "transfers_in": 2889,
     "transfers_out": 3470,
     "cost_change_event": 0
   },
@@ -20420,9 +20420,9 @@
     "last_season_starts": 19,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2322,
+    "transfers_in_event": 2323,
     "transfers_out_event": 1165,
-    "transfers_in": 13116,
+    "transfers_in": 13117,
     "transfers_out": 11120,
     "cost_change_event": 0
   },
@@ -20486,10 +20486,10 @@
     "last_season_starts": 13,
     "status": "a",
     "news": "",
-    "transfers_in_event": 202,
-    "transfers_out_event": 1986,
-    "transfers_in": 9134,
-    "transfers_out": 46803,
+    "transfers_in_event": 203,
+    "transfers_out_event": 1990,
+    "transfers_in": 9135,
+    "transfers_out": 46807,
     "cost_change_event": -1
   },
   {
@@ -20519,10 +20519,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 770,
-    "transfers_out_event": 1999,
-    "transfers_in": 5819,
-    "transfers_out": 96252,
+    "transfers_in_event": 773,
+    "transfers_out_event": 2000,
+    "transfers_in": 5822,
+    "transfers_out": 96253,
     "cost_change_event": 0
   },
   {
@@ -20553,9 +20553,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 400,
-    "transfers_out_event": 742,
+    "transfers_out_event": 746,
     "transfers_in": 5164,
-    "transfers_out": 8399,
+    "transfers_out": 8403,
     "cost_change_event": 0
   },
   {
@@ -20619,9 +20619,9 @@
     "status": "u",
     "news": "Has joined Juventus on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 687,
+    "transfers_out_event": 688,
     "transfers_in": 4138,
-    "transfers_out": 23754,
+    "transfers_out": 23755,
     "cost_change_event": 0
   },
   {
@@ -20651,9 +20651,9 @@
     "last_season_starts": 14,
     "status": "a",
     "news": "",
-    "transfers_in_event": 822,
+    "transfers_in_event": 823,
     "transfers_out_event": 671,
-    "transfers_in": 4678,
+    "transfers_in": 4679,
     "transfers_out": 17059,
     "cost_change_event": 0
   },
@@ -20718,9 +20718,9 @@
     "status": "i",
     "news": "Knee injury - Unknown return date",
     "transfers_in_event": 98,
-    "transfers_out_event": 74,
+    "transfers_out_event": 75,
     "transfers_in": 404,
-    "transfers_out": 739,
+    "transfers_out": 740,
     "cost_change_event": 0
   },
   {
@@ -20751,9 +20751,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 469,
-    "transfers_out_event": 1234,
+    "transfers_out_event": 1237,
     "transfers_in": 6846,
-    "transfers_out": 13405,
+    "transfers_out": 13408,
     "cost_change_event": 0
   },
   {
@@ -20784,9 +20784,9 @@
     "status": "u",
     "news": "Has joined FC K\u00f6ln on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 548,
+    "transfers_out_event": 549,
     "transfers_in": 3258,
-    "transfers_out": 17033,
+    "transfers_out": 17034,
     "cost_change_event": 0
   },
   {
@@ -20816,10 +20816,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 6132,
-    "transfers_out_event": 7706,
-    "transfers_in": 55748,
-    "transfers_out": 49551,
+    "transfers_in_event": 6133,
+    "transfers_out_event": 7723,
+    "transfers_in": 55749,
+    "transfers_out": 49568,
     "cost_change_event": 0
   },
   {
@@ -20849,10 +20849,10 @@
     "last_season_starts": 35,
     "status": "a",
     "news": "",
-    "transfers_in_event": 480,
-    "transfers_out_event": 6771,
-    "transfers_in": 14461,
-    "transfers_out": 124858,
+    "transfers_in_event": 482,
+    "transfers_out_event": 6783,
+    "transfers_in": 14463,
+    "transfers_out": 124870,
     "cost_change_event": -1
   },
   {
@@ -20882,10 +20882,10 @@
     "last_season_starts": 11,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2002,
-    "transfers_out_event": 5798,
-    "transfers_in": 29549,
-    "transfers_out": 94849,
+    "transfers_in_event": 2010,
+    "transfers_out_event": 5808,
+    "transfers_in": 29557,
+    "transfers_out": 94859,
     "cost_change_event": 0
   },
   {
@@ -20916,9 +20916,9 @@
     "status": "u",
     "news": "not included in squad.",
     "transfers_in_event": 0,
-    "transfers_out_event": 5867,
+    "transfers_out_event": 5880,
     "transfers_in": 21439,
-    "transfers_out": 268350,
+    "transfers_out": 268363,
     "cost_change_event": 0
   },
   {
@@ -20949,9 +20949,9 @@
     "status": "u",
     "news": "Has joined Leyton Orient permanently",
     "transfers_in_event": 0,
-    "transfers_out_event": 8171,
+    "transfers_out_event": 8183,
     "transfers_in": 42525,
-    "transfers_out": 109738,
+    "transfers_out": 109750,
     "cost_change_event": 0
   },
   {
@@ -20982,9 +20982,9 @@
     "status": "i",
     "news": "Ankle injury - Unknown return date",
     "transfers_in_event": 20,
-    "transfers_out_event": 568,
+    "transfers_out_event": 571,
     "transfers_in": 5440,
-    "transfers_out": 7616,
+    "transfers_out": 7619,
     "cost_change_event": -1
   },
   {
@@ -21048,9 +21048,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 1180,
-    "transfers_out_event": 854,
+    "transfers_out_event": 855,
     "transfers_in": 6605,
-    "transfers_out": 9891,
+    "transfers_out": 9892,
     "cost_change_event": 0
   },
   {
@@ -21080,10 +21080,10 @@
     "last_season_starts": 35,
     "status": "a",
     "news": "",
-    "transfers_in_event": 2084,
-    "transfers_out_event": 11828,
-    "transfers_in": 21933,
-    "transfers_out": 177953,
+    "transfers_in_event": 2088,
+    "transfers_out_event": 11854,
+    "transfers_in": 21937,
+    "transfers_out": 177979,
     "cost_change_event": 0
   },
   {
@@ -21146,10 +21146,10 @@
     "last_season_starts": 3,
     "status": "a",
     "news": "",
-    "transfers_in_event": 139,
-    "transfers_out_event": 259,
-    "transfers_in": 1178,
-    "transfers_out": 3340,
+    "transfers_in_event": 140,
+    "transfers_out_event": 260,
+    "transfers_in": 1179,
+    "transfers_out": 3341,
     "cost_change_event": -1
   },
   {
@@ -21179,10 +21179,10 @@
     "last_season_starts": 24,
     "status": "d",
     "news": "Hamstring injury - 75% chance of playing",
-    "transfers_in_event": 3610,
-    "transfers_out_event": 17651,
-    "transfers_in": 45509,
-    "transfers_out": 318219,
+    "transfers_in_event": 3612,
+    "transfers_out_event": 17723,
+    "transfers_in": 45511,
+    "transfers_out": 318291,
     "cost_change_event": 0
   },
   {
@@ -21212,10 +21212,10 @@
     "last_season_starts": 32,
     "status": "a",
     "news": "",
-    "transfers_in_event": 5238,
-    "transfers_out_event": 8962,
-    "transfers_in": 44569,
-    "transfers_out": 130067,
+    "transfers_in_event": 5247,
+    "transfers_out_event": 8990,
+    "transfers_in": 44578,
+    "transfers_out": 130095,
     "cost_change_event": 0
   },
   {
@@ -21245,10 +21245,10 @@
     "last_season_starts": 34,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1244,
-    "transfers_out_event": 30090,
-    "transfers_in": 37870,
-    "transfers_out": 397765,
+    "transfers_in_event": 1245,
+    "transfers_out_event": 30161,
+    "transfers_in": 37871,
+    "transfers_out": 397836,
     "cost_change_event": -1
   },
   {
@@ -21278,10 +21278,10 @@
     "last_season_starts": 32,
     "status": "a",
     "news": "",
-    "transfers_in_event": 224,
-    "transfers_out_event": 1081,
-    "transfers_in": 4978,
-    "transfers_out": 27357,
+    "transfers_in_event": 225,
+    "transfers_out_event": 1084,
+    "transfers_in": 4979,
+    "transfers_out": 27360,
     "cost_change_event": -1
   },
   {
@@ -21311,10 +21311,10 @@
     "last_season_starts": 23,
     "status": "a",
     "news": "",
-    "transfers_in_event": 210,
-    "transfers_out_event": 1580,
-    "transfers_in": 4073,
-    "transfers_out": 24380,
+    "transfers_in_event": 212,
+    "transfers_out_event": 1583,
+    "transfers_in": 4075,
+    "transfers_out": 24383,
     "cost_change_event": -1
   },
   {
@@ -21345,9 +21345,9 @@
     "status": "u",
     "news": "Has joined Swansea City on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 22,
+    "transfers_out_event": 23,
     "transfers_in": 61,
-    "transfers_out": 664,
+    "transfers_out": 665,
     "cost_change_event": 0
   },
   {
@@ -21410,10 +21410,10 @@
     "last_season_starts": 5,
     "status": "a",
     "news": "",
-    "transfers_in_event": 18013,
-    "transfers_out_event": 11860,
-    "transfers_in": 32756,
-    "transfers_out": 121760,
+    "transfers_in_event": 18048,
+    "transfers_out_event": 11896,
+    "transfers_in": 32791,
+    "transfers_out": 121796,
     "cost_change_event": -1
   },
   {
@@ -21444,9 +21444,9 @@
     "status": "u",
     "news": "Has joined Konyaspor permanently",
     "transfers_in_event": 0,
-    "transfers_out_event": 642,
+    "transfers_out_event": 643,
     "transfers_in": 0,
-    "transfers_out": 11575,
+    "transfers_out": 11576,
     "cost_change_event": 0
   },
   {
@@ -21476,10 +21476,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 1672,
-    "transfers_out_event": 903,
-    "transfers_in": 7073,
-    "transfers_out": 9655,
+    "transfers_in_event": 1675,
+    "transfers_out_event": 907,
+    "transfers_in": 7076,
+    "transfers_out": 9659,
     "cost_change_event": 0
   },
   {
@@ -21509,10 +21509,10 @@
     "last_season_starts": 33,
     "status": "a",
     "news": "",
-    "transfers_in_event": 11671,
-    "transfers_out_event": 24409,
-    "transfers_in": 45243,
-    "transfers_out": 650984,
+    "transfers_in_event": 11709,
+    "transfers_out_event": 24490,
+    "transfers_in": 45281,
+    "transfers_out": 651065,
     "cost_change_event": -1
   },
   {
@@ -21575,10 +21575,10 @@
     "last_season_starts": 32,
     "status": "a",
     "news": "",
-    "transfers_in_event": 6365,
-    "transfers_out_event": 23596,
-    "transfers_in": 130897,
-    "transfers_out": 208685,
+    "transfers_in_event": 6379,
+    "transfers_out_event": 23655,
+    "transfers_in": 130911,
+    "transfers_out": 208744,
     "cost_change_event": 0
   },
   {
@@ -21608,10 +21608,10 @@
     "last_season_starts": 33,
     "status": "a",
     "news": "",
-    "transfers_in_event": 412,
-    "transfers_out_event": 1376,
-    "transfers_in": 5725,
-    "transfers_out": 18401,
+    "transfers_in_event": 414,
+    "transfers_out_event": 1378,
+    "transfers_in": 5727,
+    "transfers_out": 18403,
     "cost_change_event": 0
   },
   {
@@ -21642,9 +21642,9 @@
     "status": "u",
     "news": "Has joined Ajax on loan for the rest of the season",
     "transfers_in_event": 0,
-    "transfers_out_event": 190,
+    "transfers_out_event": 191,
     "transfers_in": 240,
-    "transfers_out": 7418,
+    "transfers_out": 7419,
     "cost_change_event": 0
   },
   {
@@ -21708,9 +21708,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 32,
-    "transfers_out_event": 235,
+    "transfers_out_event": 236,
     "transfers_in": 469,
-    "transfers_out": 2855,
+    "transfers_out": 2856,
     "cost_change_event": 0
   },
   {
@@ -21741,9 +21741,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 112,
-    "transfers_out_event": 578,
+    "transfers_out_event": 580,
     "transfers_in": 1345,
-    "transfers_out": 11798,
+    "transfers_out": 11800,
     "cost_change_event": 0
   },
   {
@@ -21773,9 +21773,9 @@
     "last_season_starts": 1,
     "status": "a",
     "news": "",
-    "transfers_in_event": 32,
+    "transfers_in_event": 33,
     "transfers_out_event": 44,
-    "transfers_in": 306,
+    "transfers_in": 307,
     "transfers_out": 425,
     "cost_change_event": 0
   },
@@ -21806,10 +21806,10 @@
     "last_season_starts": 5,
     "status": "a",
     "news": "",
-    "transfers_in_event": 522,
-    "transfers_out_event": 795,
-    "transfers_in": 12801,
-    "transfers_out": 10583,
+    "transfers_in_event": 523,
+    "transfers_out_event": 796,
+    "transfers_in": 12802,
+    "transfers_out": 10584,
     "cost_change_event": 0
   },
   {
@@ -21839,10 +21839,10 @@
     "last_season_starts": 22,
     "status": "d",
     "news": "Hamstring injury - 75% chance of playing",
-    "transfers_in_event": 195700,
-    "transfers_out_event": 47503,
-    "transfers_in": 287158,
-    "transfers_out": 933675,
+    "transfers_in_event": 195793,
+    "transfers_out_event": 47733,
+    "transfers_in": 287251,
+    "transfers_out": 933905,
     "cost_change_event": -1
   },
   {
@@ -21872,10 +21872,10 @@
     "last_season_starts": 11,
     "status": "a",
     "news": "",
-    "transfers_in_event": 3400,
-    "transfers_out_event": 11727,
-    "transfers_in": 95702,
-    "transfers_out": 86881,
+    "transfers_in_event": 3408,
+    "transfers_out_event": 11750,
+    "transfers_in": 95710,
+    "transfers_out": 86904,
     "cost_change_event": 0
   },
   {
@@ -21905,9 +21905,9 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 116,
+    "transfers_in_event": 118,
     "transfers_out_event": 69,
-    "transfers_in": 905,
+    "transfers_in": 907,
     "transfers_out": 495,
     "cost_change_event": 0
   },
@@ -21939,9 +21939,9 @@
     "status": "a",
     "news": "",
     "transfers_in_event": 602,
-    "transfers_out_event": 1624,
+    "transfers_out_event": 1626,
     "transfers_in": 25397,
-    "transfers_out": 14322,
+    "transfers_out": 14324,
     "cost_change_event": 0
   },
   {
@@ -22004,10 +22004,10 @@
     "last_season_starts": 0,
     "status": "a",
     "news": "",
-    "transfers_in_event": 8975,
-    "transfers_out_event": 7376,
-    "transfers_in": 90843,
-    "transfers_out": 30391,
+    "transfers_in_event": 8994,
+    "transfers_out_event": 7388,
+    "transfers_in": 90862,
+    "transfers_out": 30403,
     "cost_change_event": 0
   }
 ]
