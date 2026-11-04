@@ -1079,13 +1079,6 @@
   },
   {
     "event": 16,
-    "team_h": 18,
-    "team_a": 9,
-    "kickoff_time": "2026-12-19T15:00:00Z",
-    "finished": false
-  },
-  {
-    "event": 16,
     "team_h": 14,
     "team_a": 19,
     "kickoff_time": "2026-12-19T17:30:00Z",
@@ -1095,6 +1088,13 @@
     "event": 16,
     "team_h": 5,
     "team_a": 12,
+    "kickoff_time": "2026-12-20T14:00:00Z",
+    "finished": false
+  },
+  {
+    "event": 16,
+    "team_h": 18,
+    "team_a": 9,
     "kickoff_time": "2026-12-20T14:00:00Z",
     "finished": false
   },
